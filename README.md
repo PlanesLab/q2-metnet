@@ -10,7 +10,7 @@ You can install this plugin by cloning this repo and installing manually.
 To clone:
 
 ```
-[git clone https://github.com/francesco-balzerani/q2-metnet.git](https://github.com/PlanesLab/q2-metnet.git)
+git clone https://github.com/PlanesLab/q2-metnet.git
 ```
 
 Before installing, please unzip the data folder within the q2_metnet folder:
