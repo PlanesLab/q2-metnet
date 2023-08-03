@@ -16,8 +16,7 @@ setup(
     },
     zip_safe=False,
     package_data={
-	'q2_metnet': ["citations.bib"],
-    'q2_metnet': ["data/*/*"],
+	'q2_metnet': ["data/*/*"],
 	'q2_metnet': ['_clustermap/assets/index.html'],
 	'q2_metnet': ['_pca/assets/index.html'],
     'q2_metnet': ['_boxplot/assets/index.html'],
