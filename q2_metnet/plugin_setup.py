@@ -10,8 +10,7 @@ from q2_metnet._clustermap import plotClusteMap, clustermap_choices
 from q2_metnet._pca import plotPCA, pca_choices
 from q2_metnet._boxplot import plotBoxplot
 
-cites = qiime2.plugin.Citations.load('citations.bib',
-    package='q2_metnet')
+# cites = qiime2.plugin.Citations.load('citations.bib', package='q2_metnet')
 
 plugin = qiime2.plugin.Plugin(
     name='metnet',
