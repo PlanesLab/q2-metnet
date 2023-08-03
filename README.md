@@ -16,7 +16,7 @@ git clone https://github.com/francesco-balzerani/q2-metnet.git
 Before installing, please unzip the data folder within the q2_metnet folder:
 
 ```
-cd q2_metnet
+cd q2-metnet/q2_metnet
 unzip data.zip
 rm data.zip
 cd ..
