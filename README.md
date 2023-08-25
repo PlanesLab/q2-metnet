@@ -16,7 +16,7 @@ Once you create the environment, you can install this plugin by cloning this rep
 To clone:
 
 ```
-git clone https://github.com/francesco-balzerani/q2-metnet.git
+git clone https://github.com/PlanesLab/q2-metnet.git
 ```
 
 Before installing, please unzip the data folder within the q2_metnet folder:
