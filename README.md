@@ -5,18 +5,24 @@ Read more about the method in our [paper] .
 
 # Installing
 
-You can install this plugin by cloning this repo and installing manually.
+In order to use the plugin, it is mandatory to install the platform as an environment of Anaconda. To generate the environment, please follow the guide at the following link:
+
+```
+https://educe-ubc.github.io/qiime2.html
+```
+
+Once you create the environment, you can install this plugin by cloning this repo and installing manually.
 
 To clone:
 
 ```
-git clone https://github.com/PlanesLab/q2-metnet.git
+git clone https://github.com/francesco-balzerani/q2-metnet.git
 ```
 
 Before installing, please unzip the data folder within the q2_metnet folder:
 
 ```
-cd q2-metnet/q2_metnet
+cd q2_metnet
 unzip data.zip
 rm data.zip
 cd ..
@@ -181,3 +187,5 @@ qiime metnet plotBoxplot \
 	--p-namefeature 'nameExchange' \
 	--o-visualization ../boxplot.qzv
 ```
+
+## Test files and application
