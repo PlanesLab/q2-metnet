@@ -8,7 +8,7 @@ Read more about the method in our [paper] .
 In order to use the plugin, it is mandatory to install the platform as an environment of Anaconda. To generate the environment, please follow the guide at the following link:
 
 ```
-https://educe-ubc.github.io/qiime2.html
+https://docs.qiime2.org/2023.7/install/native/#install-qiime-2-within-a-conda-environment
 ```
 
 Once you create the environment, you can install this plugin by cloning this repo and installing manually.
