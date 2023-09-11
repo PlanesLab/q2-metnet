@@ -50,6 +50,7 @@ There are available four methods in this plugin:
 - `differentialReactions`, which computes a differential activity analysis about any kind of reaction for the different conditions under analysis;
 - `differentialExchanges`, which computes a differential activity analysis about exchange reactions for the different conditions under analysis;
 - `differentialSubSystems`, which computes a differential activity analysis about subsystems for the different conditions under analysis;
+- `differentialClasses`, which computes a differential activity analysis about classes of exchanges for the different conditions under analysis;
 - `plotClusteMap`, which permits to visualize different samples by a hierarchically-clustered heatmap;
 - `plotPCA`, which allows to visualize different samples by conducting a Principal Component Analysis;
 - `plotBoxplot`, which generates boxplot of both reaction or subsystem scores to visualize differences between conditions.
@@ -69,7 +70,7 @@ Otherwise, follow the instructions on the QIIME 2 webpage to use your own tab-de
 ## Generate the normalized scores tables
 
 You then run the `generateFeatures` script from the `metnet` qiime plugin. The `AGREDA` and `s` parameter of `--p-selection` and `--p-level` are the default parameters.
-The parameter `--p-selection` can be chosen among `AGREDA` (default), `AGORAv103` and `AGORAv201`.
+The parameter `--p-selection` can be chosen between `AGREDA` (default) and `AGORAv103`.
 The parameter `--p-level` correspond to the taxonomic depth, ranging from kingdom (`k`) to species (`s`, default).
 
 ```
@@ -87,7 +88,7 @@ qiime metnet generateFeatures \
 You then run the `differentialExchanges` script from the `metnet` qiime plugin.
 The parameter `--p-condition-name` represents the category of the samples related to the condition state in the metadata column.
 The parameter `--p-control-name` represents the category of the samples related to the control state in the metadata column.
-The parameter `--p-selection-model` corresponds to the same metabolic reconstruction used in the table generation (`AGREDA` (default), `AGORAv103`, `AGORAv201`).
+The parameter `--p-selection-model` corresponds to the same metabolic reconstruction used in the table generation (`AGREDA` (default), `AGORAv103`).
 The parameter `--p-input-interest` defines if the focus is just on those exchange that can be input (and may be output as well) or just output (default = True).
 
 ```
@@ -107,7 +108,7 @@ qiime metnet differentialExchanges \
 You then run the `differentialReactions` script from the `metnet` qiime plugin.
 The parameter `--p-condition-name` represents the category of the samples related to the condition state in the metadata column.
 The parameter `--p-control-name` represents the category of the samples related to the control state in the metadata column.
-The parameter `--p-selection-model` corresponde to the same metabolic reconstruction used in the table generation (`AGREDA` (default), `AGORAv103`, `AGORAv201`).
+The parameter `--p-selection-model` corresponde to the same metabolic reconstruction used in the table generation (`AGREDA` (default), `AGORAv103`).
 
 ```
 qiime metnet differentialReactions \
