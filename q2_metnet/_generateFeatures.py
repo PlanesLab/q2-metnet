@@ -12,7 +12,7 @@ def _reactionsBetweenSamples(Samples, PresentTaxa, Frequency, Model, rxnTax):
     count_rxns = pd.DataFrame(index = Model.rxnID, columns = Frequency.ID.values)
     n_asv = 0
     for keys, values in PresentTaxa.items():
-        print("Calculate Reaction scores, ASV: %d/%d" % (n_asv,len(PresentTaxa.keys())-1))
+        print("Calculating Reaction scores, ASV: %d/%d" % (n_asv,len(PresentTaxa.keys())-1))
         n_asv += 1
         tmp =rxnTax.iloc[:,[x-1 for x in values["TAXA"].index.values]]
         count_rxns.loc[:,keys] = tmp.T.mean().values
@@ -44,7 +44,7 @@ def _subsystemsBetweenSamples(Reactions, Model):
     sub_rxns = pd.DataFrame(index = all_sub, columns = Reactions.index)
 
     for x in range(len(Model.rxnID)):
-        print("Calculate Subsystem scores, Reaction: %d/%d" % (x,len(Model.rxnID)-1))
+        print("Calculating Subsystem scores, Reaction: %d/%d" % (x,len(Model.rxnID)-1))
         tmp = Model.subSystems[x]
         try:
             tmp = tmp.split(";")
@@ -62,7 +62,7 @@ def _subsystemsBetweenSamples(Reactions, Model):
     return SubSystems_Sample
 
 def _subclassesBetweenSamples(Reactions, class_exchange, selection, input_interest):
-    
+
     if input_interest:
         if selection == "AGREDA":
             stream = pkg_resources.resource_stream(__name__, 'data/AGREDA/AGREDA_Input_reactions.tsv')
@@ -72,12 +72,12 @@ def _subclassesBetweenSamples(Reactions, class_exchange, selection, input_intere
             raise ValueError("Select a valid metabolic reconstruction among: AGREDA, AGORAv103")
         
         inputs = pd.read_csv(stream, sep = "\t", encoding = "ISO-8859-1")
-        class_exchange = class_exchange.loc[inputs.inputs,:]
+        class_exchange = class_exchange.loc[class_exchange.rxnID.isin(inputs.inputs),:]
             
     sub_ex = pd.DataFrame(columns = class_exchange.rxnID, index = class_exchange.Class.drop_duplicates())
 
     for each_ex in sub_ex.columns:
-        print("Calculate Classes scores, Reaction: %d/%d" % (x,len(Model.rxnID)-1))
+        print("Calculating Classes scores, Exchange: %d/%d" % (list(sub_ex.columns.values).index(each_ex),len(sub_ex.columns)-1))
         sub_class = class_exchange.loc[class_exchange.rxnID.isin([each_ex]),'Class'].values[0]
         sub_ex.loc[sub_class,each_ex] = 1
 
