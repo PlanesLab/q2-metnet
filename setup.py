@@ -17,7 +17,7 @@ setup(
     zip_safe=False,
     package_data={
 	'': ["data/*/*"],
-	'q2_metnet': ['_clustermap/assets/index.html'],
+	'': ['_clustermap/assets/index.html'],
 	'q2_metnet': ['_pca/assets/index.html'],
     'q2_metnet': ['_boxplot/assets/index.html'],
     }
