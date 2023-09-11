@@ -5,7 +5,7 @@ from q2_types.feature_data import FeatureData, Taxonomy
 
 import q2_metnet
 from q2_metnet._generateFeatures import generateFeatures
-from q2_metnet._functional_analysis import differentialSubSystems, differentialReactions, differentialExchanges
+from q2_metnet._functional_analysis import differentialSubSystems, differentialReactions, differentialExchanges, differentialClasses
 from q2_metnet._clustermap import plotClusteMap, clustermap_choices
 from q2_metnet._pca import plotPCA, pca_choices
 from q2_metnet._boxplot import plotBoxplot
@@ -30,18 +30,22 @@ plugin.methods.register_function(
             'taxa': FeatureData[Taxonomy]
     },
     outputs=[('reactions', FeatureTable[Frequency]),
-             ('subsystems', FeatureTable[Frequency])
+             ('subsystems', FeatureTable[Frequency]),
+             ('classes', FeatureTable[Frequency])
              ],
     input_descriptions={'frequency': 'table of frequency',
         'taxa': 'table of assigned taxonomy'
     },
     parameters={'selection': Str,
-                'level': Str},
+                'level': Str,
+                'input_interest':Bool},
     output_descriptions={'reactions': 'Reaction scores based on the samples and the taxonomy present in the selected reconstruction',
-                         'subsystems': 'Subsystem scores based on the samples and the taxonomy present in the selected reconstruction'
+                         'subsystems': 'Subsystem scores based on the samples and the taxonomy present in the selected reconstruction',
+                         'classes': 'Class exchange scores based on the samples and the taxonomy present in the selected reconstruction'
                          },
-    parameter_descriptions={'selection': 'selection metabolic network among AGREDA, AGORAv103, AGORAv201',
-                            'level': 'taxonomical level of interest: k (kingdom), p (phylum), c (class), o (order), f (family), g (genus), s (species, default)'},
+    parameter_descriptions={'selection': 'selection metabolic network among AGREDA, AGORAv103',
+                            'level': 'taxonomical level of interest: k (kingdom), p (phylum), c (class), o (order), f (family), g (genus), s (species, default)',
+                            'input_interest':'Boolean to define if focus on the exchanges that can be input (True, default) or all of them (False)'},
     name='Reactions and subsystems features extraction',
     description='Extraction of the score related to each reaction and subsystem present in the metabolic reconstruction considering the taxonomy included in the samples'
 )
@@ -77,7 +81,7 @@ plugin.methods.register_function(
     parameter_descriptions={'metadata': 'list of the condition states',
                             'condition_name': 'name of the condition category under analysis, taken from the metadata file',
                             'control_name': 'name of the control category under analysis, taken from the metadata file',
-                            'selection_model': 'selection of the metabolic reconstruction among AGREDA, AGORAv103, AGORAv201'},
+                            'selection_model': 'selection of the metabolic reconstruction among AGREDA, AGORAv103'},
     name='Differential score analysis of the subsystems',
     description='Differential score analysis of the subsystems'
 )
@@ -97,10 +101,27 @@ plugin.methods.register_function(
     parameter_descriptions={'metadata': 'list of the condition states',
                             'condition_name': 'name of the condition category under analysis, taken from the metadata file',
                             'control_name': 'name of the control category under analysis, taken from the metadata file',
-                            'selection_model': 'selection of the metabolic reconstruction among AGREDA, AGORAv103, AGORAv201',
+                            'selection_model': 'selection of the metabolic reconstruction among AGREDA, AGORAv103',
                             'input_interest': 'Boolean to define if focus on the exchanges that can be input (True, default) or all of them (False)'},
     name='Differential score analysis of the subsystems',
     description='Differential score analysis of the subsystems'
+)
+
+# Register differentialClasses function
+plugin.methods.register_function(
+    function=differentialClasses,
+    inputs={'classes': FeatureTable[Frequency]},
+    outputs=[('differential_analysis', FeatureTable[Frequency])],
+    input_descriptions={'classes': 'table of frequency'},
+    parameters={'metadata': MetadataColumn[Categorical],
+                'condition_name': Str,
+                'control_name': Str},
+    output_descriptions={'differential_analysis': 'Differential analysis of the classes of exchanges (or inputs) scores'},
+    parameter_descriptions={'metadata': 'list of the condition states',
+                            'condition_name': 'name of the condition category under analysis, taken from the metadata file',
+                            'control_name': 'name of the control category under analysis, taken from the metadata file'},
+    name='Differential score analysis of the classes of exchanges (or inputs)',
+    description='Differential score analysis of exchanges (or inputs)'
 )
 
 # Register visualizer for the clustermap
