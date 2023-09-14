@@ -61,7 +61,7 @@ def _subsystemsBetweenSamples(Reactions, Model):
     
     return SubSystems_Sample
 
-def _subclassesBetweenSamples(Reactions, class_exchange, selection, input_interest):
+def _classesBetweenSamples(Reactions, class_exchange, selection, input_interest):
 
     if input_interest:
         if selection == "AGREDA":
@@ -104,7 +104,7 @@ def generateFeatures(frequency: biom.Table, taxa: pd.DataFrame,
         stream = pkg_resources.resource_stream(__name__, 'data/AGREDA/AGREDA_rxnTaxMat.csv')
         rxnTax = pd.read_csv(stream, sep = ",")
         
-        stream = pkg_resources.resource_stream(__name__, 'data/AGREDA/AGREDA_Exchange_metabolites_class.tsv')
+        stream = pkg_resources.resource_stream(__name__, 'data/AGREDA/AGREDA_Exchange_metabolites.tsv')
         class_exchange = pd.read_csv(stream, sep = "\t")
     elif selection == "AGORAv103":
         stream_reactions = pkg_resources.resource_filename(__name__, 'data/AGORAv103/AGORA_v1.0.3-M_rxnInfo.csv')
@@ -119,12 +119,12 @@ def generateFeatures(frequency: biom.Table, taxa: pd.DataFrame,
         stream = pkg_resources.resource_stream(__name__, 'data/AGORAv103/AGORA_v1.0.3-M_rxnTaxMat.csv')
         rxnTax = pd.read_csv(stream, sep = ",")
 
-        stream = pkg_resources.resource_stream(__name__, 'data/AGORAv103/AGORA103_Exchange_metabolites_class.tsv')
+        stream = pkg_resources.resource_stream(__name__, 'data/AGORAv103/AGORA_v1.0.3-M_Exchange_metabolites.tsv')
         class_exchange = pd.read_csv(stream, sep = "\t")
     else:
         raise ValueError("Select a valid metabolic reconstruction among: AGREDA, AGORAv103")
 
     Reactions = _reactionsBetweenSamples(Samples, PresentTaxa, newFrequency, Model, rxnTax)
     Subsystems = _subsystemsBetweenSamples(Reactions, Model)
-    Classes = _subclassesBetweenSamples(Reactions, class_exchange, selection, input_interest)
+    Classes = _classesBetweenSamples(Reactions, class_exchange, selection, input_interest)
     return (Reactions, Subsystems, Classes)
