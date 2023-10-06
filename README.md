@@ -5,15 +5,9 @@ Read more about the method in our [paper] .
 
 # Installing
 
-In order to use the plugin, it is mandatory to install the platform as an environment of Anaconda. To generate the environment, please follow the guide at the following link:
+In order to use the plugin, it is mandatory to install the QIIME2 platform as an environment of Anaconda. All the dependencies of q2-metnet are installed through QIIME2. The guide to generate the environment in Linux, macOS or Windows system can be foun in the following [link](https://docs.qiime2.org/2023.7/install/native/#install-qiime-2-within-a-conda-environment). Remember that it is recommended to install **Python > 3.6** to use QIIME2.
 
-```
-https://docs.qiime2.org/2023.7/install/native/#install-qiime-2-within-a-conda-environment
-```
-
-Once you create the environment, you can install this plugin by cloning this repo and installing manually.
-
-To clone:
+Once you create the environment, you can install this plugin by cloning this repo and installing manually. To clone the repo:
 
 ```
 git clone https://github.com/PlanesLab/q2-metnet.git
@@ -190,3 +184,11 @@ qiime metnet plotBoxplot \
 ```
 
 ## Test files and application
+
+The **test** folder contains all the input data sources to replicate the manuscript results. To run the following tutorial, we will need the following files:
++ **asv_table.qza:** feature table with microbial abundances, where rows correspond to each sequence and columns to the different samples. The column **ID** stores the identificators of each sequence (*e.g.* ASV_1).
++ **taxa.qza:** contains the taxonomic lineage of each sequence. The column **ID** stores the identificators of each sequence, which are written in the same order as in the feature table rows.
++ **meta.tsv:** file including sample phenotype data. The rows correspond to each sample and are written in the same order as the feature table columns.
+In order to use your own data, please refer to [QIIME2 documentation](https://docs.qiime2.org/2023.7/semantic-types/#common-semantic-types) to check allowed column headers. In any case, you can use the same columnn headers as in this tutorial files.
+
+Once QIIME2 and q2-metnet have been successfully installed, the first step is to generate the reactions and subsystem normalized activity scores of our data. 
