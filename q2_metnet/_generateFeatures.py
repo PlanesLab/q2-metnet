@@ -40,7 +40,8 @@ def _subsystemsBetweenSamples(Reactions, Model, class_exchange):
         all_sub += y
     
     all_sub = list(set(all_sub))
-    all_sub += list(set(class_exchange.Class.values))
+    all_sub += list(class_exchange.Class.values)
+    all_sub = list(set(all_sub))
     
     sub_rxns = pd.DataFrame(index = all_sub, columns = Reactions.index)
     
