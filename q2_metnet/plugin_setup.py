@@ -30,8 +30,7 @@ plugin.methods.register_function(
             'taxa': FeatureData[Taxonomy]
     },
     outputs=[('reactions', FeatureTable[Frequency]),
-             ('subsystems', FeatureTable[Frequency]),
-             ('classes', FeatureTable[Frequency])
+             ('subsystems', FeatureTable[Frequency])
              ],
     input_descriptions={'frequency': 'table of frequency',
         'taxa': 'table of assigned taxonomy'
@@ -40,8 +39,7 @@ plugin.methods.register_function(
                 'level': Str,
                 'input_interest':Bool},
     output_descriptions={'reactions': 'Reaction scores based on the samples and the taxonomy present in the selected reconstruction',
-                         'subsystems': 'Subsystem scores based on the samples and the taxonomy present in the selected reconstruction',
-                         'classes': 'Class exchange scores based on the samples and the taxonomy present in the selected reconstruction'
+                         'subsystems': 'Subsystem scores based on the samples and the taxonomy present in the selected reconstruction'
                          },
     parameter_descriptions={'selection': 'selection metabolic network among AGREDA, AGORAv103',
                             'level': 'taxonomical level of interest: k (kingdom), p (phylum), c (class), o (order), f (family), g (genus), s (species, default)',
