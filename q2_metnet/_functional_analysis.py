@@ -76,7 +76,13 @@ def differentialExchanges(reactions: biom.Table, metadata: qiime2.MetadataColumn
     rxnID = results.index.values
     temp = [' | '.join([rxnID[x],metnames[x]]) for x in range(len(rxnID))]
     adjusted_results.index = temp
-    return adjusted_results
+
+    # Sort by adjusted p-values and the absolute value of FC
+    adjusted_results['Absolute_FC'] = adjusted_results['FC'].abs()
+    sorted_adjusted_results = adjusted_results.sort_values(by=['Adjusted_p_Value', 'Absolute_FC'])
+    sorted_adjusted_results = sorted_adjusted_results.drop(columns=['Absolute_FC'])
+    
+    return sorted_adjusted_results
 
 def differentialSubSystems(subsystems: biom.Table, metadata: qiime2.MetadataColumn, condition_name: str, control_name: str) -> pd.DataFrame:
 
@@ -107,7 +113,13 @@ def differentialSubSystems(subsystems: biom.Table, metadata: qiime2.MetadataColu
     
     temp = [' | '.join(['S%d' % x,results.index[x]]) for x in range(len(results.index))]
     adjusted_results.index = temp
-    return adjusted_results
+
+    # Sort by adjusted p-values and the absolute value of FC
+    adjusted_results['Absolute_FC'] = adjusted_results['FC'].abs()
+    sorted_adjusted_results = adjusted_results.sort_values(by=['Adjusted_p_Value', 'Absolute_FC'])
+    sorted_adjusted_results = sorted_adjusted_results.drop(columns=['Absolute_FC'])
+    
+    return sorted_adjusted_results
 
 def differentialReactions(reactions: biom.Table, metadata: qiime2.MetadataColumn, condition_name: str, control_name: str,
                            selection_model: str) -> pd.DataFrame:
@@ -156,4 +168,10 @@ def differentialReactions(reactions: biom.Table, metadata: qiime2.MetadataColumn
     rxnID = results.index.values
     temp = [' | '.join([rxnID[x],rxnnames[x]]) for x in range(len(rxnID))]
     adjusted_results.index = temp
-    return adjusted_results
+
+    # Sort by adjusted p-values and the absolute value of FC
+    adjusted_results['Absolute_FC'] = adjusted_results['FC'].abs()
+    sorted_adjusted_results = adjusted_results.sort_values(by=['Adjusted_p_Value', 'Absolute_FC'])
+    sorted_adjusted_results = sorted_adjusted_results.drop(columns=['Absolute_FC'])
+    
+    return sorted_adjusted_results
