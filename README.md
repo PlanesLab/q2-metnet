@@ -190,7 +190,7 @@ The **test** folder contains all the input data sources to replicate the manuscr
 + **taxa.qza:** contains the taxonomic lineage of each sequence. The column **ID** stores the identificators of each sequence, which are written in the same order as in the feature table rows.
 + **meta.tsv:** file including sample phenotype data. The rows correspond to each sample and are written in the same order as the feature table columns.
 
-In order to use your own data, please refer to [QIIME2 documentation](https://docs.qiime2.org/2023.7/semantic-types/#common-semantic-types) to check allowed column headers. In any case, you can use the same columnn headers as in this tutorial files. Once QIIME2 and q2-metnet have been successfully installed, the first step is to generate the reactions and subsystem normalized activity scores of our data.
+In order to use your own data, please refer to [QIIME2 documentation](https://docs.qiime2.org/2023.7/semantic-types/#common-semantic-types) to check allowed column headers. In any case, you can use the same columnn headers as in this tutorial files. Once QIIME2 and q2-metnet have been successfully installed, the first step is to generate the reactions and subsystem normalized activity scores of our data. This step may take a couple of minutes to be performed.
 
 ```
 qiime metnet generateFeatures \
