@@ -25,12 +25,12 @@ def _reactionsBetweenSamples(Samples, PresentTaxa, Frequency, Model, rxnTax):
         
     return Reactions
 
-def _subsystemsBetweenSamples(Reactions, Model):
+def _subsystemsBetweenSamples(Reactions, Model, class_exchange):
     
     tmp_sub = pd.DataFrame(data = {'Sub': Model.subSystems})
     tmp_sub.fillna('', inplace = True)
     tmp_sub = tmp_sub.Sub.drop_duplicates()
-
+    
     all_sub = []
     
     for x in tmp_sub:
@@ -40,54 +40,30 @@ def _subsystemsBetweenSamples(Reactions, Model):
         all_sub += y
     
     all_sub = list(set(all_sub))
+    all_sub += list(set(class_exchange.Class.values))
     
     sub_rxns = pd.DataFrame(index = all_sub, columns = Reactions.index)
-
+    
     for x in range(len(Model.rxnID)):
-        print("Calculating Subsystem scores, Reaction: %d/%d" % (x,len(Model.rxnID)-1))
-        tmp = Model.subSystems[x]
+        print("Reaction: %d/%d" % (x,len(Model.rxnID)-1))
+        try:
+            tmp = class_exchange.loc[class_exchange.rxnID.isin([Model.rxnID[x]]),'Class'].values[0]
+        except IndexError:
+            tmp = Model.subSystems[x]
         try:
             tmp = tmp.split(";")
         except AttributeError:
             continue
         for each in tmp:
             sub_rxns.loc[each,Model.rxnID[x]] = 1
-        
+    
     sub_rxns.fillna(0,inplace = True)
     
     sub_rxns = sub_rxns.div(sub_rxns.sum(axis=1), axis=0)
-    
+    sub_rxns.dropna(inplace = True)    
     SubSystems_Sample = sub_rxns.dot(Reactions)
     
     return SubSystems_Sample
-
-def _classesBetweenSamples(Reactions, class_exchange, selection, input_interest):
-
-    if input_interest:
-        if selection == "AGREDA":
-            stream = pkg_resources.resource_stream(__name__, 'data/AGREDA/AGREDA_Input_reactions.tsv')
-        elif selection_model == "AGORAv103":
-            stream = pkg_resources.resource_stream(__name__, 'data/AGORAv103/AGORA_v1.0.3-M_Input_reactions.tsv')
-        else:
-            raise ValueError("Select a valid metabolic reconstruction among: AGREDA, AGORAv103")
-        
-        inputs = pd.read_csv(stream, sep = "\t", encoding = "ISO-8859-1")
-        class_exchange = class_exchange.loc[class_exchange.rxnID.isin(inputs.inputs),:]
-            
-    sub_ex = pd.DataFrame(columns = class_exchange.rxnID, index = class_exchange.Class.drop_duplicates())
-
-    for each_ex in sub_ex.columns:
-        print("Calculating Classes scores, Exchange: %d/%d" % (list(sub_ex.columns.values).index(each_ex),len(sub_ex.columns)-1))
-        sub_class = class_exchange.loc[class_exchange.rxnID.isin([each_ex]),'Class'].values[0]
-        sub_ex.loc[sub_class,each_ex] = 1
-
-    sub_ex.fillna(0, inplace = True)
-    ex_samples = Reactions.loc[sub_ex.columns,]
-
-    sub_ex = sub_ex.div(sub_ex.sum(axis=1), axis=0)
-    Classes_Exchange_Sample = sub_ex.dot(ex_samples)
-
-    return Classes_Exchange_Sample
 
 def generateFeatures(frequency: biom.Table, taxa: pd.DataFrame, 
                      selection: str = 'AGREDA', level: str = "s", input_interest: str = True) -> (pd.DataFrame,pd.DataFrame, pd.DataFrame):
@@ -125,6 +101,5 @@ def generateFeatures(frequency: biom.Table, taxa: pd.DataFrame,
         raise ValueError("Select a valid metabolic reconstruction among: AGREDA, AGORAv103")
 
     Reactions = _reactionsBetweenSamples(Samples, PresentTaxa, newFrequency, Model, rxnTax)
-    Subsystems = _subsystemsBetweenSamples(Reactions, Model)
-    Classes = _classesBetweenSamples(Reactions, class_exchange, selection, input_interest)
-    return (Reactions, Subsystems, Classes)
+    Subsystems = _subsystemsBetweenSamples(Reactions, Model, class_exchange)
+    return (Reactions, Subsystems)
