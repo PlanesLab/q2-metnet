@@ -66,7 +66,7 @@ def _subsystemsBetweenSamples(Reactions, Model, class_exchange):
     return SubSystems_Sample
 
 def generateFeatures(frequency: biom.Table, taxa: pd.DataFrame, 
-                     selection: str = 'AGREDA', level: str = "s", input_interest: str = True) -> (pd.DataFrame,pd.DataFrame, pd.DataFrame):
+                     selection: str = 'AGREDA', level: str = "s", input_interest: str = True) -> (pd.DataFrame,pd.DataFrame):
     if selection == "AGREDA":
         stream_reactions = pkg_resources.resource_filename(__name__,'data/AGREDA/AGREDA_rxnInfo.csv')
         stream_metabolites = pkg_resources.resource_filename(__name__,'data/AGREDA/AGREDA_metInfo.csv')
