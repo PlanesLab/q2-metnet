@@ -157,34 +157,3 @@ def differentialReactions(reactions: biom.Table, metadata: qiime2.MetadataColumn
     temp = [' | '.join([rxnID[x],rxnnames[x]]) for x in range(len(rxnID))]
     adjusted_results.index = temp
     return adjusted_results
-
-def differentialClasses(classes: biom.Table, metadata: qiime2.MetadataColumn, condition_name: str, control_name: str) -> pd.DataFrame:
-    
-    df_classes = classes.to_dataframe().transpose()
-    df_metadata = metadata.to_dataframe()
-    df_condition_list = metadata.to_series()
-
-    df_classes = df_classes.loc[:,df_metadata.index.values]
-    condition_sample = df_metadata.index[[x == condition_name for x in df_condition_list]]
-    control_sample = df_metadata.index[[x == control_name for x in df_condition_list]]
-
-    results = pd.DataFrame(index = df_classes.index, columns = ['p-value', 'FC'])
-
-    for idx in results.index:
-        control_group = df_classes.loc[idx,control_sample]
-        condition_group = df_classes.loc[idx,condition_sample]
-        try:
-            p_value = stats.mannwhitneyu(list(control_group.values),list(condition_group.values)).pvalue
-        except ValueError:
-            p_value = 1
-        results.loc[idx,'p-value'] = p_value
-        results.loc[idx,'FC'] = condition_group.mean() - control_group.mean()
-
-    p_adj = multitest.fdrcorrection(results['p-value'].values)
-    adjusted_results = pd.DataFrame(data = {'FC': results['FC'].values,
-                                            "p_Value": results['p-value'].values,
-                                            "Adjusted_p_Value":p_adj[1]})
-
-    temp = [' | '.join(['S%d' % x,results.index[x]]) for x in range(len(results.index))]
-    adjusted_results.index = temp
-    return adjusted_results
