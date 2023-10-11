@@ -18,7 +18,7 @@ def _extractExchanges(reactions, Model, SampleID, input_interest, stream):
     return exchanges
 
 def differentialExchanges(reactions: biom.Table, metadata: qiime2.MetadataColumn, condition_name: str, control_name: str,
-                           selection_model: str = True, input_interest: str = True) -> pd.DataFrame:
+                           selection_model: str = "AGREDA", input_interest: str = True) -> pd.DataFrame:
     
     df_reactions = reactions.to_dataframe().transpose()
     df_metadata = metadata.to_dataframe()
@@ -122,7 +122,7 @@ def differentialSubSystems(subsystems: biom.Table, metadata: qiime2.MetadataColu
     return sorted_adjusted_results
 
 def differentialReactions(reactions: biom.Table, metadata: qiime2.MetadataColumn, condition_name: str, control_name: str,
-                           selection_model: str = True) -> pd.DataFrame:
+                           selection_model: str = "AGREDA") -> pd.DataFrame:
 
     if selection_model == "AGREDA":
         stream_reactions = pkg_resources.resource_filename(__name__,'data/AGREDA/AGREDA_rxnInfo.csv')
