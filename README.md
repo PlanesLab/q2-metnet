@@ -73,7 +73,8 @@ qiime metnet generateFeatures \
 	--p-selection AGREDA \
 	--p-level s \
 	--o-reactions ../output_reactions.qza \
-	--o-subsystems ../output_subsystems.qza
+	--o-subsystems ../output_subsystems.qza \
+	--o-xmatrix ./output_X_matrix.qza
 ```
 
 ## Calculate differential analysis scores for exchange reactions
@@ -198,7 +199,8 @@ qiime metnet generateFeatures \
 	--p-selection AGREDA \
 	--p-level s \
 	--o-reactions ./rxns_scores.qza \
-	--o-subsystems ./subs_scores.qza
+	--o-subsystems ./subs_scores.qza \
+	--o-xmatrix ./Xmatrix.qza
 ```
 
 By the selection of parameters `--p-selection` and `--p-level` we decided to map our different taxonomies to the AGREDA database, until the species level. At this point, the normalized activity scores can be applied to perform a PCA and classify samples. As shown in the **meta.tsv** file, the different clinical conditions are stored in the **Condition** column. Then, we can generate a PCA of our samples and all the reactions scores by the following command.
