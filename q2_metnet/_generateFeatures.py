@@ -67,7 +67,7 @@ def _subsystemsBetweenSamples(Reactions, Model, class_exchange):
     return SubSystems_Sample
 
 def generateFeatures(frequency: biom.Table, taxa: pd.DataFrame, 
-                     selection: str = 'AGREDA', level: str = "s", input_interest: str = True) -> (pd.DataFrame,pd.DataFrame):
+                     selection: str = 'AGREDA', level: str = "s", input_interest: str = True) -> (pd.DataFrame,pd.DataFrame,pd.DataFrame):
     if selection == "AGREDA":
         stream_reactions = pkg_resources.resource_filename(__name__,'data/AGREDA/AGREDA_rxnInfo.csv')
         stream_metabolites = pkg_resources.resource_filename(__name__,'data/AGREDA/AGREDA_metInfo.csv')
@@ -103,4 +103,14 @@ def generateFeatures(frequency: biom.Table, taxa: pd.DataFrame,
 
     Reactions = _reactionsBetweenSamples(Samples, PresentTaxa, newFrequency, Model, rxnTax)
     Subsystems = _subsystemsBetweenSamples(Reactions, Model, class_exchange)
-    return (Reactions, Subsystems)
+    
+    Xmatrix = newFrequency.copy()
+    new_index = []
+    for idx in Xmatrix.index:
+        tmp_asv = Xmatrix.ID[idx]
+        tmp_taxa = list(PresentTaxa[tmp_asv]['TAXA'].loc[:,'AGORA.NAMES'].values)
+        new_index.append(';'.join([Xmatrix.ID[idx]] + tmp_taxa))
+    Xmatrix.drop(columns = ['LINEAGE','ID'], inplace = True)
+    Xmatrix.index = new_index
+    
+    return (Reactions, Subsystems, Xmatrix)
