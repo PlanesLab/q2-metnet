@@ -239,7 +239,7 @@ qiime metnet differentialReactions \
 qiime metnet differentialSubSystems \
 	--i-subsystems ./subs_scores.qza \
 	--m-metadata-file ./test/meta.tsv \	
-	--m-metadata-column Condition\
+	--m-metadata-column Condition \
 	--p-condition-name Obese \
 	--p-control-name Lean \
 	--o-differential-analysis ./diff_subs.qza
