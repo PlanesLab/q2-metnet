@@ -220,7 +220,7 @@ qiime metnet plotClusteMap \
 	--i-table ./rxns_scores.qza \
 	--m-sample-metadata-file ./test/meta.tsv \
 	--m-sample-metadata-column Condition \
-	--o-visualization ../rxns_hclust.qzv
+	--o-visualization ./rxns_hclust.qzv
 ```
 
 We are able to show that the normalized activity scores for some of these reactions are altered through the different clinical conditions of our dataset. We are now going to investigate deeper these differences. The different clinical conditions of our data are **Allergic**, **Celiac**, **Lean** and **Obese**, where **Lean** can be considered as the control state. In this example, we are now going to check the differentially expressed reactions and subsystems between **Obese** and **Lean** samples.
@@ -252,4 +252,17 @@ qiime metnet differentialExchanges \
    	--p-condition-name Obese \
     	--p-control-name Lean \
        	--o-differential-analysis ./diff_ex.qza
+```
+
+Finally, the differential activity score of a given feature (reaction or subsystem) can be displayed by means of the `plotBoxplot`function. In the following example, we are going to generate the boxplot of the **XX** subsytem across samples of the **Celiac** and **Lean** condition.
+```
+qiime metnet plotBoxplot \
+	--i-table ./subs_scores.qza \
+	--i-differentialresults ./diff_ex.qza \
+	--m-sample-metadata-file ./test/meta.tsv \
+	--m-sample-metadata-column Condition \
+	--p-condition-name Celiac \
+	--p-control-name Lean \
+	--p-namefeature XX \
+	--o-visualization ./sub_boxplot.qzv
 ```
