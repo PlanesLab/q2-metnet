@@ -79,7 +79,7 @@ def differentialExchanges(reactions: biom.Table, metadata: qiime2.MetadataColumn
 
     # Sort by adjusted p-values and the absolute value of FC
     adjusted_results['Absolute_FC'] = adjusted_results['FC'].abs()
-    sorted_adjusted_results = adjusted_results.sort_values(by=['Adjusted_p_Value', 'Absolute_FC'])
+    sorted_adjusted_results = adjusted_results.sort_values(by=['Adjusted_p_Value', 'Absolute_FC'], ascending=[True, False])
     sorted_adjusted_results = sorted_adjusted_results.drop(columns=['Absolute_FC'])
     
     return sorted_adjusted_results
@@ -116,7 +116,7 @@ def differentialSubSystems(subsystems: biom.Table, metadata: qiime2.MetadataColu
 
     # Sort by adjusted p-values and the absolute value of FC
     adjusted_results['Absolute_FC'] = adjusted_results['FC'].abs()
-    sorted_adjusted_results = adjusted_results.sort_values(by=['Adjusted_p_Value', 'Absolute_FC'])
+    sorted_adjusted_results = adjusted_results.sort_values(by=['Adjusted_p_Value', 'Absolute_FC'], ascending=[True, False])
     sorted_adjusted_results = sorted_adjusted_results.drop(columns=['Absolute_FC'])
     
     return sorted_adjusted_results
@@ -171,7 +171,7 @@ def differentialReactions(reactions: biom.Table, metadata: qiime2.MetadataColumn
 
     # Sort by adjusted p-values and the absolute value of FC
     adjusted_results['Absolute_FC'] = adjusted_results['FC'].abs()
-    sorted_adjusted_results = adjusted_results.sort_values(by=['Adjusted_p_Value', 'Absolute_FC'])
+    sorted_adjusted_results = adjusted_results.sort_values(by=['Adjusted_p_Value', 'Absolute_FC'], ascending=[True, False])
     sorted_adjusted_results = sorted_adjusted_results.drop(columns=['Absolute_FC'])
     
     return sorted_adjusted_results
