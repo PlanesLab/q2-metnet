@@ -258,15 +258,16 @@ qiime metnet differentialExchanges \
        	--o-differential-analysis ./diff_ex.qza
 ```
 
-Finally, the differential activity score of a given feature (reaction or subsystem) can be displayed by means of the `plotBoxplot`function. In the following example, we are going to generate the boxplot of the **XX** subsytem across samples of the **Celiac** and **Lean** condition.
+Finally, the differential activity score of a given feature (reaction or subsystem) can be displayed by means of the `plotBoxplot`function. In the following example, we are going to generate the boxplot of the **Bile acid metabolism** subsytem across samples of the **Celiac** and **Lean** condition.
 ```
 qiime metnet plotBoxplot \
 	--i-table ./subs_scores.qza \
-	--i-differentialresults ./diff_ex.qza \
+	--i-differentialresults ./diff_subs.qza \
 	--m-sample-metadata-file ./test/meta.tsv \
 	--m-sample-metadata-column Condition \
 	--p-condition-name Celiac \
 	--p-control-name Lean \
-	--p-namefeature XX \
+	--p-namefeature "S138 | Bile acid metabolism" \
 	--o-visualization ./sub_boxplot.qzv
 ```
+<img src="./Figure/boxplot.png">
