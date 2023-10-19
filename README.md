@@ -203,7 +203,7 @@ qiime metnet generateFeatures \
 	--o-xmatrix ./Xmatrix.qza
 ```
 
-By the selection of parameters `--p-selection` and `--p-level` we decided to map our different taxonomies to the AGREDA database, until the species level. At this point, the normalized activity scores can be applied to perform a PCA and classify samples. As shown in the **meta.tsv** file, the different clinical conditions are stored in the **Condition** column. Then, we can generate a PCA of our samples and all the reactions scores by the following command. Remember thast any **qzv** file can be displayed at [QIIME2 View](https://view.qiime2.org/). Below is displayed the correspondent figure.
+By the selection of parameters `--p-selection` and `--p-level` we decided to map our different taxonomies to the AGREDA database, until the species level. At this point, the normalized activity scores can be applied to perform a PCA and classify samples. As shown in the **meta.tsv** file, the different clinical conditions are stored in the **Condition** column. Then, we can generate a PCA of our samples and all the reactions scores by the following command. Below is displayed the correspondent figure. Remember that any **qzv** file can be displayed at [QIIME2 View](https://view.qiime2.org/).
 
 ```
 qiime metnet plotPCA \
