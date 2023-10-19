@@ -270,4 +270,4 @@ qiime metnet plotBoxplot \
 	--p-namefeature "S142 | Bile acid metabolism" \
 	--o-visualization ./sub_boxplot.qzv
 ```
-<img src="./Figure/boxplot.png">
+<img src="./Figure/boxplot.PNG">
