@@ -267,7 +267,7 @@ qiime metnet plotBoxplot \
 	--m-sample-metadata-column Condition \
 	--p-condition-name Celiac \
 	--p-control-name Lean \
-	--p-namefeature "S138 | Bile acid metabolism" \
+	--p-namefeature "S142 | Bile acid metabolism" \
 	--o-visualization ./sub_boxplot.qzv
 ```
 <img src="./Figure/boxplot.png">
