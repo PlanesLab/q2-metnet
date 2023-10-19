@@ -203,7 +203,7 @@ qiime metnet generateFeatures \
 	--o-xmatrix ./Xmatrix.qza
 ```
 
-By the selection of parameters `--p-selection` and `--p-level` we decided to map our different taxonomies to the AGREDA database, until the species level. At this point, the normalized activity scores can be applied to perform a PCA and classify samples. As shown in the **meta.tsv** file, the different clinical conditions are stored in the **Condition** column. Then, we can generate a PCA of our samples and all the reactions scores by the following command. Below is displayed the correspondent figure.
+By the selection of parameters `--p-selection` and `--p-level` we decided to map our different taxonomies to the AGREDA database, until the species level. At this point, the normalized activity scores can be applied to perform a PCA and classify samples. As shown in the **meta.tsv** file, the different clinical conditions are stored in the **Condition** column. Then, we can generate a PCA of our samples and all the reactions scores by the following command. Remember thast any **qzv** file can be displayed at [QIIME2 View](https://view.qiime2.org/). Below is displayed the correspondent figure.
 
 ```
 qiime metnet plotPCA \
@@ -227,14 +227,14 @@ qiime metnet plotClusteMap \
 
 <img src="./Figure/clustermap.png">
 
-We are able to show that the normalized activity scores for some of these reactions are altered through the different clinical conditions of our dataset. We are now going to investigate deeper these differences. The different clinical conditions of our data are **Allergic**, **Celiac**, **Lean** and **Obese**, where **Lean** can be considered as the control state. In this example, we are now going to check the differentially expressed reactions and subsystems between **Obese** and **Lean** samples.
+We are able to show that the normalized activity scores for some of these reactions are altered through the different clinical conditions of our dataset. We are now going to investigate deeper these differences. The different clinical conditions of our data are **Allergic**, **Celiac**, **Lean** and **Obese**, where **Lean** can be considered as the control state. In this example, we are now going to check the differentially expressed reactions and subsystems between **Celiac** and **Lean** samples.
 
 ```
 qiime metnet differentialReactions \
 	--i-reactions ./rxns_scores.qza \
 	--m-metadata-file ./test/meta.tsv \
 	--m-metadata-column Condition \
-	--p-condition-name Obese \
+	--p-condition-name Celiac \
 	--p-control-name Lean \
 	--p-selection-model AGREDA \
 	--o-differential-analysis ./diff_reactions.qza
@@ -244,7 +244,7 @@ qiime metnet differentialSubSystems \
 	--i-subsystems ./subs_scores.qza \
 	--m-metadata-file ./test/meta.tsv \
 	--m-metadata-column Condition \
-	--p-condition-name Obese \
+	--p-condition-name Celiac \
 	--p-control-name Lean \
 	--o-differential-analysis ./diff_subs.qza
 ```
@@ -253,7 +253,7 @@ qiime metnet differentialExchanges \
 	--i-reactions ./rxns_scores.qza \
  	--m-metadata-file ./test/meta.tsv \
   	--m-metadata-column Condition \
-   	--p-condition-name Obese \
+   	--p-condition-name Celiac \
     	--p-control-name Lean \
        	--o-differential-analysis ./diff_ex.qza
 ```
