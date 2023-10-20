@@ -64,6 +64,9 @@ def _subsystemsBetweenSamples(Reactions, Model, class_exchange):
     sub_rxns.dropna(inplace = True)    
     SubSystems_Sample = sub_rxns.dot(Reactions)
     
+    temp = [' | '.join(['S%d' % x,SubSystems_Sample.index[x]]) for x in range(len(SubSystems_Sample.index))]
+    SubSystems_Sample.index = temp
+    
     return SubSystems_Sample
 
 def generateFeatures(frequency: biom.Table, taxa: pd.DataFrame, 
