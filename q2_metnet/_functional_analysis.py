@@ -111,8 +111,9 @@ def differentialSubSystems(subsystems: biom.Table, metadata: qiime2.MetadataColu
                                             "p_Value": results['p-value'].values,
                                             "Adjusted_p_Value":p_adj[1]})
     
-    temp = [' | '.join(['S%d' % x,results.index[x]]) for x in range(len(results.index))]
-    adjusted_results.index = temp
+    # temp = [' | '.join(['S%d' % x,results.index[x]]) for x in range(len(results.index))]
+    # adjusted_results.index = temp
+    adjusted_results.index = results.index
 
     # Sort by adjusted p-values and the absolute value of FC
     adjusted_results['Absolute_FC'] = adjusted_results['FC'].abs()
