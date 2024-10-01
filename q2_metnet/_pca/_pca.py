@@ -67,8 +67,11 @@ def plotPCA(output_dir: str, table: pd.DataFrame,
 
     # filter out depending on selected samples
     if sample_metadata is not None:
+        # Transform metadata to dataframe
         sample_metadata = sample_metadata.to_dataframe()
-        # column_metadata = sample_metadata.to_series()
+        # Filter metadata
+        sample_metadata = sample_metadata.loc[sample_metadata.index.isin(table.columns)]
+        # Filter scores table
         table = table.loc[:,sample_metadata.index.values]
 
     # filter out depending on selected reactions, exchanges or subsystems

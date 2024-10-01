@@ -14,18 +14,26 @@ def plotBoxplot(output_dir: str,  table: pd.DataFrame, differentialresults: pd.D
                 sample_metadata: qiime2.CategoricalMetadataColumn, namefeature: str,
                 condition_name: str, control_name: str, title: str = None) -> None:
     
+    # Transform metadata to dataframe
     sample_metadata = sample_metadata.to_dataframe()
+    
+    # Filter metadata
+    sample_metadata = sample_metadata.loc[sample_metadata.index.isin(table.columns)]
+    
+    # Extract groups
     condition = [sample_metadata.index[x] for x in range(len(sample_metadata)) if sample_metadata.values[x] == condition_name]
     control = [sample_metadata.index[x] for x in range(len(sample_metadata)) if sample_metadata.values[x] == control_name]
 
-    if re.findall("S\d+ \| ", namefeature):
-        tmp_name = namefeature.split(" | ")[1]
-    else:
-        tmp_name = namefeature.split(" | ")[0]
+    #if re.findall("S\d+ \| ", namefeature):
+    #    tmp_name = namefeature.split(" | ")[1]
+    #else:
+    #    tmp_name = namefeature.split(" | ")[0]
 
     try:
-        control_group = table.loc[tmp_name,control]
-        condition_group = table.loc[tmp_name,condition]
+        #control_group = table.loc[tmp_name,control]
+        #condition_group = table.loc[tmp_name,condition]
+        control_group = table.loc[namefeature,control]
+        condition_group = table.loc[namefeature,condition]
     except:
         raise AttributeError("The ID for reaction/subsystem or for the samples are not present in the data")
     
@@ -35,9 +43,14 @@ def plotBoxplot(output_dir: str,  table: pd.DataFrame, differentialresults: pd.D
     ax.set_xlim(left = 0.2, right=1.3)
     
     temp = differentialresults.index[differentialresults.index == namefeature].values[0]
-    name = temp.split(" | ")[1]
     adj_pval = differentialresults.Adjusted_p_Value[differentialresults.index == namefeature].values[0]
     fold_change = differentialresults.FC[differentialresults.index == namefeature].values[0]
+    
+    if re.findall("\|", temp):
+        name = temp.split(" | ")[1]
+    else:
+        name = temp
+    
     if title is None:
         plt.title(name.capitalize() + ' (adj.pval = %f)' % (adj_pval))
     else:

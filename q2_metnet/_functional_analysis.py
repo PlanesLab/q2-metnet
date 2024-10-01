@@ -181,10 +181,11 @@ def differentialReactions(reactions: biom.Table, metadata: qiime2.MetadataColumn
                                             "p_Value": results['p-value'].values,
                                             "Adjusted_p_Value": p_adj[1]})
     
-    rxnnames = [Model.rxnNames[temp.index(x)] for x in results.index]
+    # rxnnames = [Model.rxns[temp.index(x)] for x in results.index]
     rxnID = results.index.values
-    temp = [' | '.join([rxnID[x],rxnnames[x]]) for x in range(len(rxnID))]
-    adjusted_results.index = temp
+    # temp = [' | '.join([rxnID[x],rxnnames[x]]) for x in range(len(rxnID))]
+    # adjusted_results.index = temp
+    adjusted_results.index = rxnID
 
     # Sort by adjusted p-values and the absolute value of FC
     adjusted_results['Absolute_FC'] = adjusted_results['FC'].abs()

@@ -39,7 +39,7 @@ The `metnet` plugin should show up in the list of available plugins.
 
 # Using the plugin
 
-There are available seven methods in this plugin: 
+There are available four methods in this plugin: 
 - `generateFeatures`, which creates the tables of normalized scores for any reaction and subsystem present in the selected metabolic reconstruction across the different samples under study;
 - `differentialReactions`, which computes a differential activity analysis about any kind of reaction for the different conditions under analysis;
 - `differentialExchanges`, which computes a differential activity analysis about exchange reactions for the different conditions under analysis;
@@ -64,7 +64,7 @@ Otherwise, follow the instructions on the QIIME 2 webpage to use your own tab-de
 
 You then run the `generateFeatures` script from the `metnet` qiime plugin. The `AGREDA` and `s` parameter of `--p-selection` and `--p-level` are the default parameters.
 The parameter `--p-selection` can be chosen between `AGREDA` (default) and `AGORAv103`.
-The parameter `--p-level` correspond to the taxonomic depth, ranging from kingdom/domain (`k`) to species (`s`, default).
+The parameter `--p-level` correspond to the taxonomic depth, ranging from kingdom (`k`) to species (`s`, default).
 
 ```
 qiime metnet generateFeatures \
@@ -267,7 +267,7 @@ qiime metnet plotBoxplot \
 	--m-sample-metadata-column Condition \
 	--p-condition-name Celiac \
 	--p-control-name Lean \
-	--p-namefeature "S142 | Bile acid metabolism" \
+	--p-namefeature "S144 | Bile acid metabolism" \
 	--o-visualization ./sub_boxplot.qzv
 ```
 <img src="./Figure/boxplot.PNG">
