@@ -271,3 +271,10 @@ qiime metnet plotBoxplot \
 	--o-visualization ./sub_boxplot.qzv
 ```
 <img src="./Figure/boxplot.PNG">
+
+Remember that you can run the following command and visualize the output file [here](https://view.qiime2.org/) to select the different values for '--p-name-feature'.
+```
+qiime metadata tabulate \
+    --m-input-file ./diff_subs.qza \
+    --o-visualization ./diff_subs.qzv
+```
