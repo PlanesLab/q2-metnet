@@ -5,9 +5,17 @@ Read more about the method in our [paper](https://academic.oup.com/bioinformatic
 
 # Installing
 
-In order to use the plugin, it is mandatory to install the QIIME2 platform as an environment of Anaconda. All the dependencies of q2-metnet are installed through QIIME2. The guide to generate the environment in Linux, macOS or Windows system can be foun in the following [link](https://docs.qiime2.org/2023.7/install/native/#install-qiime-2-within-a-conda-environment). Remember that it is recommended to install **Python > 3.6** to use QIIME2.
+## Creating a conda environment with QIIME2 and q2-metnet
 
-Once you create the environment, you can install this plugin by cloning this repo and installing manually. To clone the repo:
+```
+conda env create \
+ -n q2-metnet \
+ -f https://raw.githubusercontent.com/planesLab/q2-metnet.git/main/environment-files/q2-metnet-qiime2-amplicon-2024.10.yml
+```
+
+## Using an existing QIIME2 environment
+
+Once you create your QIIME2 environment, you can install this plugin by cloning this repo and installing manually. To clone the repo:
 
 ```
 git clone https://github.com/PlanesLab/q2-metnet.git
