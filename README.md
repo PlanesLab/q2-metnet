@@ -13,15 +13,6 @@ Once you create the environment, you can install this plugin by cloning this rep
 git clone https://github.com/PlanesLab/q2-metnet.git
 ```
 
-Before installing, please unzip the data folder within the q2_metnet folder:
-
-```
-cd q2-metnet/q2_metnet/
-unzip data.zip
-rm data.zip
-cd ..
-```
-
 To install from this repo, check to be into the main directory (running the `ls` command the setup.py file must be displayed), and run:
 
 ```
