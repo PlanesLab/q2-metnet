@@ -1,0 +1,2473 @@
+mets,metNames,metID,metFormulas,metCharges,metKEGGID,metHMDBID,b
+10fthf[c],"10-Formyltetrahydrofolate",cpdAGORA0001,C20H21N7O7,-2,C00234,HMDB00972,0
+10m3hddcaACP[c],"10-methyl-3-hydroxy-dodecanoyl-ACP",cpdAGORA0002,C24H45N2O9PRS,-1,,,0
+10m3hundecACP[c],"10-methyl-3-hydroxy-undecanoyl-ACP",cpdAGORA0003,C23H43N2O9PRS,-1,,,0
+10m3oddcaACP[c],"10-methyl-3-oxo-dodecanoyl-ACP",cpdAGORA0004,C24H43N2O9PRS,-1,,,0
+10m3oundecACP[c],"10-methyl-3-oxo-undecanoyl-ACP",cpdAGORA0005,C23H41N2O9PRS,-1,,,0
+10mddcaACP[c],"10-methyl-dodecanoyl-ACP",cpdAGORA0006,C24H45N2O8PRS,-1,,,0
+10mtddec2eACP[c],"10-methyl-trans-dodec-2-enoyl-ACP",cpdAGORA0007,C24H43N2O8PRS,-1,,,0
+10mundecACP[c],"10-methyl-undecanoyl-ACP",cpdAGORA0008,C23H43N2O8PRS,-1,,,0
+11m3hddcaACP[c],"11-methyl-3-hydroxy-dodecanoyl-ACP",cpdAGORA0009,C24H45N2O9PRS,-1,,,0
+11m3oddcaACP[c],"11-methyl-3-oxo-dodecanoyl-ACP",cpdAGORA0010,C24H43N2O9PRS,-1,,,0
+11mddcaACP[c],"11-methyl-dodecanoyl-ACP",cpdAGORA0011,C24H45N2O8PRS,-1,,,0
+11mtddec2eACP[c],"11-methyl-trans-dodec-2-enoyl-ACP",cpdAGORA0012,C24H43N2O8PRS,-1,,,0
+12daihdglyc[c],"1,2-Dianteisoheptadecanoyl-sn-glycerol",cpdAGORA0013,C37H72O5,0,,,0
+12dgr180[c],"1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)",cpdAGORA0014,C39H76O5,0,,,0
+12dihdglyc[c],"1,2-Diisoheptadecanoyl-sn-glycerol",cpdAGORA0015,C37H72O5,0,,,0
+12m3hmyrsACP[c],"12-methyl-3-hydroxy-tetra-decanoyl-ACP",cpdAGORA0016,C26H49N2O9PRS,-1,,,0
+12m3htridecACP[c],"12-methyl-3-hydroxy-tridecanoyl-ACP",cpdAGORA0017,C25H47N2O9PRS,-1,,,0
+12m3omyrsACP[c],"12-methyl-3-oxo-tetra-decanoyl-ACP",cpdAGORA0018,C26H47N2O9PRS,-1,,,0
+12m3otridecACP[c],"12-methyl-3-oxo-tridecanoyl-ACP",cpdAGORA0019,C25H45N2O9PRS,-1,,,0
+12mmyrsACP[c],"12-methyl-tetra-decanoyl-ACP",cpdAGORA0020,C26H49N2O8PRS,-1,,,0
+12mtmrs2eACP[c],"12-methyl-trans-tetra-dec-2-enoyl-ACP",cpdAGORA0021,C26H47N2O8PRS,-1,,,0
+12mtridecACP[c],"12-methyl-tridecanoyl-ACP",cpdAGORA0022,C25H47N2O8PRS,-1,,,0
+12ppd_S[c],"(S)-propane-1,2-diol",cpdAGORA0023,C3H8O2,0,C02917,HMDB06213,0
+13dpg[c],"3-Phospho-D-glyceroyl phosphate",cpdAGORA0024,C3H4O10P2,-4,C00236,HMDB01270,0
+13m3hmyrsACP[c],"13-methyl-3-hydroxy-tetra-decanoyl-ACP",cpdAGORA0025,C26H49N2O9PRS,-1,,,0
+13m3omyrsACP[c],"13-methyl-3-oxo-tetra-decanoyl-ACP",cpdAGORA0026,C26H47N2O9PRS,-1,,,0
+13mmyrsACP[c],"13-methyl-tetra-decanoyl-ACP",cpdAGORA0027,C26H49N2O8PRS,-1,,,0
+13mtmrs2eACP[c],"13-methyl-trans-tetra-dec-2-enoyl-ACP",cpdAGORA0028,C26H47N2O8PRS,-1,,,0
+14m3hpalmACP[c],"14-methyl-3-hydroxy-hexa-decanoyl-ACP",cpdAGORA0029,C28H53N2O9PRS,-1,,,0
+14m3hpentdecACP[c],"14-methyl-3-hydroxy-pentadecanoyl-ACP",cpdAGORA0030,C27H51N2O9PRS,-1,,,0
+14m3opalmACP[c],"14-methyl-3-oxo-hexa-decanoyl-ACP",cpdAGORA0031,C28H51N2O9PRS,-1,,,0
+14m3opentdecACP[c],"14-methyl-3-oxo-pentadecanoyl-ACP",cpdAGORA0032,C27H49N2O9PRS,-1,,,0
+14mpalmACP[c],"14-methyl-hexa-decanoyl-ACP",cpdAGORA0033,C28H53N2O8PRS,-1,,,0
+14mpentdecACP[c],"14-methyl-pentadecanoyl-ACP",cpdAGORA0034,C27H51N2O8PRS,-1,,,0
+14mtpalm2eACP[c],"14-methyl-trans-hexa-dec-2-enoyl-ACP",cpdAGORA0035,C28H51N2O8PRS,-1,,,0
+15dap[c],"1,5-Diaminopentane",cpdAGORA0036,C5H16N2,2,,,0
+15m3hpalmACP[c],"15-methyl-3-hydroxy-hexa-decanoyl-ACP",cpdAGORA0037,C28H53N2O9PRS,-1,,,0
+15m3opalmACP[c],"15-methyl-3-oxo-hexa-decanoyl-ACP",cpdAGORA0038,C28H51N2O9PRS,-1,,,0
+15mpalmACP[c],"15-methyl-hexa-decanoyl-ACP",cpdAGORA0039,C28H53N2O8PRS,-1,,,0
+15mtpalm2eACP[c],"15-methyl-trans-hexa-dec-2-enoyl-ACP",cpdAGORA0040,C28H51N2O8PRS,-1,,,0
+15phytn[c],"15-cis-Phytoene",cpdAGORA0041,C40H64,0,,,0
+1agpe120[c],"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0)",cpdAGORA0042,C17H36NO7P1,0,,,0
+1agpe140[c],"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)",cpdAGORA0043,C19H40NO7P1,0,,,0
+1agpe141[c],"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)",cpdAGORA0044,C19H38NO7P1,0,,,0
+1agpe160[c],"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0)",cpdAGORA0045,C21H44NO7P1,0,,,0
+1agpe161[c],"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)",cpdAGORA0046,C21H42NO7P1,0,,,0
+1agpe180[c],"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0)",cpdAGORA0047,C23H48NO7P1,0,,,0
+1agpe181[c],"1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)",cpdAGORA0048,C23H46NO7P1,0,,,0
+1agpg120[c],"1-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0)",cpdAGORA0049,C18H36O9P1,-1,,,0
+1agpg140[c],"1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)",cpdAGORA0050,C20H40O9P1,-1,,,0
+1agpg141[c],"1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1)",cpdAGORA0051,C20H38O9P1,-1,,,0
+1agpg160[c],"1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0)",cpdAGORA0052,C22H44O9P1,-1,,,0
+1agpg161[c],"1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)",cpdAGORA0053,C22H42O9P1,-1,,,0
+1agpg180[c],"1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0)",cpdAGORA0054,C24H48O9P1,-1,,,0
+1agpg181[c],"1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)",cpdAGORA0055,C24H46O9P1,-1,,,0
+1aihpdecg3p[c],"1-anteisoheptadecanoyl-sn-glycerol 3-phosphate (14-methyl-hexadecanoyl, anteiso-C17)",cpdAGORA0056,C20H39O7P,-2,,,0
+1aipdecg3p[c],"1-anteisopentadecanoyl-sn-glycerol 3-phosphate (12-methyl-tetradecanoyl, anteiso-C15)",cpdAGORA0057,C18H36O7P,-1,,,0
+1ddecg3p[c],"1-acyl-sn-glycerol 3-phosphate(2-)",cpdAGORA0058,C15H29O7P1,-2,,,0
+1hdec9eg3p[c],"1-hexadec-9-enoyl-sn-glycerol 3-phosphate",cpdAGORA0059,C19H35O7P1,-2,,,0
+1hdecg3p[c],"1-hexadecanoyl-sn-glycerol 3-phosphate",cpdAGORA0060,C19H37O7P1,-2,,,0
+1ihdecg3p[c],"1-isohexadecanoyl-sn-glycerol 3-phosphate (14-methyl-pentadecanoyl, iso-C16)",cpdAGORA0061,C19H38O7P,-1,,,0
+1ihpdecg3p[c],"1-isoheptadecanoyl-sn-glycerol 3-phosphate (15-methyl-hexadecanoyl, iso-C17)",cpdAGORA0062,C20H39O7P,-2,,,0
+1ipdecg3p[c],"1-isopentadecanoyl-sn-glycerol 3-phosphate (13-methyl-tetradecanoyl, iso-C15)",cpdAGORA0063,C18H36O7P,-1,,,0
+1itdecg3p[c],"1-isotetradecanoyl-sn-glycerol 3-phosphate (12-methyl-tridecanoyl, iso-C14)",cpdAGORA0064,C17H34O7P,-1,,,0
+1odec11eg3p[c],"1-octadec-11-enoyl-sn-glycerol 3-phosphate",cpdAGORA0065,C21H39O7P1,-2,,,0
+1odecg3p[c],"1-octadecanoyl-sn-glycerol 3-phosphate",cpdAGORA0066,C21H41O7P1,-2,,,0
+1pyr5c[c],"1-Pyrroline-5-carboxylate",cpdAGORA0067,C5H6NO2,-1,C04322,HMDB01301,0
+1tdec7eg3p[c],"1-tetradec-7-enoyl-sn-glycerol 3-phosphate",cpdAGORA0068,C17H31O7P1,-2,,,0
+1tdecg3p[c],"1-tetradecanoyl-sn-glycerol 3-phosphate",cpdAGORA0069,C17H33O7P,-2,,,0
+23dhdp[c],"2,3-Dihydrodipicolinate",cpdAGORA0070,C7H5NO4,-2,,,0
+23dhmb[c],"(R)-2,3-Dihydroxy-3-methylbutanoate",cpdAGORA0071,C5H9O4,-1,,,0
+23dhmp[c],"(R)-2,3-Dihydroxy-3-methylpentanoate",cpdAGORA0072,C6H11O4,-1,,,0
+25aics[c],"(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate",cpdAGORA0073,C13H15N4O12P,-4,C04823,HMDB00797,0
+26dap_LL[c],"LL-2,6-Diaminoheptanedioate",cpdAGORA0074,C7H14N2O4,0,,,0
+26dap_M[c],"meso-2,6-Diaminoheptanedioate",cpdAGORA0075,C7H14N2O4,0,,,0
+2agpe120[c],"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0)",cpdAGORA0076,C17H36NO7P1,0,,,0
+2agpe140[c],"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)",cpdAGORA0077,C19H40NO7P1,0,,,0
+2agpe141[c],"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)",cpdAGORA0078,C19H38NO7P1,0,,,0
+2agpe160[c],"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0)",cpdAGORA0079,C21H44NO7P,0,,,0
+2agpe161[c],"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)",cpdAGORA0080,C21H42NO7P1,0,,,0
+2agpe180[c],"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0)",cpdAGORA0081,C23H48NO7P,0,,,0
+2agpe181[c],"2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)",cpdAGORA0082,C23H46NO7P1,0,,,0
+2agpg120[c],"2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0)",cpdAGORA0083,C18H36O9P1,-1,,,0
+2agpg140[c],"2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)",cpdAGORA0084,C20H40O9P1,-1,,,0
+2agpg141[c],"2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1)",cpdAGORA0085,C20H38O9P1,-1,,,0
+2agpg160[c],"2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0)",cpdAGORA0086,C22H44O9P1,-1,,,0
+2agpg161[c],"2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)",cpdAGORA0087,C22H42O9P1,-1,,,0
+2agpg180[c],"2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0)",cpdAGORA0088,C24H48O9P1,-1,,,0
+2agpg181[c],"2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)",cpdAGORA0089,C24H46O9P1,-1,,,0
+2ahbut[c],"(S)-2-Aceto-2-hydroxybutanoate",cpdAGORA0090,C6H9O4,-1,,,0
+2aobut[c],"L-2-amino-3-oxobutanoic acid",cpdAGORA0091,C4H7NO3,0,C03508,HMDB06454,0
+2dda7p[c],"2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate",cpdAGORA0092,C7H10O10P,-3,,,0
+2ddecg3p[c],"2-dodecanoyl-sn-glycerol 3-phosphate",cpdAGORA0093,C15H30O7P1,-1,,,0
+2ddg6p[c],"2-Dehydro-3-deoxy-D-gluconate 6-phosphate",cpdAGORA0094,C6H8O9P,-3,,,0
+2ddglcn[c],"2-Dehydro-3-deoxy-D-gluconate",cpdAGORA0095,C6H9O6,-1,,,0
+2dhp[c],"2-Dehydropantoate",cpdAGORA0096,C6H9O4,-1,,,0
+2dmmq7[c],"2-Demethylmenaquinone 7",cpdAGORA0097,C45H62O2,0,C05818,,0
+2dmmq8[c],"2-Demethylmenaquinone 8",cpdAGORA0098,C50H70O2,0,,,0
+2dmmql8[c],"2-Demethylmenaquinol 8",cpdAGORA0099,C50H72O2,0,,,0
+2dr1p[c],"2-Deoxy-D-ribose 1-phosphate",cpdAGORA0100,C5H9O7P,-2,C00672,HMDB01351,0
+2dr5p[c],"2-deoxy-D-ribose 5-phosphate(2-)",cpdAGORA0101,C5H9O7P,-2,C00673,HMDB01031,0
+2h3oppan[c],"2-Hydroxy-3-oxopropanoate",cpdAGORA0102,C3H3O4,-1,,,0
+2hdec9eg3p[c],"2-hexadec-9-enoyl-sn-glycerol 3-phosphate",cpdAGORA0103,C19H36O7P1,-1,,,0
+2hdecg3p[c],"2-hexadecanoyl-sn-glycerol 3-phosphate",cpdAGORA0104,C19H38O7P,-1,,,0
+2ippm[c],"2-Isopropylmaleate",cpdAGORA0105,C7H8O4,-2,,,0
+2maacoa[c],"2-methylacetoacetyl-CoA(4-)",cpdAGORA0106,C26H38N7O18P3S,-4,C03344,HMDB01157,0
+2mahmp[c],"2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate",cpdAGORA0107,C6H8N3O7P2,-3,,,0
+2mbcoa[c],"2-methylbutanoyl-CoA(4-)",cpdAGORA0108,C26H40N7O17P3S,-4,C01033,HMDB01041,0
+2mbutACP[c],"2-methylbutanoyl-ACP,2-methylbutyryl-ACP",cpdAGORA0109,C16H29N2O8PRS,-1,,,0
+2me4p[c],"2-C-methyl-D-erythritol 4-phosphate",cpdAGORA0110,C5H11O7P,-2,,,0
+2mecdp[c],"2-C-methyl-D-erythritol 2,4-cyclodiphosphate",cpdAGORA0111,C5H10O9P2,-2,,,0
+2mnptl[c],"2-Methylnaphthalene",cpdAGORA0112,C11H10,0,,,0
+2mop[c],"2-methyl-3-oxopropanoate",cpdAGORA0113,C4H5O3,-1,C00349,HMDB01172,0
+2mpropACP[c],"2-methylpropionyl-ACP,isobutyryl-ACP",cpdAGORA0114,C15H27N2O8PRS,-1,,,0
+2obut[c],"2-Oxobutanoate",cpdAGORA0115,C4H5O3,-1,C00109,HMDB00005,0
+2odec11eg3p[c],"2-octadec-11-enoyl-sn-glycerol 3-phosphate",cpdAGORA0116,C21H40O7P1,-1,,,0
+2odecg3p[c],"2-octadecanoyl-sn-glycerol 3-phosphate",cpdAGORA0117,C21H42O7P1,-1,,,0
+2ohph[c],"2-Octaprenyl-6-hydroxyphenol",cpdAGORA0118,C46H70O2,0,,,0
+2ombzl[c],"2-Octaprenyl-6-methoxy-1,4-benzoquinol",cpdAGORA0119,C47H72O3,0,,,0
+2omhmbl[c],"2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol",cpdAGORA0120,C48H74O4,0,,,0
+2ommbl[c],"2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol",cpdAGORA0121,C48H74O3,0,,,0
+2omph[c],"2-Octaprenyl-6-methoxyphenol",cpdAGORA0122,C47H72O2,0,,,0
+2oph[c],"2-Octaprenylphenol",cpdAGORA0123,C46H70O,0,,,0
+2p4c2me[c],"2-phospho-4-(cytidine 5-diphospho)-2-C-methyl-D-erythritol",cpdAGORA0124,C14H22N3O17P3,-4,,,0
+2pg[c],"D-Glycerate 2-phosphate",cpdAGORA0125,C3H4O7P,-3,C00631,HMDB03391,0
+2pglyc[c],"2-phosphonatoglycolate(3-)",cpdAGORA0126,C2H2O6P,-3,C00988,HMDB00816,0
+2tdec7eg3p[c],"2-tetradec-7-enoyl-sn-glycerol 3-phosphate",cpdAGORA0127,C17H32O7P1,-1,,,0
+2tdecg3p[c],"2-tetradecanoyl-sn-glycerol 3-phosphate",cpdAGORA0128,C17H34O7P1,-1,,,0
+33hmeoxobut[c],"2-Oxo-3-hydroxyisovalerate",cpdAGORA0129,C5H7O4,-1,,,0
+34hpp[c],"3-(4-hydroxyphenyl)pyruvate",cpdAGORA0130,C9H7O4,-1,C01179,HMDB00707,0
+3c2hmp[c],"3-Carboxy-2-hydroxy-4-methylpentanoate",cpdAGORA0131,C7H10O5,-2,,,0
+3c3hmp[c],"3-Carboxy-3-hydroxy-4-methylpentanoate",cpdAGORA0132,C7H10O5,-2,,,0
+3c4mop[c],"3-Carboxy-4-methyl-2-oxopentanoate",cpdAGORA0133,C7H8O5,-2,,,0
+3dhq[c],"3-Dehydroquinate",cpdAGORA0134,C7H9O6,-1,,,0
+3dhsk[c],"3-Dehydroshikimate",cpdAGORA0135,C7H7O5,-1,,,0
+3h3mop[c],"(R)-3-Hydroxy-3-methyl-2-oxopentanoate",cpdAGORA0136,C6H9O4,-1,,,0
+3haACP[c],"(3R)-3-Hydroxyacyl-[acyl-carrier protein]",cpdAGORA0137,C15H27N2O9PRS,-1,,,0
+3hadpcoa[c],"(3S)-3-Hydroxyadipyl-CoA",cpdAGORA0138,C27H39N7O20P3S,-5,C14145,,0
+3hbcoa[c],"(S)-3-hydroxybutanoyl-CoA(4-)",cpdAGORA0139,C25H38N7O18P3S,-4,C01144,HMDB01166,0
+3hdcoa[c],"(S)-3-Hydroxydecanoyl-CoA",cpdAGORA0140,C31H50N7O18P3S,-4,C05264,HMDB03938,0
+3hddcoa[c],"(S)-3-Hydroxydodecanoyl-CoA",cpdAGORA0141,C33H54N7O18P3S,-4,C05262,HMDB03936,0
+3hddecACP[c],"(R)-3-Hydroxydodecanoyl-[acyl-carrier protein]",cpdAGORA0142,C23H43N2O9PRS,-1,,,0
+3hdecACP[c],"(R)-3-Hydroxydecanoyl-[acyl-carrier protein]",cpdAGORA0143,C21H39N2O9PRS,-1,,,0
+3hhcoa[c],"(S)-3-Hydroxyhexanoyl-CoA",cpdAGORA0144,C27H42N7O18P3S,-4,,,0
+3hhdcoa[c],"(S)-3-Hydroxyhexadecanoyl-CoA",cpdAGORA0145,C37H62N7O18P3S,-4,,,0
+3hhexACP[c],"(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]",cpdAGORA0146,C17H31N2O9PRS,-1,,,0
+3hmbcoa[c],"(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA(4-)",cpdAGORA0147,C26H40N7O18P3S,-4,C04405,HMDB01356,0
+3hmp[c],"3-hydroxy-2-methylpropanoate",cpdAGORA0148,C4H7O3,-1,C06001,HMDB00023,0
+3hmrsACP[c],"(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]",cpdAGORA0149,C25H47N2O9PRS,-1,,,0
+3hocoa[c],"(S)-3-Hydroxyoctanoyl-CoA",cpdAGORA0150,C29H46N7O18P3S,-4,,,0
+3hoctACP[c],"(R)-3-Hydroxyoctanoyl-[acyl-carrier protein]",cpdAGORA0151,C19H35N2O9PRS,-1,,,0
+3hoctaACP[c],"(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]",cpdAGORA0152,C29H55N2O9PRS,-1,,,0
+3hpalmACP[c],"R-3-hydroxypalmitoyl-[acyl-carrier protein]",cpdAGORA0153,C27H51N2O9PRS,-1,,,0
+3htdcoa[c],"(S)-3-Hydroxytetradecanoyl-CoA",cpdAGORA0154,C35H58N7O18P3S,-4,C05260,HMDB03934,0
+3ig3p[c],"C-(3-Indolyl)-glycerol 3-phosphate",cpdAGORA0155,C11H12NO6P,-2,,,0
+3mb2coa[c],"3-methylbut-2-enoyl-CoA(4-)",cpdAGORA0156,C26H38N7O17P3S,-4,C03069,HMDB01493,0
+3mbutACP[c],"3-methylbutanoyl-ACP,isovaleryl-ACP",cpdAGORA0157,C16H29N2O8PRS,-1,,,0
+3mgcoa[c],"trans-3-methylglutaconyl-CoA(5-)",cpdAGORA0158,C27H37N7O19P3S,-5,C03231,HMDB01057,0
+3mob[c],"3-methyl-2-oxobutanoate",cpdAGORA0159,C5H7O3,-1,C00141,HMDB00019,0
+3mop[c],"3-methyl-2-oxopentanoate",cpdAGORA0160,C6H9O3,-1,C03465,HMDB00491,0
+3odcoa[c],"3-Oxodecanoyl-CoA",cpdAGORA0161,C31H48N7O18P3S,-4,C05265,HMDB03939,0
+3oddcoa[c],"3-Oxododecanoyl-CoA",cpdAGORA0162,C33H52N7O18P3S,-4,C05263,HMDB03937,0
+3oddecACP[c],"3-Oxododecanoyl-[acyl-carrier protein]",cpdAGORA0163,C23H41N2O9PRS,-1,,,0
+3odecACP[c],"3-Oxodecanoyl-[acyl-carrier protein]",cpdAGORA0164,C21H37N2O9PRS,-1,,,0
+3ohcoa[c],"3-Oxohexanoyl-CoA",cpdAGORA0165,C27H40N7O18P3S,-4,,,0
+3ohdcoa[c],"3-oxopalmitoyl-CoA(4-)",cpdAGORA0166,C37H60N7O18P3S,-4,C05259,HMDB06402,0
+3ohexACP[c],"3-Oxohexanoyl-[acyl-carrier protein]",cpdAGORA0167,C17H29N2O9PRS,-1,,,0
+3omrsACP[c],"3-Oxotetradecanoyl-[acyl-carrier protein]",cpdAGORA0168,C25H45N2O9PRS,-1,,,0
+3oocoa[c],"3-Oxooctanoyl-CoA",cpdAGORA0169,C29H44N7O18P3S,-4,,,0
+3ooctACP[c],"3-Oxooctanoyl-[acyl-carrier protein]",cpdAGORA0170,C19H33N2O9PRS,-1,,,0
+3ooctdACP[c],"3-Oxooctadecanoyl-[acyl-carrier protein]",cpdAGORA0171,C29H53N2O9PRS,-1,,,0
+3opalmACP[c],"3-Oxohexadecanoyl-[acyl-carrier protein]",cpdAGORA0172,C27H49N2O9PRS,-1,,,0
+3ophb[c],"3-Octaprenyl-4-hydroxybenzoate",cpdAGORA0173,C47H69O3,-1,,,0
+3otdcoa[c],"3-Oxotetradecanoyl-CoA",cpdAGORA0174,C35H56N7O18P3S,-4,C05261,HMDB03935,0
+3pg[c],"3-Phospho-D-glycerate",cpdAGORA0175,C3H4O7P,-3,C00597,HMDB00807,0
+3php[c],"3-phosphonatooxypyruvate(3-)",cpdAGORA0176,C3H2O7P,-3,C03232,HMDB01024,0
+3psme[c],"5-O-(1-Carboxyvinyl)-3-phosphoshikimate",cpdAGORA0177,C10H9O10P,-4,,,0
+4abut[c],"4-Aminobutanoate",cpdAGORA0178,C4H9NO2,0,C00334,HMDB00112,0
+4abut[e],"4-Aminobutanoate",cpdAGORA0179,C4H9NO2,0,C00334,HMDB00112,0
+4abutn[c],"4-Aminobutanal",cpdAGORA0180,C4H10NO,1,C00555,HMDB01080,0
+4ahmmp[c],"4-Amino-5-hydroxymethyl-2-methylpyrimidine",cpdAGORA0181,C6H9N3O,0,,,0
+4ampm[c],"4-Amino-2-methyl-5-phosphomethylpyrimidine",cpdAGORA0182,C6H8N3O4P,-2,,,0
+4c2me[c],"4-(cytidine 5-diphospho)-2-C-methyl-D-erythritol",cpdAGORA0183,C14H23N3O14P2,-2,,,0
+4h2oglt[c],"4-hydroxy-2-oxoglutarate(2-)",cpdAGORA0184,C5H4O6,-2,C01127,HMDB02070,0
+4hba[c],"4-Hydroxy-benzyl alcohol",cpdAGORA0185,C7H8O2,0,,,0
+4hbz[c],"4-hydroxybenzoate",cpdAGORA0186,C7H5O3,-1,C00156,HMDB00500,0
+4hthr[c],"4-Hydroxy-L-threonine",cpdAGORA0187,C4H9NO4,0,,,0
+4m3hhexACP[c],"4-methyl-3-hydroxy-hexanoyl-ACP",cpdAGORA0188,C18H33N2O9PRS,-1,,,0
+4m3hpentACP[c],"4-methyl-3-hydroxy-pentanoyl-ACP",cpdAGORA0189,C17H31N2O9PRS,-1,,,0
+4m3ohexACP[c],"4-methyl-3-oxo-hexanoyl-ACP",cpdAGORA0190,C18H31N2O9PRS,-1,,,0
+4m3opentACP[c],"4-methyl-3-oxo-pentanoyl-ACP",cpdAGORA0191,C17H29N2O9PRS,-1,,,0
+4mhetz[c],"4-Methyl-5-(2-hydroxyethyl)-thiazole",cpdAGORA0192,C6H9NOS,0,,,0
+4mhexACP[c],"4-methyl-hexanoyl-ACP",cpdAGORA0193,C18H33N2O8PRS,-1,,,0
+4mop[c],"4-methyl-2-oxopentanoate",cpdAGORA0194,C6H9O3,-1,C00233,HMDB00695,0
+4mpentACP[c],"4-methyl-pentanoyl-ACP",cpdAGORA0195,C17H31N2O8PRS,-1,,,0
+4mpetz[c],"4-Methyl-5-(2-phosphoethyl)-thiazole",cpdAGORA0196,C6H8NO4PS,-2,,,0
+4mthex2eACP[c],"4-methyl-trans-hex-2-enoyl-ACP",cpdAGORA0197,C18H31N2O8PRS,-1,,,0
+4pasp[c],"4-Phospho-L-aspartate",cpdAGORA0198,C4H6NO7P,-2,,,0
+4per[c],"4-Phospho-D-erythronate",cpdAGORA0199,C4H6O8P,-3,,,0
+4ppan[c],"D-4-Phosphopantothenate",cpdAGORA0200,C9H15NO8P,-3,C03492,HMDB01016,0
+4ppcys[c],"N-((R)-4-Phosphopantothenoyl)-L-cysteine",cpdAGORA0201,C12H20N2O9PS,-3,C04352,HMDB01117,0
+5aizc[c],"5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate",cpdAGORA0202,C9H11N3O9P,-3,C04751,HMDB06273,0
+5forthf[c],"5-Formiminotetrahydrofolate",cpdAGORA0203,C20H22N8O6,-2,C00664,HMDB01534,0
+5fthf[c],"5-formyltetrahydrofolate(2-)",cpdAGORA0204,C20H21N7O7,-2,C03479,HMDB01562,0
+5m3hhexACP[c],"5-methyl-3-hydroxy-hexanoyl-ACP",cpdAGORA0205,C18H33N2O9PRS,-1,,,0
+5m3ohexACP[c],"5-methyl-3-oxo-hexanoyl-ACP",cpdAGORA0206,C18H31N2O9PRS,-1,,,0
+5mdr1p[c],"5-Methylthio-5-deoxy-D-ribose 1-phosphate",cpdAGORA0207,C6H11O7PS,-2,C04188,HMDB00963,0
+5mdru1p[c],"5-Methylthio-5-deoxy-D-ribulose 1-phosphate",cpdAGORA0208,C6H11O7PS,-2,C04582,HMDB01299,0
+5mhexACP[c],"5-methyl-hexanoyl-ACP",cpdAGORA0209,C18H33N2O8PRS,-1,,,0
+5mta[c],"5-Methylthioadenosine",cpdAGORA0210,C11H15N5O3S,0,C00170,HMDB01173,0
+5mthex2eACP[c],"5-methyl-trans-hex-2-enoyl-ACP",cpdAGORA0211,C18H31N2O8PRS,-1,,,0
+5mthf[c],"5-Methyltetrahydrofolate",cpdAGORA0212,C20H24N7O6,-1,C00440,HMDB01396,0
+5mthglu[c],"5-Methyltetrahydropteroyltri-L-glutamate",cpdAGORA0213,C30H39N9O12,0,,,0
+5mtr[c],"5-Methylthio-D-ribose",cpdAGORA0214,C6H12O4S,0,,,0
+5prdmbz[c],"N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole",cpdAGORA0215,C14H17N2O7P,-2,,,0
+6m3hheptACP[c],"6-methyl-3-hydroxy-heptanoyl-ACP",cpdAGORA0216,C19H35N2O9PRS,-1,,,0
+6m3hocACP[c],"6-methyl-3-hydroxy-octanoyl-ACP",cpdAGORA0217,C20H37N2O9PRS,-1,,,0
+6m3oheptACP[c],"6-methyl-3-oxo-heptanoyl-ACP",cpdAGORA0218,C19H33N2O9PRS,-1,,,0
+6m3oocACP[c],"6-methyl-3-oxo-octanoyl-ACP",cpdAGORA0219,C20H35N2O9PRS,-1,,,0
+6mheptACP[c],"6-methyl-heptanoyl-ACP",cpdAGORA0220,C19H35N2O8PRS,-1,,,0
+6mocACP[c],"6-methyl-octanoyl-ACP",cpdAGORA0221,C20H37N2O8PRS,-1,,,0
+6mtoct2eACP[c],"6-methyl-trans-oct-2-enoyl-ACP",cpdAGORA0222,C20H35N2O8PRS,-1,,,0
+7m3hocACP[c],"7-methyl-3-hydroxy-octanoyl-ACP",cpdAGORA0223,C20H37N2O9PRS,-1,,,0
+7m3oocACP[c],"7-methyl-3-oxo-octanoyl-ACP",cpdAGORA0224,C20H35N2O9PRS,-1,,,0
+7mocACP[c],"7-methyl-octanoyl-ACP",cpdAGORA0225,C20H37N2O8PRS,-1,,,0
+7mtoct2eACP[c],"7-methyl-trans-oct-2-enoyl-ACP",cpdAGORA0226,C20H35N2O8PRS,-1,,,0
+8m3hdcaACP[c],"8-methyl-3-hydroxy-decanoyl-ACP",cpdAGORA0227,C22H41N2O9PRS,-1,,,0
+8m3hnonACP[c],"8-methyl-3-hydroxy-nonanoyl-ACP",cpdAGORA0228,C21H39N2O9PRS,-1,,,0
+8m3odcaACP[c],"8-methyl-3-oxo-decanoyl-ACP",cpdAGORA0229,C22H39N2O9PRS,-1,,,0
+8m3ononACP[c],"8-methyl-3-oxo-nonanoyl-ACP",cpdAGORA0230,C21H37N2O9PRS,-1,,,0
+8mdcaACP[c],"8-methyl-decanoyl-ACP",cpdAGORA0231,C22H41N2O8PRS,-1,,,0
+8mnonACP[c],"8-methyl-nonanoyl-ACP",cpdAGORA0232,C21H39N2O8PRS,-1,,,0
+8mtdec2eACP[c],"8-methyl-trans-dec-2-enoyl-ACP",cpdAGORA0233,C22H39N2O8PRS,-1,,,0
+9m3hdcaACP[c],"9-methyl-3-hydroxy-decanoyl-ACP",cpdAGORA0234,C22H41N2O9PRS,-1,,,0
+9m3odcaACP[c],"9-methyl-3-oxo-decanoyl-ACP",cpdAGORA0235,C22H39N2O9PRS,-1,,,0
+9mdcaACP[c],"9-methyl-decanoyl-ACP",cpdAGORA0236,C22H41N2O8PRS,-1,,,0
+9mtdec2eACP[c],"9-methyl-trans-dec-2-enoyl-ACP",cpdAGORA0237,C22H39N2O8PRS,-1,,,0
+ACP[c],"acyl carrier protein",cpdAGORA0238,C11H21N2O7PRS,-1,,,0
+HC01104[c],"4-nitrophenyl phosphate(2-)",cpdAGORA0239,C6H4NO6P,-2,C03360,,0
+HC01434[c],"oxalatosuccinate(3-)",cpdAGORA0240,C6H3O7,-3,C05379,HMDB03974,0
+Largn[c],"L-Arogenate",cpdAGORA0241,C10H12NO5,-1,C00826,,0
+MGlcn100[e],"mucin-type O-glycan No 100",cpdAGORA0242,C61H99N5O43X,-1,,,0
+MGlcn100_rl[e],"released mucin-type O-glycan No 100",cpdAGORA0243,C61H100N5O44,-1,,,0
+MGlcn101[e],"mucin-type O-glycan No 101",cpdAGORA0244,C69H112N6O48X,-1,,,0
+MGlcn101_rl[e],"released mucin-type O-glycan No 101",cpdAGORA0245,C69H113N6O49,-1,,,0
+MGlcn102[e],"mucin-type O-glycan No 102",cpdAGORA0246,C80H128N7O56X,-2,,,0
+MGlcn102_rl[e],"released mucin-type O-glycan No 102",cpdAGORA0247,C80H129N7O57,-2,,,0
+MGlcn103[e],"mucin-type O-glycan No 103",cpdAGORA0248,C88H141N8O61X,-2,,,0
+MGlcn103_rl[e],"released mucin-type O-glycan No 103",cpdAGORA0249,C88H142N8O62,-2,,,0
+MGlcn104[e],"mucin-type O-glycan No 104",cpdAGORA0250,C46H77N2O34X,0,,,0
+MGlcn104_rl[e],"released mucin-type O-glycan No 104",cpdAGORA0251,C46H78N2O35,0,,,0
+MGlcn105[e],"mucin-type O-glycan No 105",cpdAGORA0252,C46H77N2O34X,0,,,0
+MGlcn105_rl[e],"released mucin-type O-glycan No 105",cpdAGORA0253,C46H78N2O35,0,,,0
+MGlcn106[e],"mucin-type O-glycan No 106",cpdAGORA0254,C54H90N3O39X,0,,,0
+MGlcn106_rl[e],"released mucin-type O-glycan No 106",cpdAGORA0255,C54H91N3O40,0,,,0
+MGlcn107[e],"mucin-type O-glycan No 107",cpdAGORA0256,C54H90N3O39X,0,,,0
+MGlcn107_rl[e],"released mucin-type O-glycan No 107",cpdAGORA0257,C54H91N3O40,0,,,0
+MGlcn108[e],"mucin-type O-glycan No 108",cpdAGORA0258,C42H70N3O29X,0,,,0
+MGlcn108_rl[e],"released mucin-type O-glycan No 108",cpdAGORA0259,C42H71N3O30,0,,,0
+MGlcn109[e],"mucin-type O-glycan No 109",cpdAGORA0260,C36H60N3O25X,0,,,0
+MGlcn109_rl[e],"released mucin-type O-glycan No 109",cpdAGORA0261,C36H61N3O26,0,,,0
+MGlcn10[e],"mucin-type O-glycan No 10",cpdAGORA0262,C44H69N4O31X,-2,,,0
+MGlcn10_rl[e],"released mucin-type O-glycan No 10",cpdAGORA0263,C44H70N4O32,-2,,,0
+MGlcn110[e],"mucin-type O-glycan No 110",cpdAGORA0264,C36H60N3O25X,0,,,0
+MGlcn110_rl[e],"released mucin-type O-glycan No 110",cpdAGORA0265,C36H61N3O26,0,G06866,,0
+MGlcn111[e],"mucin-type O-glycan No 111",cpdAGORA0266,C34H57N2O25X,0,,,0
+MGlcn111_rl[e],"released mucin-type O-glycan No 111",cpdAGORA0267,C34H58N2O26,0,,,0
+MGlcn112[e],"mucin-type O-glycan No 112",cpdAGORA0268,C34H57N2O25X,0,,,0
+MGlcn112_rl[e],"released mucin-type O-glycan No 112",cpdAGORA0269,C34H58N2O26,0,G06868,,0
+MGlcn113[e],"mucin-type O-glycan No 113",cpdAGORA0270,C42H70N3O30X,0,,,0
+MGlcn113_rl[e],"released mucin-type O-glycan No 113",cpdAGORA0271,C42H71N3O31,0,G01462,,0
+MGlcn114[e],"mucin-type O-glycan No 114",cpdAGORA0272,C40H67N2O30X,0,,,0
+MGlcn114_rl[e],"released mucin-type O-glycan No 114",cpdAGORA0273,C40H68N2O31,0,,,0
+MGlcn115[e],"mucin-type O-glycan No 115",cpdAGORA0274,C48H80N3O35X,0,,,0
+MGlcn115_rl[e],"released mucin-type O-glycan No 115",cpdAGORA0275,C48H81N3O36,0,,,0
+MGlcn116[e],"mucin-type O-glycan No 116",cpdAGORA0276,C33H53N3O23X,-1,,,0
+MGlcn116_rl[e],"released mucin-type O-glycan No 116",cpdAGORA0277,C33H54N3O24,-1,,,0
+MGlcn117[e],"mucin-type O-glycan No 117",cpdAGORA0278,C39H63N3O28X,-1,,,0
+MGlcn117_rl[e],"released mucin-type O-glycan No 117",cpdAGORA0279,C39H64N3O29,-1,G00592,,0
+MGlcn118[e],"mucin-type O-glycan No 118",cpdAGORA0280,C53H86N4O37X,-1,,,0
+MGlcn118_rl[e],"released mucin-type O-glycan No 118",cpdAGORA0281,C53H87N4O38,-1,,,0
+MGlcn119[e],"mucin-type O-glycan No 119",cpdAGORA0282,C53H86N4O37X,-1,,,0
+MGlcn119_rl[e],"released mucin-type O-glycan No 119",cpdAGORA0283,C53H87N4O38,-1,,,0
+MGlcn120[e],"mucin-type O-glycan No 120",cpdAGORA0284,C47H76N4O33X,-1,,,0
+MGlcn120_rl[e],"released mucin-type O-glycan No 120",cpdAGORA0285,C47H77N4O34,-1,,,0
+MGlcn121[e],"mucin-type O-glycan No 121",cpdAGORA0286,C61H99N5O42X,-1,,,0
+MGlcn121_rl[e],"released mucin-type O-glycan No 121",cpdAGORA0287,C61H100N5O43,-1,,,0
+MGlcn122[e],"mucin-type O-glycan No 122",cpdAGORA0288,C61H99N5O42X,-1,,,0
+MGlcn122_rl[e],"released mucin-type O-glycan No 122",cpdAGORA0289,C61H100N5O43,-1,,,0
+MGlcn123[e],"mucin-type O-glycan No 123",cpdAGORA0290,C55H89N5O38X,-1,,,0
+MGlcn123_rl[e],"released mucin-type O-glycan No 123",cpdAGORA0291,C55H90N5O39,-1,,,0
+MGlcn124[e],"mucin-type O-glycan No 124",cpdAGORA0292,C55H89N5O38X,-1,,,0
+MGlcn124_rl[e],"released mucin-type O-glycan No 124",cpdAGORA0293,C55H90N5O39,-1,,,0
+MGlcn126[e],"mucin-type O-glycan No 126",cpdAGORA0294,C61H99N5O43X,-1,,,0
+MGlcn126_rl[e],"released mucin-type O-glycan No 126",cpdAGORA0295,C61H100N5O44,-1,,,0
+MGlcn127[e],"mucin-type O-glycan No 127",cpdAGORA0296,C75H122N6O52X,-1,,,0
+MGlcn127_rl[e],"released mucin-type O-glycan No 127",cpdAGORA0297,C75H123N6O53,-1,,,0
+MGlcn128[e],"mucin-type O-glycan No 128",cpdAGORA0298,C75H122N6O52X,-1,,,0
+MGlcn128_rl[e],"released mucin-type O-glycan No 128",cpdAGORA0299,C75H123N6O53,-1,,,0
+MGlcn129[e],"mucin-type O-glycan No 129",cpdAGORA0300,C75H122N6O52X,-1,,,0
+MGlcn129_rl[e],"released mucin-type O-glycan No 129",cpdAGORA0301,C75H123N6O53,-1,,,0
+MGlcn12[e],"mucin-type O-glycan No 12",cpdAGORA0302,C22H37N2O15X,0,,,0
+MGlcn12_rl[e],"released mucin-type O-glycan No 12",cpdAGORA0303,C22H38N2O16,0,G03456,,0
+MGlcn130[e],"mucin-type O-glycan No 130",cpdAGORA0304,C69H112N6O48X,-1,,,0
+MGlcn130_rl[e],"released mucin-type O-glycan No 130",cpdAGORA0305,C69H113N6O49,-1,,,0
+MGlcn131[e],"mucin-type O-glycan No 131",cpdAGORA0306,C69H112N6O48X,-1,,,0
+MGlcn131_rl[e],"released mucin-type O-glycan No 131",cpdAGORA0307,C69H113N6O49,-1,,,0
+MGlcn132[e],"mucin-type O-glycan No 132",cpdAGORA0308,C69H112N6O48X,-1,,,0
+MGlcn132_rl[e],"released mucin-type O-glycan No 132",cpdAGORA0309,C69H113N6O49,-1,,,0
+MGlcn133[e],"mucin-type O-glycan No 133",cpdAGORA0310,C83H135N7O57X,-1,,,0
+MGlcn133_rl[e],"released mucin-type O-glycan No 133",cpdAGORA0311,C83H136N7O58,-1,,,0
+MGlcn134[e],"mucin-type O-glycan No 134",cpdAGORA0312,C83H135N7O57X,-1,,,0
+MGlcn134_rl[e],"released mucin-type O-glycan No 134",cpdAGORA0313,C83H136N7O58,-1,,,0
+MGlcn135[e],"mucin-type O-glycan No 135",cpdAGORA0314,C77H125N7O53X,-1,,,0
+MGlcn135_rl[e],"released mucin-type O-glycan No 135",cpdAGORA0315,C77H126N7O54,-1,,,0
+MGlcn136[e],"mucin-type O-glycan No 136",cpdAGORA0316,C77H125N7O53X,-1,,,0
+MGlcn136_rl[e],"released mucin-type O-glycan No 136",cpdAGORA0317,C77H126N7O54,-1,,,0
+MGlcn137[e],"mucin-type O-glycan No 137",cpdAGORA0318,C34H57N2O24X,0,,,0
+MGlcn137_rl[e],"released mucin-type O-glycan No 137",cpdAGORA0319,C34H58N2O25,0,G07029,,0
+MGlcn138[e],"mucin-type O-glycan No 138",cpdAGORA0320,C34H57N2O24X,0,,,0
+MGlcn138_rl[e],"released mucin-type O-glycan No 138",cpdAGORA0321,C34H58N2O25,0,,,0
+MGlcn139[e],"mucin-type O-glycan No 139",cpdAGORA0322,C34H57N2O24X,0,,,0
+MGlcn139_rl[e],"released mucin-type O-glycan No 139",cpdAGORA0323,C34H58N2O25,0,,,0
+MGlcn13[e],"mucin-type O-glycan No 13",cpdAGORA0324,C30H50N3O20X,0,,,0
+MGlcn13_rl[e],"released mucin-type O-glycan No 13",cpdAGORA0325,C30H51N3O21,0,G11528,,0
+MGlcn140[e],"mucin-type O-glycan No 140",cpdAGORA0326,C34H57N2O24X,0,,,0
+MGlcn140_rl[e],"released mucin-type O-glycan No 140",cpdAGORA0327,C34H58N2O25,0,,,0
+MGlcn141[e],"mucin-type O-glycan No 141",cpdAGORA0328,C28H47N2O19X,0,,,0
+MGlcn141_rl[e],"released mucin-type O-glycan No 141",cpdAGORA0329,C28H48N2O20,0,G08438,,0
+MGlcn142[e],"mucin-type O-glycan No 142",cpdAGORA0330,C28H47N2O19X,0,,,0
+MGlcn142_rl[e],"released mucin-type O-glycan No 142",cpdAGORA0331,C28H48N2O20,0,,,0
+MGlcn143[e],"mucin-type O-glycan No 143",cpdAGORA0332,C28H47N2O19X,0,,,0
+MGlcn143_rl[e],"released mucin-type O-glycan No 143",cpdAGORA0333,C28H48N2O20,0,G07897,,0
+MGlcn144[e],"mucin-type O-glycan No 144",cpdAGORA0334,C28H47N2O19X,0,,,0
+MGlcn144_rl[e],"released mucin-type O-glycan No 144",cpdAGORA0335,C28H48N2O20,0,G11584,,0
+MGlcn145[e],"mucin-type O-glycan No 145",cpdAGORA0336,C34H57N2O23X,0,,,0
+MGlcn145_rl[e],"released mucin-type O-glycan No 145",cpdAGORA0337,C34H58N2O24,0,,,0
+MGlcn146[e],"mucin-type O-glycan No 146",cpdAGORA0338,C34H57N2O23X,0,,,0
+MGlcn146_rl[e],"released mucin-type O-glycan No 146",cpdAGORA0339,C34H58N2O24,0,,,0
+MGlcn147[e],"mucin-type O-glycan No 147",cpdAGORA0340,C33H53N3O23X,-1,,,0
+MGlcn147_rl[e],"released mucin-type O-glycan No 147",cpdAGORA0341,C33H54N3O24,-1,,,0
+MGlcn148[e],"mucin-type O-glycan No 148",cpdAGORA0342,C22H37N2O15X,0,,,0
+MGlcn148_rl[e],"released mucin-type O-glycan No 148",cpdAGORA0343,C22H38N2O16,0,G07733,,0
+MGlcn149[e],"mucin-type O-glycan No 149",cpdAGORA0344,C36H60N3O24X,0,,,0
+MGlcn149_rl[e],"released mucin-type O-glycan No 149",cpdAGORA0345,C36H61N3O25,0,,,0
+MGlcn14[e],"mucin-type O-glycan No 14",cpdAGORA0346,C36H60N3O25X,0,,,0
+MGlcn14_rl[e],"released mucin-type O-glycan No 14",cpdAGORA0347,C36H61N3O26,0,G03094,,0
+MGlcn150[e],"mucin-type O-glycan No 150",cpdAGORA0348,C41H66N4O28X,-1,,,0
+MGlcn150_rl[e],"released mucin-type O-glycan No 150",cpdAGORA0349,C41H67N4O29,-1,,,0
+MGlcn151[e],"mucin-type O-glycan No 151",cpdAGORA0350,C41H66N4O28X,-1,,,0
+MGlcn151_rl[e],"released mucin-type O-glycan No 151",cpdAGORA0351,C41H67N4O29,-1,,,0
+MGlcn152[e],"mucin-type O-glycan No 152",cpdAGORA0352,C52H82N5O36X,-2,,,0
+MGlcn152_rl[e],"released mucin-type O-glycan No 152",cpdAGORA0353,C52H83N5O37,-2,G05487,,0
+MGlcn153[e],"mucin-type O-glycan No 153",cpdAGORA0354,C30H50N3O20X,0,,,0
+MGlcn153_rl[e],"released mucin-type O-glycan No 153",cpdAGORA0355,C30H51N3O21,0,,,0
+MGlcn154[e],"mucin-type O-glycan No 154",cpdAGORA0356,C30H50N3O20X,0,,,0
+MGlcn154_rl[e],"released mucin-type O-glycan No 154",cpdAGORA0357,C30H51N3O21,0,G03238,,0
+MGlcn155[e],"mucin-type O-glycan No 155",cpdAGORA0358,C36H60N3O24X,0,,,0
+MGlcn155_rl[e],"released mucin-type O-glycan No 155",cpdAGORA0359,C36H61N3O25,0,,,0
+MGlcn156[e],"mucin-type O-glycan No 156",cpdAGORA0360,C30H50N3O20X,0,,,0
+MGlcn156_rl[e],"released mucin-type O-glycan No 156",cpdAGORA0361,C30H51N3O21,0,,,0
+MGlcn157[e],"mucin-type O-glycan No 157",cpdAGORA0362,C40H67N2O28X,0,,,0
+MGlcn157_rl[e],"released mucin-type O-glycan No 157",cpdAGORA0363,C40H68N2O29,0,,,0
+MGlcn158[e],"mucin-type O-glycan No 158",cpdAGORA0364,C28H47N2O20X,0,,,0
+MGlcn158_rl[e],"released mucin-type O-glycan No 158",cpdAGORA0365,C28H48N2O21,0,,,0
+MGlcn159[e],"mucin-type O-glycan No 159",cpdAGORA0366,C28H47N2O20X,0,,,0
+MGlcn159_rl[e],"released mucin-type O-glycan No 159",cpdAGORA0367,C28H48N2O21,0,,,0
+MGlcn15[e],"mucin-type O-glycan No 15",cpdAGORA0368,C50H83N4O34X,0,,,0
+MGlcn15_rl[e],"released mucin-type O-glycan No 15",cpdAGORA0369,C50H84N4O35,0,G02923,,0
+MGlcn160[e],"mucin-type O-glycan No 160",cpdAGORA0370,C28H47N2O20X,0,,,0
+MGlcn160_rl[e],"released mucin-type O-glycan No 160",cpdAGORA0371,C28H48N2O21,0,G06744,,0
+MGlcn161[e],"mucin-type O-glycan No 161",cpdAGORA0372,C42H70N3O29X,0,,,0
+MGlcn161_rl[e],"released mucin-type O-glycan No 161",cpdAGORA0373,C42H71N3O30,0,,,0
+MGlcn162[e],"mucin-type O-glycan No 162",cpdAGORA0374,C67H109N5O47X,-1,,,0
+MGlcn162_rl[e],"released mucin-type O-glycan No 162",cpdAGORA0375,C67H110N5O48,-1,,,0
+MGlcn163[e],"mucin-type O-glycan No 163",cpdAGORA0376,C36H60N3O25X,0,,,0
+MGlcn163_rl[e],"released mucin-type O-glycan No 163",cpdAGORA0377,C36H61N3O26,0,,,0
+MGlcn164[e],"mucin-type O-glycan No 164",cpdAGORA0378,C55H89N5O38X,-1,,,0
+MGlcn164_rl[e],"released mucin-type O-glycan No 164",cpdAGORA0379,C55H90N5O39,-1,,,0
+MGlcn165[e],"mucin-type O-glycan No 165",cpdAGORA0380,C55H89N5O38X,-1,,,0
+MGlcn165_rl[e],"released mucin-type O-glycan No 165",cpdAGORA0381,C55H90N5O39,-1,,,0
+MGlcn166[e],"mucin-type O-glycan No 166",cpdAGORA0382,C44H73N4O30X,0,,,0
+MGlcn166_rl[e],"released mucin-type O-glycan No 166",cpdAGORA0383,C44H74N4O31,0,,,0
+MGlcn167[e],"mucin-type O-glycan No 167",cpdAGORA0384,C63H102N6O43X,-1,,,0
+MGlcn167_rl[e],"released mucin-type O-glycan No 167",cpdAGORA0385,C63H103N6O44,-1,,,0
+MGlcn168[e],"mucin-type O-glycan No 168",cpdAGORA0386,C63H102N6O43X,-1,,,0
+MGlcn168_rl[e],"released mucin-type O-glycan No 168",cpdAGORA0387,C63H103N6O44,-1,,,0
+MGlcn169[e],"mucin-type O-glycan No 169",cpdAGORA0388,C63H102N6O43X,-1,,,0
+MGlcn169_rl[e],"released mucin-type O-glycan No 169",cpdAGORA0389,C63H103N6O44,-1,,,0
+MGlcn16[e],"mucin-type O-glycan No 16",cpdAGORA0390,C52H86N5O35X,0,,,0
+MGlcn16_rl[e],"released mucin-type O-glycan No 16",cpdAGORA0391,C52H87N5O36,0,G02914,,0
+MGlcn170[e],"mucin-type O-glycan No 170",cpdAGORA0392,C52H86N5O35X,0,,,0
+MGlcn170_rl[e],"released mucin-type O-glycan No 170",cpdAGORA0393,C52H87N5O36,0,,,0
+MGlcn171[e],"mucin-type O-glycan No 171",cpdAGORA0394,C52H86N5O35X,0,,,0
+MGlcn171_rl[e],"released mucin-type O-glycan No 171",cpdAGORA0395,C52H87N5O36,0,,,0
+MGlcn172[e],"mucin-type O-glycan No 172",cpdAGORA0396,C48H80N3O34X,0,,,0
+MGlcn172_rl[e],"released mucin-type O-glycan No 172",cpdAGORA0397,C48H81N3O35,0,,,0
+MGlcn173[e],"mucin-type O-glycan No 173",cpdAGORA0398,C42H70N3O30X,0,,,0
+MGlcn173_rl[e],"released mucin-type O-glycan No 173",cpdAGORA0399,C42H71N3O31,0,,,0
+MGlcn174[e],"mucin-type O-glycan No 174",cpdAGORA0400,C49H79N5O33X,-1,,,0
+MGlcn174_rl[e],"released mucin-type O-glycan No 174",cpdAGORA0401,C49H80N5O34,-1,,,0
+MGlcn175[e],"mucin-type O-glycan No 175",cpdAGORA0402,C38H63N4O25X,0,,,0
+MGlcn175_rl[e],"released mucin-type O-glycan No 175",cpdAGORA0403,C38H64N4O26,0,,,0
+MGlcn176[e],"mucin-type O-glycan No 176",cpdAGORA0404,C61H99N5O42X,-1,,,0
+MGlcn176_rl[e],"released mucin-type O-glycan No 176",cpdAGORA0405,C61H100N5O43,-1,,,0
+MGlcn177[e],"mucin-type O-glycan No 177",cpdAGORA0406,C50H83N4O34X,0,,,0
+MGlcn177_rl[e],"released mucin-type O-glycan No 177",cpdAGORA0407,C50H84N4O35,0,,,0
+MGlcn178[e],"mucin-type O-glycan No 178",cpdAGORA0408,C66H105N6O46X,-2,,,0
+MGlcn178_rl[e],"released mucin-type O-glycan No 178",cpdAGORA0409,C66H106N6O47,-2,,,0
+MGlcn179[e],"mucin-type O-glycan No 179",cpdAGORA0410,C69H112N6O47X,-1,,,0
+MGlcn179_rl[e],"released mucin-type O-glycan No 179",cpdAGORA0411,C69H113N6O48,-1,,,0
+MGlcn17[e],"mucin-type O-glycan No 17",cpdAGORA0412,C72H119N6O49X,0,,,0
+MGlcn17_rl[e],"released mucin-type O-glycan No 17",cpdAGORA0413,C72H120N6O50,0,G04568,,0
+MGlcn180[e],"mucin-type O-glycan No 180",cpdAGORA0414,C58H96N5O39X,0,,,0
+MGlcn180_rl[e],"released mucin-type O-glycan No 180",cpdAGORA0415,C58H97N5O40,0,,,0
+MGlcn181[e],"mucin-type O-glycan No 181",cpdAGORA0416,C74H118N7O51X,-2,,,0
+MGlcn181_rl[e],"released mucin-type O-glycan No 181",cpdAGORA0417,C74H119N7O52,-2,,,0
+MGlcn182[e],"mucin-type O-glycan No 182",cpdAGORA0418,C22H37N2O14X,0,,,0
+MGlcn182_rl[e],"released mucin-type O-glycan No 182",cpdAGORA0419,C22H38N2O15,0,,,0
+MGlcn183[e],"mucin-type O-glycan No 183",cpdAGORA0420,C41H66N4O28X,-1,,,0
+MGlcn183_rl[e],"released mucin-type O-glycan No 183",cpdAGORA0421,C41H67N4O29,-1,,,0
+MGlcn185[e],"mucin-type O-glycan No 185",cpdAGORA0422,C30H50N3O20X,0,,,0
+MGlcn185_rl[e],"released mucin-type O-glycan No 185",cpdAGORA0423,C30H51N3O21,0,,,0
+MGlcn186[e],"mucin-type O-glycan No 186",cpdAGORA0424,C47H76N4O33X,-1,,,0
+MGlcn186_rl[e],"released mucin-type O-glycan No 186",cpdAGORA0425,C47H77N4O34,-1,,,0
+MGlcn187[e],"mucin-type O-glycan No 187",cpdAGORA0426,C47H76N4O33X,-1,,,0
+MGlcn187_rl[e],"released mucin-type O-glycan No 187",cpdAGORA0427,C47H77N4O34,-1,,,0
+MGlcn188[e],"mucin-type O-glycan No 188",cpdAGORA0428,C58H92N5O41X,-2,,,0
+MGlcn188_rl[e],"released mucin-type O-glycan No 188",cpdAGORA0429,C58H93N5O42,-2,,,0
+MGlcn189[e],"mucin-type O-glycan No 189",cpdAGORA0430,C36H60N3O25X,0,,,0
+MGlcn189_rl[e],"released mucin-type O-glycan No 189",cpdAGORA0431,C36H61N3O26,0,,,0
+MGlcn18[e],"mucin-type O-glycan No 18",cpdAGORA0432,C44H73N4O30X,0,,,0
+MGlcn18_rl[e],"released mucin-type O-glycan No 18",cpdAGORA0433,C44H74N4O31,0,G03003,,0
+MGlcn190[e],"mucin-type O-glycan No 190",cpdAGORA0434,C55H89N5O38X,-1,,,0
+MGlcn190_rl[e],"released mucin-type O-glycan No 190",cpdAGORA0435,C55H90N5O39,-1,,,0
+MGlcn191[e],"mucin-type O-glycan No 191",cpdAGORA0436,C55H89N5O38X,-1,,,0
+MGlcn191_rl[e],"released mucin-type O-glycan No 191",cpdAGORA0437,C55H90N5O39,-1,,,0
+MGlcn192[e],"mucin-type O-glycan No 192",cpdAGORA0438,C66H105N6O46X,-2,,,0
+MGlcn192_rl[e],"released mucin-type O-glycan No 192",cpdAGORA0439,C66H106N6O47,-2,,,0
+MGlcn193[e],"mucin-type O-glycan No 193",cpdAGORA0440,C44H73N4O30X,0,,,0
+MGlcn193_rl[e],"released mucin-type O-glycan No 193",cpdAGORA0441,C44H74N4O31,0,,,0
+MGlcn194[e],"mucin-type O-glycan No 194",cpdAGORA0442,C44H73N4O30X,0,,,0
+MGlcn194_rl[e],"released mucin-type O-glycan No 194",cpdAGORA0443,C44H74N4O31,0,,,0
+MGlcn195[e],"mucin-type O-glycan No 195",cpdAGORA0444,C26H44NO19X,0,G10799,,0
+MGlcn195_rl[e],"released mucin-type O-glycan No 195",cpdAGORA0445,C26H45NO20,0,G00912,,0
+MGlcn196[e],"mucin-type O-glycan No 196",cpdAGORA0446,C20H34NO15X,0,,,0
+MGlcn196_rl[e],"released mucin-type O-glycan No 196",cpdAGORA0447,C20H35NO16,0,,,0
+MGlcn19[e],"mucin-type O-glycan No 19",cpdAGORA0448,C66H109N6O45X,0,,,0
+MGlcn19_rl[e],"released mucin-type O-glycan No 19",cpdAGORA0449,C66H110N6O46,0,G02813,,0
+MGlcn20[e],"mucin-type O-glycan No 20",cpdAGORA0450,C44H73N4O30X,0,,,0
+MGlcn20_rl[e],"released mucin-type O-glycan No 20",cpdAGORA0451,C44H74N4O31,0,,,0
+MGlcn21[e],"mucin-type O-glycan No 21",cpdAGORA0452,C58H96N5O40X,0,,,0
+MGlcn21_rl[e],"released mucin-type O-glycan No 21",cpdAGORA0453,C58H97N5O41,0,,,0
+MGlcn22[e],"mucin-type O-glycan No 22",cpdAGORA0454,C20H34NO14X,0,G11128,,0
+MGlcn22_rl[e],"released mucin-type O-glycan No 22",cpdAGORA0455,C20H35NO15,0,G00320,,0
+MGlcn23[e],"mucin-type O-glycan No 23",cpdAGORA0456,C28H47N2O19X,0,,,0
+MGlcn23_rl[e],"released mucin-type O-glycan No 23",cpdAGORA0457,C28H48N2O20,0,G00566,,0
+MGlcn24[e],"mucin-type O-glycan No 24",cpdAGORA0458,C28H47N2O19X,0,G00224,,0
+MGlcn24_rl[e],"released mucin-type O-glycan No 24",cpdAGORA0459,C28H48N2O20,0,G08312,,0
+MGlcn25[e],"mucin-type O-glycan No 25",cpdAGORA0460,C34H57N2O24X,0,,,0
+MGlcn25_rl[e],"released mucin-type O-glycan No 25",cpdAGORA0461,C34H58N2O25,0,G07109,,0
+MGlcn26[e],"mucin-type O-glycan No 26",cpdAGORA0462,C34H57N2O24X,0,,,0
+MGlcn26_rl[e],"released mucin-type O-glycan No 26",cpdAGORA0463,C34H58N2O25,0,G07108,,0
+MGlcn27[e],"mucin-type O-glycan No 27",cpdAGORA0464,C34H57N2O24X,0,,,0
+MGlcn27_rl[e],"released mucin-type O-glycan No 27",cpdAGORA0465,C34H58N2O25,0,G07067,,0
+MGlcn28[e],"mucin-type O-glycan No 28",cpdAGORA0466,C34H57N2O24X,0,,,0
+MGlcn28_rl[e],"released mucin-type O-glycan No 28",cpdAGORA0467,C34H58N2O25,0,G07066,,0
+MGlcn29[e],"mucin-type O-glycan No 29",cpdAGORA0468,C36H60N3O24X,0,,,0
+MGlcn29_rl[e],"released mucin-type O-glycan No 29",cpdAGORA0469,C36H61N3O25,0,G01996,,0
+MGlcn2[e],"mucin-type O-glycan No 2",cpdAGORA0470,C27H43N3O18X,-1,,,0
+MGlcn2_rl[e],"released mucin-type O-glycan No 2",cpdAGORA0471,C27H44N3O19,-1,G11519,,0
+MGlcn30[e],"mucin-type O-glycan No 30",cpdAGORA0472,C40H67N2O28X,0,G00219,,0
+MGlcn30_rl[e],"released mucin-type O-glycan No 30",cpdAGORA0473,C40H68N2O29,0,G00563,,0
+MGlcn31[e],"mucin-type O-glycan No 31",cpdAGORA0474,C40H67N2O29X,0,,,0
+MGlcn31_rl[e],"released mucin-type O-glycan No 31",cpdAGORA0475,C40H68N2O30,0,,,0
+MGlcn32[e],"mucin-type O-glycan No 32",cpdAGORA0476,C42H70N3O29X,0,,,0
+MGlcn32_rl[e],"released mucin-type O-glycan No 32",cpdAGORA0477,C42H71N3O30,0,,,0
+MGlcn33[e],"mucin-type O-glycan No 33",cpdAGORA0478,C46H77N2O32X,0,,,0
+MGlcn33_rl[e],"released mucin-type O-glycan No 33",cpdAGORA0479,C46H78N2O33,0,,,0
+MGlcn34[e],"mucin-type O-glycan No 34",cpdAGORA0480,C46H77N2O33X,0,,,0
+MGlcn34_rl[e],"released mucin-type O-glycan No 34",cpdAGORA0481,C46H78N2O34,0,,,0
+MGlcn35[e],"mucin-type O-glycan No 35",cpdAGORA0482,C46H77N2O33X,0,,,0
+MGlcn35_rl[e],"released mucin-type O-glycan No 35",cpdAGORA0483,C46H78N2O34,0,,,0
+MGlcn36[e],"mucin-type O-glycan No 36",cpdAGORA0484,C46H77N2O33X,0,,,0
+MGlcn36_rl[e],"released mucin-type O-glycan No 36",cpdAGORA0485,C46H78N2O34,0,,,0
+MGlcn37[e],"mucin-type O-glycan No 37",cpdAGORA0486,C48H80N3O33X,0,,,0
+MGlcn37_rl[e],"released mucin-type O-glycan No 37",cpdAGORA0487,C48H81N3O34,0,G01930,,0
+MGlcn38[e],"mucin-type O-glycan No 38",cpdAGORA0488,C48H80N3O33X,0,,,0
+MGlcn38_rl[e],"released mucin-type O-glycan No 38",cpdAGORA0489,C48H81N3O34,0,G05786,,0
+MGlcn39[e],"mucin-type O-glycan No 39",cpdAGORA0490,C22H37N2O15X,0,,,0
+MGlcn39_rl[e],"released mucin-type O-glycan No 39",cpdAGORA0491,C22H38N2O16,0,G00942,,0
+MGlcn3[e],"mucin-type O-glycan No 3",cpdAGORA0492,C33H53N3O23X,-1,,,0
+MGlcn3_rl[e],"released mucin-type O-glycan No 3",cpdAGORA0493,C33H54N3O24,-1,G00682,,0
+MGlcn40[e],"mucin-type O-glycan No 40",cpdAGORA0494,C48H80N3O33X,0,,,0
+MGlcn40_rl[e],"released mucin-type O-glycan No 40",cpdAGORA0495,C48H81N3O34,0,,,0
+MGlcn41[e],"mucin-type O-glycan No 41",cpdAGORA0496,C50H83N4O34X,0,,,0
+MGlcn41_rl[e],"released mucin-type O-glycan No 41",cpdAGORA0497,C50H84N4O35,0,,,0
+MGlcn42[e],"mucin-type O-glycan No 42",cpdAGORA0498,C52H87N2O38X,0,,,0
+MGlcn42_rl[e],"released mucin-type O-glycan No 42",cpdAGORA0499,C52H88N2O39,0,G05387,,0
+MGlcn45[e],"mucin-type O-glycan No 45",cpdAGORA0500,C28H47N2O20X,0,,,0
+MGlcn45_rl[e],"released mucin-type O-glycan No 45",cpdAGORA0501,C28H48N2O21,0,G07612,,0
+MGlcn46[e],"mucin-type O-glycan No 46",cpdAGORA0502,C28H47N2O20X,0,G06742,,0
+MGlcn46_rl[e],"released mucin-type O-glycan No 46",cpdAGORA0503,C28H48N2O21,0,G02047,,0
+MGlcn47[e],"mucin-type O-glycan No 47",cpdAGORA0504,C42H70N3O29X,0,,,0
+MGlcn47_rl[e],"released mucin-type O-glycan No 47",cpdAGORA0505,C42H71N3O30,0,G01465,,0
+MGlcn48[e],"mucin-type O-glycan No 48",cpdAGORA0506,C25H40N2O18X,-1,G10794,,0
+MGlcn48_rl[e],"released mucin-type O-glycan No 48",cpdAGORA0507,C25H41N2O19,-1,G00378,,0
+MGlcn4[e],"mucin-type O-glycan No 4",cpdAGORA0508,C47H76N4O33X,-1,,,0
+MGlcn4_rl[e],"released mucin-type O-glycan No 4",cpdAGORA0509,C47H77N4O34,-1,G02979,,0
+MGlcn50[e],"mucin-type O-glycan No 50",cpdAGORA0510,C31H50N2O22X,-1,G06389,,0
+MGlcn50_rl[e],"released mucin-type O-glycan No 50",cpdAGORA0511,C31H51N2O23,-1,G01490,,0
+MGlcn51[e],"mucin-type O-glycan No 51",cpdAGORA0512,C33H53N3O23X,-1,G00208,,0
+MGlcn51_rl[e],"released mucin-type O-glycan No 51",cpdAGORA0513,C33H54N3O24,-1,G01186,,0
+MGlcn53[e],"mucin-type O-glycan No 53",cpdAGORA0514,C39H63N3O28X,-1,,,0
+MGlcn53_rl[e],"released mucin-type O-glycan No 53",cpdAGORA0515,C39H64N3O29,-1,G00355,,0
+MGlcn54[e],"mucin-type O-glycan No 54",cpdAGORA0516,C50H79N4O36X,-2,G00221,,0
+MGlcn54_rl[e],"released mucin-type O-glycan No 54",cpdAGORA0517,C50H80N4O37,-2,G00336,,0
+MGlcn55[e],"mucin-type O-glycan No 55",cpdAGORA0518,C54H90N3O38X,0,,,0
+MGlcn55_rl[e],"released mucin-type O-glycan No 55",cpdAGORA0519,C54H91N3O39,0,,,0
+MGlcn56[e],"mucin-type O-glycan No 56",cpdAGORA0520,C60H100N3O43X,0,,,0
+MGlcn56_rl[e],"released mucin-type O-glycan No 56",cpdAGORA0521,C60H101N3O44,0,,,0
+MGlcn57[e],"mucin-type O-glycan No 57",cpdAGORA0522,C58H96N5O40X,0,,,0
+MGlcn57_rl[e],"released mucin-type O-glycan No 57",cpdAGORA0523,C58H97N5O41,0,,,0
+MGlcn58[e],"mucin-type O-glycan No 58",cpdAGORA0524,C58H96N5O40X,0,,,0
+MGlcn58_rl[e],"released mucin-type O-glycan No 58",cpdAGORA0525,C58H97N5O41,0,,,0
+MGlcn59[e],"mucin-type O-glycan No 59",cpdAGORA0526,C86H138N7O60X,-2,,,0
+MGlcn59_rl[e],"released mucin-type O-glycan No 59",cpdAGORA0527,C86H139N7O61,-2,,,0
+MGlcn5[e],"mucin-type O-glycan No 5",cpdAGORA0528,C55H89N5O38X,-1,,,0
+MGlcn5_rl[e],"released mucin-type O-glycan No 5",cpdAGORA0529,C55H90N5O39,-1,G02913,,0
+MGlcn60[e],"mucin-type O-glycan No 60",cpdAGORA0530,C86H138N7O60X,-2,,,0
+MGlcn60_rl[e],"released mucin-type O-glycan No 60",cpdAGORA0531,C86H139N7O61,-2,,,0
+MGlcn61[e],"mucin-type O-glycan No 61",cpdAGORA0532,C64H106N5O44X,0,,,0
+MGlcn61_rl[e],"released mucin-type O-glycan No 61",cpdAGORA0533,C64H107N5O45,0,,,0
+MGlcn62[e],"mucin-type O-glycan No 62",cpdAGORA0534,C64H106N5O44X,0,,,0
+MGlcn62_rl[e],"released mucin-type O-glycan No 62",cpdAGORA0535,C64H107N5O45,0,,,0
+MGlcn63[e],"mucin-type O-glycan No 63",cpdAGORA0536,C64H102N5O45X,-2,,,0
+MGlcn63_rl[e],"released mucin-type O-glycan No 63",cpdAGORA0537,C64H103N5O46,-2,,,0
+MGlcn64[e],"mucin-type O-glycan No 64",cpdAGORA0538,C67H109N5O47X,-1,,,0
+MGlcn64_rl[e],"released mucin-type O-glycan No 64",cpdAGORA0539,C67H110N5O48,-1,,,0
+MGlcn65[e],"mucin-type O-glycan No 65",cpdAGORA0540,C72H115N6O51X,-2,,,0
+MGlcn65_rl[e],"released mucin-type O-glycan No 65",cpdAGORA0541,C72H116N6O52,-2,,,0
+MGlcn66[e],"mucin-type O-glycan No 66",cpdAGORA0542,C50H83N4O35X,0,G05243,,0
+MGlcn66_rl[e],"released mucin-type O-glycan No 66",cpdAGORA0543,C50H84N4O36,0,,,0
+MGlcn67[e],"mucin-type O-glycan No 67",cpdAGORA0544,C78H125N6O55X,-2,,,0
+MGlcn67_rl[e],"released mucin-type O-glycan No 67",cpdAGORA0545,C78H126N6O56,-2,,,0
+MGlcn68[e],"mucin-type O-glycan No 68",cpdAGORA0546,C56H93N4O39X,0,,,0
+MGlcn68_rl[e],"released mucin-type O-glycan No 68",cpdAGORA0547,C56H94N4O40,0,,,0
+MGlcn69[e],"mucin-type O-glycan No 69",cpdAGORA0548,C40H67N2O28X,0,,,0
+MGlcn69_rl[e],"released mucin-type O-glycan No 69",cpdAGORA0549,C40H68N2O29,0,,,0
+MGlcn6[e],"mucin-type O-glycan No 6",cpdAGORA0550,C75H122N6O52X,-1,,,0
+MGlcn6_rl[e],"released mucin-type O-glycan No 6",cpdAGORA0551,C75H123N6O53,-1,G04550,,0
+MGlcn70[e],"mucin-type O-glycan No 70",cpdAGORA0552,C40H67N2O28X,0,,,0
+MGlcn70_rl[e],"released mucin-type O-glycan No 70",cpdAGORA0553,C40H68N2O29,0,,,0
+MGlcn71[e],"mucin-type O-glycan No 71",cpdAGORA0554,C46H77N2O33X,0,,,0
+MGlcn71_rl[e],"released mucin-type O-glycan No 71",cpdAGORA0555,C46H78N2O34,0,,,0
+MGlcn72[e],"mucin-type O-glycan No 72",cpdAGORA0556,C30H50N3O20X,0,,,0
+MGlcn72_rl[e],"released mucin-type O-glycan No 72",cpdAGORA0557,C30H51N3O21,0,,,0
+MGlcn73[e],"mucin-type O-glycan No 73",cpdAGORA0558,C22H37N2O15X,0,G11127,,0
+MGlcn73_rl[e],"released mucin-type O-glycan No 73",cpdAGORA0559,C22H38N2O16,0,G03254,,0
+MGlcn74[e],"mucin-type O-glycan No 74",cpdAGORA0560,C34H57N2O24X,0,,,0
+MGlcn74_rl[e],"released mucin-type O-glycan No 74",cpdAGORA0561,C34H58N2O25,0,G11138,,0
+MGlcn75[e],"mucin-type O-glycan No 75",cpdAGORA0562,C40H67N2O28X,0,,,0
+MGlcn75_rl[e],"released mucin-type O-glycan No 75",cpdAGORA0563,C40H68N2O29,0,G06422,,0
+MGlcn76[e],"mucin-type O-glycan No 76",cpdAGORA0564,C40H67N2O28X,0,,,0
+MGlcn76_rl[e],"released mucin-type O-glycan No 76",cpdAGORA0565,C40H68N2O29,0,G06369,,0
+MGlcn77[e],"mucin-type O-glycan No 77",cpdAGORA0566,C28H47N2O20X,0,,,0
+MGlcn77_rl[e],"released mucin-type O-glycan No 77",cpdAGORA0567,C28H48N2O21,0,,,0
+MGlcn78[e],"mucin-type O-glycan No 78",cpdAGORA0568,C28H47N2O20X,0,G11136,,0
+MGlcn78_rl[e],"released mucin-type O-glycan No 78",cpdAGORA0569,C28H48N2O21,0,,,0
+MGlcn79[e],"mucin-type O-glycan No 79",cpdAGORA0570,C28H47N2O20X,0,,,0
+MGlcn79_rl[e],"released mucin-type O-glycan No 79",cpdAGORA0571,C28H48N2O21,0,G07968,,0
+MGlcn7[e],"mucin-type O-glycan No 7",cpdAGORA0572,C72H115N6O50X,-2,,,0
+MGlcn7_rl[e],"released mucin-type O-glycan No 7",cpdAGORA0573,C72H116N6O51,-2,G12059,,0
+MGlcn80[e],"mucin-type O-glycan No 80",cpdAGORA0574,C42H70N3O29X,0,,,0
+MGlcn80_rl[e],"released mucin-type O-glycan No 80",cpdAGORA0575,C42H71N3O30,0,,,0
+MGlcn81[e],"mucin-type O-glycan No 81",cpdAGORA0576,C58H92N5O41X,-2,,,0
+MGlcn81_rl[e],"released mucin-type O-glycan No 81",cpdAGORA0577,C58H93N5O42,-2,G05085,,0
+MGlcn82[e],"mucin-type O-glycan No 82",cpdAGORA0578,C36H60N3O25X,0,,,0
+MGlcn82_rl[e],"released mucin-type O-glycan No 82",cpdAGORA0579,C36H61N3O26,0,G07031,,0
+MGlcn83[e],"mucin-type O-glycan No 83",cpdAGORA0580,C36H60N3O25X,0,,,0
+MGlcn83_rl[e],"released mucin-type O-glycan No 83",cpdAGORA0581,C36H61N3O26,0,G06946,,0
+MGlcn84[e],"mucin-type O-glycan No 84",cpdAGORA0582,C42H70N3O29X,0,,,0
+MGlcn84_rl[e],"released mucin-type O-glycan No 84",cpdAGORA0583,C42H71N3O30,0,G01956,,0
+MGlcn85[e],"mucin-type O-glycan No 85",cpdAGORA0584,C42H70N3O29X,0,,,0
+MGlcn85_rl[e],"released mucin-type O-glycan No 85",cpdAGORA0585,C42H71N3O30,0,G03040,,0
+MGlcn86[e],"mucin-type O-glycan No 86",cpdAGORA0586,C42H70N3O29X,0,,,0
+MGlcn86_rl[e],"released mucin-type O-glycan No 86",cpdAGORA0587,C42H71N3O30,0,G06377,,0
+MGlcn87[e],"mucin-type O-glycan No 87",cpdAGORA0588,C42H70N3O29X,0,,,0
+MGlcn87_rl[e],"released mucin-type O-glycan No 87",cpdAGORA0589,C42H71N3O30,0,,,0
+MGlcn88[e],"mucin-type O-glycan No 88",cpdAGORA0590,C66H105N6O46X,-2,,,0
+MGlcn88_rl[e],"released mucin-type O-glycan No 88",cpdAGORA0591,C66H106N6O47,-2,,,0
+MGlcn89[e],"mucin-type O-glycan No 89",cpdAGORA0592,C44H73N4O30X,0,,,0
+MGlcn89_rl[e],"released mucin-type O-glycan No 89",cpdAGORA0593,C44H74N4O31,0,,,0
+MGlcn8[e],"mucin-type O-glycan No 8",cpdAGORA0594,C80H128N7O56X,-2,,,0
+MGlcn8_rl[e],"released mucin-type O-glycan No 8",cpdAGORA0595,C80H129N7O57,-2,,,0
+MGlcn90[e],"mucin-type O-glycan No 90",cpdAGORA0596,C40H67N2O29X,0,,,0
+MGlcn90_rl[e],"released mucin-type O-glycan No 90",cpdAGORA0597,C40H68N2O30,0,,,0
+MGlcn91[e],"mucin-type O-glycan No 91",cpdAGORA0598,C40H67N2O29X,0,,,0
+MGlcn91_rl[e],"released mucin-type O-glycan No 91",cpdAGORA0599,C40H68N2O30,0,G06414,,0
+MGlcn92[e],"mucin-type O-glycan No 92",cpdAGORA0600,C40H67N2O29X,0,,,0
+MGlcn92_rl[e],"released mucin-type O-glycan No 92",cpdAGORA0601,C40H68N2O30,0,,,0
+MGlcn93[e],"mucin-type O-glycan No 93",cpdAGORA0602,C40H67N2O29X,0,,,0
+MGlcn93_rl[e],"released mucin-type O-glycan No 93",cpdAGORA0603,C40H68N2O30,0,,,0
+MGlcn94[e],"mucin-type O-glycan No 94",cpdAGORA0604,C40H67N2O29X,0,,,0
+MGlcn94_rl[e],"released mucin-type O-glycan No 94",cpdAGORA0605,C40H68N2O30,0,,,0
+MGlcn95[e],"mucin-type O-glycan No 95",cpdAGORA0606,C40H67N2O29X,0,,,0
+MGlcn95_rl[e],"released mucin-type O-glycan No 95",cpdAGORA0607,C40H68N2O30,0,,,0
+MGlcn96[e],"mucin-type O-glycan No 96",cpdAGORA0608,C40H67N2O29X,0,,,0
+MGlcn96_rl[e],"released mucin-type O-glycan No 96",cpdAGORA0609,C40H68N2O30,0,,,0
+MGlcn97[e],"mucin-type O-glycan No 97",cpdAGORA0610,C34H57N2O25X,0,,,0
+MGlcn97_rl[e],"released mucin-type O-glycan No 97",cpdAGORA0611,C34H58N2O26,0,,,0
+MGlcn98[e],"mucin-type O-glycan No 98",cpdAGORA0612,C48H80N3O34X,0,,,0
+MGlcn98_rl[e],"released mucin-type O-glycan No 98",cpdAGORA0613,C48H81N3O35,0,,,0
+MGlcn99[e],"mucin-type O-glycan No 99",cpdAGORA0614,C48H80N3O34X,0,,,0
+MGlcn99_rl[e],"released mucin-type O-glycan No 99",cpdAGORA0615,C48H81N3O35,0,,,0
+MGlcn9[e],"mucin-type O-glycan No 9",cpdAGORA0616,C94H151N8O65X,-2,,,0
+MGlcn9_rl[e],"released mucin-type O-glycan No 9",cpdAGORA0617,C94H152N8O66,-2,,,0
+PGP[c],"Peptidoglycan polymer (n subunits)",cpdAGORA0618,C39H64N8O19X,0,,,0
+PGPm1[c],"Peptidoglycan polymer (n-1 subunits)",cpdAGORA0619,X,0,,,0
+Ser_Thr[e],"protein-linked serine or threonine residue (O-glycosylation site)",cpdAGORA0620,XH,0,,,0
+T_antigen[e],"T antigen (core 1)",cpdAGORA0621,C14H24NO10X,0,,,0
+Tn_antigen[e],"Tn antigen",cpdAGORA0622,C8H14NO5X,0,C04383,,0
+aacald[c],"Aminoacetaldehyde",cpdAGORA0623,C2H6NO,1,,,0
+aacoa[c],"Acetoacetyl-CoA",cpdAGORA0624,C25H36N7O18P3S,-4,C00332,HMDB01484,0
+aact[c],"ammonioacetone",cpdAGORA0625,C3H8NO,1,C01888,HMDB02134,0
+ab6p3hxl[c],"D-arabino-6-Phospho-hex-3-ulose",cpdAGORA0626,C6H11O9P,-2,,,0
+abt[c],"L-arabinitol",cpdAGORA0627,C5H12O5,0,C00532,HMDB01851,0
+acACP[c],"Acetyl-ACP",cpdAGORA0628,C13H23N2O8PRS,-1,,,0
+ac[c],"acetate",cpdAGORA0629,C2H3O2,-1,C00033,HMDB00042,0
+ac[e],"acetate",cpdAGORA0630,C2H3O2,-1,C00033,HMDB00042,0
+acac[c],"acetoacetate",cpdAGORA0631,C4H5O3,-1,C00164,HMDB00060,0
+acald[c],"acetaldehyde",cpdAGORA0632,C2H4O,0,C00084,HMDB00990,0
+acald[e],"acetaldehyde",cpdAGORA0633,C2H4O,0,C00084,HMDB00990,0
+acbdma14gapuc[c],"N-Acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D- glucosaminyldiphosphoundecaprenol",cpdAGORA0634,C71H116N2O17P2,-2,,,0
+accoa[c],"Acetyl-CoA",cpdAGORA0635,C23H34N7O17P3S,-4,C00024,HMDB01206,0
+acgal[e],"N-acetyl-D-galactosamine",cpdAGORA0636,C8H15NO6,0,C01132,HMDB00212,0
+acgam1p[c],"N-Acetyl-D-glucosamine 1-phosphate",cpdAGORA0637,C8H14NO9P,-2,C04256,HMDB01367,0
+acgam6p[c],"N-acetyl-D-glucosamine 6-phosphate(2-)",cpdAGORA0638,C8H14NO9P,-2,C00357,HMDB01062,0
+acgam[c],"N-acetyl-D-glucosamine",cpdAGORA0639,C8H15NO6,0,C00140,HMDB00215,0
+acgam[e],"N-acetyl-D-glucosamine",cpdAGORA0640,C8H15NO6,0,C00140,HMDB00215,0
+acglu[c],"N-acetyl-L-glutamate(2-)",cpdAGORA0641,C7H9NO5,-2,C00624,HMDB01138,0
+achms[c],"O-Acetyl-L-homoserine",cpdAGORA0642,C6H11NO4,0,,,0
+acmana[c],"N-acetyl-D-mannosamine",cpdAGORA0643,C8H15NO6,0,C00645,HMDB01129,0
+acmanap[c],"N-acetyl-D-mannosamine 6-phosphate(2-)",cpdAGORA0644,C8H14NO9P,-2,C04257,HMDB01121,0
+acnam2a6agal[e],"Alpha-2,6-N-acetylneuraminate-N-acetylgalactosamine",cpdAGORA0645,C19H31N2O14,-1,G00455,,0
+acnam[c],"N-acetylneuraminate",cpdAGORA0646,C11H18NO9,-1,C19910,HMDB00230,0
+acnam[e],"N-acetylneuraminate",cpdAGORA0647,C11H18NO9,-1,C19910,HMDB00230,0
+acorn[c],"N(2)-acetyl-L-ornithine",cpdAGORA0648,C7H14N2O3,0,C00437,HMDB03357,0
+acser[c],"O-Acetyl-L-serine",cpdAGORA0649,C5H9NO4,0,,,0
+actACP[c],"Acetoacetyl-ACP",cpdAGORA0650,C15H25N2O9PRS,-1,,,0
+actn_R[c],"(R)-Acetoin",cpdAGORA0651,C4H8O2,0,,,0
+actn_S[c],"(S)-Acetoin",cpdAGORA0652,C4H8O2,0,,,0
+actp[c],"Acetyl phosphate",cpdAGORA0653,C2H3O5P,-2,,,0
+ade[c],"Adenine",cpdAGORA0654,C5H5N5,0,C00147,HMDB00034,0
+adn[c],"Adenosine",cpdAGORA0655,C10H13N5O4,0,C00212,HMDB00050,0
+adocbi[c],"Adenosyl cobinamide",cpdAGORA0656,C58H84CoN16O11,1,,,0
+adocbip[c],"Adenosyl cobinamide phosphate",cpdAGORA0657,C58H83CoN16O14P,-1,,,0
+adocbl[c],"Adenosylcobalamin",cpdAGORA0658,C72H100CoN18O17P,0,C00194,HMDB02086,0
+adocbl[e],"Adenosylcobalamin",cpdAGORA0659,C72H100CoN18O17P,0,C00194,HMDB02086,0
+adp[c],"ADP",cpdAGORA0660,C10H12N5O10P2,-3,C00008,HMDB01341,0
+adpglc[c],"ADP alpha-D-glucoside(2-)",cpdAGORA0661,C16H23N5O15P2,-2,C00498,HMDB06557,0
+agal1b3agal[e],"Beta-1,3-N,N-diacetylgalactosamine",cpdAGORA0662,C16H28N2O11,0,G01033,,0
+agal1b6agal[e],"Beta-1,6-N,N-diacetylgalactosamine",cpdAGORA0663,C16H28N2O11,0,,,0
+agam1b3agal[e],"Beta-1,3-N-acetylglucosamine-N-acetylgalactosamine",cpdAGORA0664,C16H28N2O11,0,G00543,,0
+agam1b6agal[e],"Beta-1,6-N-acetylglucosamine-N-acetylgalactosamine",cpdAGORA0665,C16H28N2O11,0,G02165,,0
+agdpcbi[c],"Adenosine-GDP-cobinamide",cpdAGORA0666,C68H95CoN21O21P2,-1,,,0
+agm[c],"agmatinium(2+)",cpdAGORA0667,C5H16N4,2,C00179,HMDB01432,0
+ahcys[c],"S-Adenosyl-L-homocysteine",cpdAGORA0668,C14H20N6O5S,0,C00021,HMDB00939,0
+ahdt[c],"7,8-dihydroneopterin 3-triphosphate(4-)",cpdAGORA0669,C9H12N5O13P3,-4,C04895,HMDB00980,0
+ai17tca1[c],"Anteisoheptadecanoyllipoteichoic acid (n=24), linked, unsubstituted",cpdAGORA0670,C121H236O135P24,-24,,,0
+ai17tcaacgam[c],"Anteisoheptadecanoyllipoteichoic acid (n=24), linked, N-acetyl-D-glucosamine",cpdAGORA0671,C313H548N24O255P24,-24,,,0
+ai17tcaala_D[c],"Anteisoheptadecanoyllipoteichoic acid (n=24), linked, D-alanine substituted",cpdAGORA0672,C193H332N24O135P24,0,,,0
+ai17tcaglc[c],"Anteisoheptadecanoyllipoteichoic acid (n=24), linked, glucose substituted",cpdAGORA0673,C265H476O255P24,-24,,,0
+aicar[c],"5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide",cpdAGORA0674,C9H13N4O8P,-2,C04677,HMDB01517,0
+aihpdcoa[c],"fa12coa,Anteiso-C17:0 CoA   Anteisoheptadecanoyl-CoA",cpdAGORA0675,C38H64N7O17P3S,-4,,,0
+aipdcoa[c],"fa4coa,Anteiso-C15:0 CoA   Anteisopentadecanoyl-CoA",cpdAGORA0676,C36H60N7O17P3S,-4,,,0
+air[c],"5-amino-1-(5-phospho-D-ribosyl)imidazole",cpdAGORA0677,C8H12N3O7P,-2,C03373,HMDB01235,0
+akg[c],"2-Oxoglutarate",cpdAGORA0678,C5H4O5,-2,C00026,HMDB00208,0
+ala_D[c],"D-alanine",cpdAGORA0679,C3H7NO2,0,C00133,HMDB01310,0
+ala_L[c],"L-alanine",cpdAGORA0680,C3H7NO2,0,C00041,HMDB00161,0
+ala_L[e],"L-alanine",cpdAGORA0681,C3H7NO2,0,C00041,HMDB00161,0
+alaala[c],"D-Alanyl-D-alanine",cpdAGORA0682,C6H12N2O3,0,C00993,HMDB03459,0
+alaasp[c],"L-alanyl-L-aspartate",cpdAGORA0683,C7H11N2O5,-1,,,0
+alaasp[e],"L-alanyl-L-aspartate",cpdAGORA0684,C7H11N2O5,-1,,,0
+alac_S[c],"(S)-2-Acetolactate",cpdAGORA0685,C5H7O4,-1,,,0
+alagln[c],"L-alanyl-L-glutamine",cpdAGORA0686,C8H15N3O4,0,,,0
+alagln[e],"L-alanyl-L-glutamine",cpdAGORA0687,C8H15N3O4,0,,,0
+alaglu[c],"L-alanyl-L-glutamate",cpdAGORA0688,C8H13N2O5,-1,,,0
+alaglu[e],"L-alanyl-L-glutamate",cpdAGORA0689,C8H13N2O5,-1,,,0
+alagly[c],"L-alanylglycine",cpdAGORA0690,C5H10N2O3,0,,,0
+alagly[e],"L-alanylglycine",cpdAGORA0691,C5H10N2O3,0,,,0
+alahis[c],"L-alanyl-L-histidine",cpdAGORA0692,C9H14N4O3,0,C00386,,0
+alahis[e],"L-alanyl-L-histidine",cpdAGORA0693,C9H14N4O3,0,C00386,,0
+alaleu[c],"L-alanyl-L-leucine",cpdAGORA0694,C9H18N2O3,0,,,0
+alaleu[e],"L-alanyl-L-leucine",cpdAGORA0695,C9H18N2O3,0,,,0
+alathr[c],"L-alanyl-L-threonine",cpdAGORA0696,C7H14N2O4,0,,,0
+alathr[e],"L-alanyl-L-threonine",cpdAGORA0697,C7H14N2O4,0,,,0
+amet[c],"S-Adenosyl-L-methionine",cpdAGORA0698,C15H23N6O5S,1,C00019,HMDB01185,0
+ametam[c],"S-Adenosylmethioninamine",cpdAGORA0699,C14H24N6O3S,2,C01137,HMDB00988,0
+amp[c],"AMP",cpdAGORA0700,C10H12N5O7P,-2,C00020,HMDB00045,0
+apoACP[c],"apoprotein [acyl carrier protein]",cpdAGORA0701,RHO,0,,,0
+apoC_Lys_btn[c],"Holocarboxylase (biotin covalent bound to Lys residue of apoC)",cpdAGORA0702,C16H27N4O3SX,0,,,0
+arab_L[c],"L-arabinose",cpdAGORA0703,C5H10O5,0,C00259,HMDB00646,0
+arab_L[e],"L-arabinose",cpdAGORA0704,C5H10O5,0,C00259,HMDB00646,0
+arg_L[c],"L-argininium(1+)",cpdAGORA0705,C6H15N4O2,1,C00062,HMDB00517,0
+arg_L[e],"L-argininium(1+)",cpdAGORA0706,C6H15N4O2,1,C00062,HMDB00517,0
+arsenb[c],"Arsenobetaine",cpdAGORA0707,C5H11AsO2,0,,,0
+arsenb[e],"Arsenobetaine",cpdAGORA0708,C5H11AsO2,0,,,0
+asn_L[c],"L-asparagine",cpdAGORA0709,C4H8N2O3,0,C00152,HMDB00168,0
+asn_L[e],"L-asparagine",cpdAGORA0710,C4H8N2O3,0,C00152,HMDB00168,0
+aso3[c],"arsenite",cpdAGORA0711,AsO3,-3,,,0
+aso3[e],"arsenite",cpdAGORA0712,AsO3,-3,,,0
+aso4[c],"arsenate",cpdAGORA0713,AsO4,-3,,,0
+aso4[e],"arsenate",cpdAGORA0714,AsO4,-3,,,0
+asp_L[c],"L-aspartate(1-)",cpdAGORA0715,C4H6NO4,-1,C00049,HMDB00191,0
+asp_L[e],"L-aspartate(1-)",cpdAGORA0716,C4H6NO4,-1,C00049,HMDB00191,0
+aspsa[c],"L-Aspartate 4-semialdehyde",cpdAGORA0717,C4H7NO3,0,,,0
+atp[c],"ATP",cpdAGORA0718,C10H12N5O13P3,-4,C00002,HMDB00538,0
+biomass[c],"Produced biomass",cpdAGORA0719,X,0,,,0
+btal[c],"Butanal",cpdAGORA0720,C4H8O,0,,,0
+btd_RR[c],"R_R__2_3_Butanediol",cpdAGORA0721,C4H10O2,0,,,0
+btd_SS[c],"(S,S)-2,3-Butanediol",cpdAGORA0722,C4H10O2,0,,,0
+btn[c],"Biotin",cpdAGORA0723,C10H15N2O3S,-1,C00120,HMDB00030,0
+btn[e],"Biotin",cpdAGORA0724,C10H15N2O3S,-1,C00120,HMDB00030,0
+btn_co2[c],"Carboxybiotin-carboxyl-carrier protein",cpdAGORA0725,C17H26N4O5SX,-1,,,0
+btoh[c],"butanol",cpdAGORA0726,C4H10O,0,C06142,,0
+butACP[c],"Butyryl-ACP (n-C4:0ACP)",cpdAGORA0727,C15H27N2O8PRS,-1,,,0
+ca2[c],"calcium(2+)",cpdAGORA0728,Ca,2,C00076,HMDB00464,0
+ca2[e],"calcium(2+)",cpdAGORA0729,Ca,2,C00076,HMDB00464,0
+camp[c],"3,5-cyclic AMP(1-)",cpdAGORA0730,C10H11N5O6P,-1,C00575,HMDB00058,0
+cbasp[c],"N-Carbamoyl-L-aspartate",cpdAGORA0731,C5H6N2O5,-2,C00438,HMDB00828,0
+cbi[c],"Cobinamide",cpdAGORA0732,C48H72CoN11O8,0,,,0
+cbl1[c],"Cob(I)alamin",cpdAGORA0733,C62H88CoN13O14P,-1,C00853,HMDB03429,0
+cbl1[e],"Cob(I)alamin",cpdAGORA0734,C62H88CoN13O14P,-1,C00853,HMDB03429,0
+cbl2[c],"Cob(II)alamin",cpdAGORA0735,C62H92CoN13O14P,0,C00541,HMDB06316,0
+cbl2[e],"Cob(II)alamin",cpdAGORA0736,C62H92CoN13O14P,0,C00541,HMDB06316,0
+cbp[c],"Carbamoyl phosphate",cpdAGORA0737,CH2NO5P,-2,C00169,HMDB01096,0
+cd2[c],"Cadmium",cpdAGORA0738,Cd,2,,,0
+cd2[e],"Cadmium",cpdAGORA0739,Cd,2,,,0
+cdp[c],"CDP",cpdAGORA0740,C9H12N3O11P2,-3,C00112,HMDB01546,0
+cdpdaihpdecg[c],"CDP-1,2-dianteisoheptadecanoylglycerol (14-methyl-hexadecanoyl, anteiso-C17)",cpdAGORA0741,C46H83N3O15P2,-2,,,0
+cdpdaipdecg[c],"CDP-1,2-dianteisopentadecanoylglycerol (12-methyl-tetradecanoyl, anteiso-C15)",cpdAGORA0742,C42H75N3O15P2,-2,,,0
+cdpdddecg[c],"CDP-1,2-didodecanoylglycerol",cpdAGORA0743,C36H63N3O15P2,-2,,,0
+cdpdhdec9eg[c],"CDP-1,2-dihexadec-9-enoylglycerol",cpdAGORA0744,C44H75N3O15P2,-2,,,0
+cdpdhdecg[c],"CDP-1,2-dihexadecanoylglycerol",cpdAGORA0745,C44H79N3O15P2,-2,,,0
+cdpdihdecg[c],"CDP-1,2-diisohexadecanoylglycerol (14-methyl-pentadecanoyl, iso-C16)",cpdAGORA0746,C44H79N3O15P2,-2,,,0
+cdpdihpdecg[c],"CDP-1,2-diisoheptadecanoylglycerol (15-methyl-hexadecanoyl, iso-C17)",cpdAGORA0747,C46H83N3O15P2,-2,,,0
+cdpdipdecg[c],"CDP-1,2-diisopentadecanoylglycerol (13-methyl-tetradecanoyl, iso-C15)",cpdAGORA0748,C42H75N3O15P2,-2,,,0
+cdpditdecg[c],"CDP-1,2-diisotetradecanoylglycerol (12-methyl-tridecanoyl, iso-C14)",cpdAGORA0749,C40H71N3O15P2,-2,,,0
+cdpdodec11eg[c],"CDP-1,2-dioctadec-11-enoylglycerol",cpdAGORA0750,C48H83N3O15P2,-2,,,0
+cdpdodecg[c],"CDP-1,2-dioctadecanoylglycerol",cpdAGORA0751,C48H87N3O15P2,-2,,,0
+cdpdtdec7eg[c],"CDP-1,2-ditetradec-7-enoylglycerol",cpdAGORA0752,C40H67N3O15P2,-2,,,0
+cdpdtdecg[c],"CDP-1,2-ditetradecanoylglycerol",cpdAGORA0753,C40H71N3O15P2,-2,,,0
+cdpglyc[c],"CDPglycerol",cpdAGORA0754,C12H19N3O13P2,-2,,,0
+cellb[c],"cellobiose",cpdAGORA0755,C12H22O11,0,,,0
+cgly[c],"L-cysteinylglycine",cpdAGORA0756,C5H10N2O3S,0,C01419,HMDB00078,0
+cgly[e],"L-cysteinylglycine",cpdAGORA0757,C5H10N2O3S,0,C01419,HMDB00078,0
+chol[c],"Choline",cpdAGORA0758,C5H14NO,1,C00114,HMDB00097,0
+chols[c],"Choline sulfate",cpdAGORA0759,C5H13NO4S,0,,,0
+chor[c],"chorismate",cpdAGORA0760,C10H8O6,-2,,,0
+chtbs[c],"N,N-diacetylchitobiose",cpdAGORA0761,C16H28N2O11,0,,,0
+cit[c],"Citrate",cpdAGORA0762,C6H5O7,-3,C00158,HMDB00094,0
+cit[e],"Citrate",cpdAGORA0763,C6H5O7,-3,C00158,HMDB00094,0
+cl[c],"Chloride",cpdAGORA0764,Cl,-1,C00698,HMDB00492,0
+cl[e],"Chloride",cpdAGORA0765,Cl,-1,C00698,HMDB00492,0
+clpn140[c],"cardiolipin (tetratetradecanoyl, n-C14:0)",cpdAGORA0766,C65H124O17P2,-2,,,0
+clpn160[c],"cardiolipin (tetrahexadecanoyl, n-C16:0)",cpdAGORA0767,C73H140O17P2,-2,,,0
+clpn180[c],"cardiolipin (tetraoctadecanoyl, n-C18:0)",cpdAGORA0768,C81H156O17P2,-2,,,0
+clpnai15[c],"cardiolipin (12-methyl-tetradecanoyl, anteiso-C15)",cpdAGORA0769,C69H132O17P2,-2,,,0
+clpnai17[c],"cardiolipin (14-methyl-hexadecanoyl, anteiso-C17)",cpdAGORA0770,C77H148O17P2,-2,,,0
+clpni14[c],"cardiolipin (12-methyl-tridecanoyl, iso-C14)",cpdAGORA0771,C65H124O17P2,-2,,,0
+clpni15[c],"cardiolipin (13-methyl-tetradecanoyl, iso-C15)",cpdAGORA0772,C69H132O17P2,-2,,,0
+clpni16[c],"cardiolipin (14-methyl-pentadecanoyl, iso-C16)",cpdAGORA0773,C73H140O17P2,-2,,,0
+clpni17[c],"cardiolipin (15-methyl-hexadecanoyl, iso-C17)",cpdAGORA0774,C77H148O17P2,-2,,,0
+cmp[c],"CMP",cpdAGORA0775,C9H12N3O8P,-2,C00055,HMDB00095,0
+cmpacna[c],"CMP-N-acetyl-beta-neuraminate(2-)",cpdAGORA0776,C20H29N4O16P,-2,C00128,HMDB01176,0
+co2[c],"carbon dioxide",cpdAGORA0777,CO2,0,C00011,HMDB01967,0
+co2[e],"carbon dioxide",cpdAGORA0778,CO2,0,C00011,HMDB01967,0
+coa[c],"Coenzyme A",cpdAGORA0779,C21H32N7O16P3S,-4,C00010,HMDB01423,0
+cobalt2[c],"Co2+",cpdAGORA0780,Co,2,,,0
+cobalt2[e],"Co2+",cpdAGORA0781,Co,2,,,0
+core2[e],"Core 2",cpdAGORA0782,C22H37N2O15X,0,,,0
+core2_rl[e],"released Core 2",cpdAGORA0783,C22H38N2O16,0,G00306,,0
+core3[e],"Core 3",cpdAGORA0784,C16H27N2O10X,0,,,0
+core4[e],"Core 4",cpdAGORA0785,C24H40N3O15X,0,,,0
+core4_rl[e],"released Core 4",cpdAGORA0786,C24H41N3O16,0,G00643,,0
+core5[e],"Core 5",cpdAGORA0787,C16H27N2O10X,0,,,0
+core6[e],"Core 6",cpdAGORA0788,C16H27N2O10X,0,,,0
+core7[e],"Core 7",cpdAGORA0789,C16H27N2O10X,0,,,0
+core8[e],"Core 8",cpdAGORA0790,C14H24NO10X,0,,,0
+cpppg3[c],"Coproporphyrinogen III",cpdAGORA0791,C36H40N4O8,-4,C03263,HMDB01261,0
+ctp[c],"CTP",cpdAGORA0792,C9H12N3O14P3,-4,C00063,HMDB00082,0
+cu2[c],"Cu2+",cpdAGORA0793,Cu,2,,,0
+cu2[e],"Cu2+",cpdAGORA0794,Cu,2,,,0
+cys_L[c],"L-cysteine",cpdAGORA0795,C3H7NO2S,0,C00097,HMDB00574,0
+cys_L[e],"L-cysteine",cpdAGORA0796,C3H7NO2S,0,C00097,HMDB00574,0
+cyst_L[c],"L-cystathionine",cpdAGORA0797,C7H14N2O4S,0,C02291,HMDB00099,0
+cytd[c],"Cytidine",cpdAGORA0798,C9H13N3O5,0,C00475,HMDB00089,0
+dad_2[c],"2-deoxyadenosine",cpdAGORA0799,C10H13N5O3,0,C00559,HMDB00101,0
+dadp[c],"dADP",cpdAGORA0800,C10H12N5O9P2,-3,C00206,HMDB01508,0
+damp[c],"dAMP(2-)",cpdAGORA0801,C10H12N5O6P,-2,C00360,HMDB00905,0
+datp[c],"dATP",cpdAGORA0802,C10H12N5O12P3,-4,C00131,HMDB01532,0
+dcaACP[c],"Decanoyl-ACP (n-C10:0ACP)",cpdAGORA0803,C21H39N2O8PRS,-1,,,0
+dcamp[c],"N6-(1,2-Dicarboxyethyl)-AMP",cpdAGORA0804,C14H14N5O11P,-4,C03794,HMDB00536,0
+dcdp[c],"dCDP",cpdAGORA0805,C9H12N3O10P2,-3,C00705,HMDB01245,0
+dcmp[c],"dCMP",cpdAGORA0806,C9H12N3O7P,-2,C00239,HMDB01202,0
+dctp[c],"dCTP",cpdAGORA0807,C9H12N3O13P3,-4,C00458,HMDB00998,0
+dcyt[c],"Deoxycytidine",cpdAGORA0808,C9H13N3O4,0,C00881,HMDB00014,0
+ddcaACP[c],"Dodecanoyl-ACP (n-C12:0ACP)",cpdAGORA0809,C23H43N2O8PRS,-1,,,0
+ddca[c],"laurate",cpdAGORA0810,C12H23O2,-1,C02679,HMDB00638,0
+dextrin[c],"Dextrin",cpdAGORA0811,C36H62O31,0,C00721,,0
+dextrin[e],"Dextrin",cpdAGORA0812,C36H62O31,0,C00721,,0
+dgdp[c],"dGDP",cpdAGORA0813,C10H12N5O10P2,-3,C00361,HMDB00960,0
+dgmp[c],"dGMP",cpdAGORA0814,C10H12N5O7P,-2,C00362,HMDB01044,0
+dgsn[c],"Deoxyguanosine",cpdAGORA0815,C10H13N5O4,0,C00330,HMDB00085,0
+dgtp[c],"dGTP",cpdAGORA0816,C10H12N5O13P3,-4,C00286,HMDB01440,0
+dha[c],"glycerone",cpdAGORA0817,C3H6O3,0,C00184,HMDB01882,0
+dhap[c],"Dihydroxyacetone phosphate",cpdAGORA0818,C3H5O6P,-2,C00111,HMDB01473,0
+dhf[c],"7,8-Dihydrofolate",cpdAGORA0819,C19H19N7O6,-2,C00415,HMDB01056,0
+dhlam[c],"dihydrolipoamide",cpdAGORA0820,C8H17NOS2,0,C00579,HMDB00985,0
+dhna[c],"1,4-Dihydroxy-2-naphthoate",cpdAGORA0821,C11H7O4,-1,,,0
+dhnpt[c],"Dihydroneopterin",cpdAGORA0822,C9H13N5O4,0,,,0
+dhor_S[c],"(S)-dihydroorotate",cpdAGORA0823,C5H5N2O4,-1,C00337,HMDB03349,0
+dhptd[c],"4,5-dihydroxy-2,3-pentanedione",cpdAGORA0824,C5H8O4,0,,,0
+diglcpg180[c],"Diglucosyl-1,2 distearoylglycerol",cpdAGORA0825,C51H96O15,0,,,0
+diglcpgai17[c],"Diglucosyl-1,2 dianteisoheptadecanoylglycerol",cpdAGORA0826,C49H92O15,0,,,0
+diglcpgi17[c],"Diglucosyl-1,2 diisoheptadecanoylglycerol",cpdAGORA0827,C49H92O15,0,,,0
+din[c],"Deoxyinosine",cpdAGORA0828,C10H12N4O4,0,C05512,HMDB00071,0
+dmbzid[c],"5,6-Dimethylbenzimidazole",cpdAGORA0829,C9H10N2,0,,,0
+dmpp[c],"Dimethylallyl diphosphate",cpdAGORA0830,C5H9O7P2,-3,C00235,HMDB01120,0
+dnad[c],"Deamino-NAD+",cpdAGORA0831,C21H24N6O15P2,-2,C00857,HMDB01179,0
+dnarep[c],"DNA replication",cpdAGORA0832,X,0,,,0
+dpcoa[c],"Dephospho-CoA",cpdAGORA0833,C21H33N7O13P2S,-2,C00882,HMDB01373,0
+drib[c],"2-deoxy-D-ribose",cpdAGORA0834,C5H10O4,0,C01801,HMDB03224,0
+drib[e],"2-deoxy-D-ribose",cpdAGORA0835,C5H10O4,0,C01801,HMDB03224,0
+dsT_antigen[e],"disialyl-T antigen",cpdAGORA0836,C36H56N3O26X,-2,,,0
+dsT_antigen_rl[e],"released disialyl-T antigen",cpdAGORA0837,C36H57N3O27,-2,G00269,,0
+dtdp4d6dg[c],"dTDP-4-dehydro-6-deoxy-alpha-D-glucose(2-)",cpdAGORA0838,C16H22N2O15P2,-2,C11907,HMDB01399,0
+dtdp4d6dm[c],"dTDP-4-dehydro-6-deoxy-L-mannose(2-)",cpdAGORA0839,C16H22N2O15P2,-2,C00688,HMDB01399,0
+dtdp[c],"dTDP",cpdAGORA0840,C10H13N2O11P2,-3,C00363,HMDB01274,0
+dtdpglu[c],"dTDP-glucose(2-)",cpdAGORA0841,C16H24N2O16P2,-2,C00842,HMDB01328,0
+dtdprmn[c],"dTDP-L-rhamnose",cpdAGORA0842,C16H24N2O15P2,-2,C03319,HMDB06354,0
+dtmp[c],"dTMP",cpdAGORA0843,C10H13N2O8P,-2,C00364,HMDB01227,0
+dttp[c],"dTTP",cpdAGORA0844,C10H13N2O14P3,-4,C00459,HMDB01342,0
+dudp[c],"dUDP",cpdAGORA0845,C9H11N2O11P2,-3,C01346,HMDB01000,0
+dump[c],"dUMP",cpdAGORA0846,C9H11N2O8P,-2,C00365,HMDB01409,0
+duri[c],"Deoxyuridine",cpdAGORA0847,C9H12N2O5,0,C00526,HMDB00012,0
+dutp[c],"dUTP",cpdAGORA0848,C9H11N2O14P3,-4,C00460,HMDB01191,0
+dxyl5p[c],"1-deoxy-D-xylulose 5-phosphate",cpdAGORA0849,C5H9O7P,-2,,,0
+e4hglu[c],"erythro-4-hydroxy-L-glutamate(1-)",cpdAGORA0850,C5H8NO5,-1,C05947,HMDB02273,0
+e4p[c],"D-Erythrose 4-phosphate",cpdAGORA0851,C4H7O7P,-2,C00279,HMDB01321,0
+eig3p[c],"D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate",cpdAGORA0852,C6H9N2O6P,-2,,,0
+etha[c],"etha[c]",cpdAGORA0853,C2H8NO,1,C00189,HMDB00149,0
+etoh[c],"ethanol",cpdAGORA0854,C2H6O,0,C00469,HMDB00108,0
+etoh[e],"ethanol",cpdAGORA0855,C2H6O,0,C00469,HMDB00108,0
+f1a[e],"F1alpha",cpdAGORA0856,C22H37N2O15X,0,,,0
+f1a_rl[e],"released F1alpha antigen",cpdAGORA0857,C22H38N2O16,0,G00727,,0
+f1p[c],"D-Fructose 1-phosphate",cpdAGORA0858,C6H11O9P,-2,C01094,HMDB01076,0
+f6p[c],"D-Fructose 6-phosphate",cpdAGORA0859,C6H11O9P,-2,C00085,HMDB00124,0
+fa11[c],"Fatty acid (Iso-C17:0)",cpdAGORA0860,C17H33O2,-1,,,0
+fa12[c],"Fatty acid (Anteiso-C17:0)",cpdAGORA0861,C17H33O2,-1,,,0
+fa1[c],"Fatty acid (Iso-C14:0)",cpdAGORA0862,C14H27O2,-1,,,0
+fa3[c],"Fatty acid (Iso-C15:0)",cpdAGORA0863,C15H29O2,-1,,,0
+fa4[c],"Fatty acid (Anteiso-C15:0)",cpdAGORA0864,C15H29O2,-1,,,0
+fa6[c],"Fatty acid (iso-C16:0)",cpdAGORA0865,C16H31O2,-1,,,0
+fad[c],"Flavin adenine dinucleotide oxidized",cpdAGORA0866,C27H31N9O15P2,-2,C00016,HMDB01248,0
+fadh2[c],"Flavin adenine dinucleotide reduced",cpdAGORA0867,C27H33N9O15P2,-2,C01352,HMDB01197,0
+fc1p[c],"L-Fuculose 1-phosphate",cpdAGORA0868,C6H11O8P,-2,,,0
+fcl_L[c],"L-fuculose",cpdAGORA0869,C6H12O5,0,,,0
+fdp[c],"D-Fructose 1,6-bisphosphate",cpdAGORA0870,C6H10O12P2,-4,C00354,HMDB01058,0
+fdxox[c],"Oxidized ferredoxin",cpdAGORA0871,X,0,C00139,,0
+fdxrd[c],"Reduced ferredoxin",cpdAGORA0872,XH2,0,C00138,,0
+fe2[c],"Fe2+",cpdAGORA0873,Fe,2,C14818,HMDB00692,0
+fe2[e],"Fe2+",cpdAGORA0874,Fe,2,C14818,HMDB00692,0
+fe3[c],"Fe3+",cpdAGORA0875,Fe,3,C14819,HMDB12943,0
+fe3[e],"Fe3+",cpdAGORA0876,Fe,3,C14819,HMDB12943,0
+fgam[c],"N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide",cpdAGORA0877,C8H13N2O9P,-2,C04376,HMDB01308,0
+ficytC[c],"Ferricytochrome c",cpdAGORA0878,C42H54FeN8O6S2,3,,,0
+fmn[c],"FMN",cpdAGORA0879,C17H19N4O9P,-2,C00061,HMDB01520,0
+fmnh2[c],"Reduced FMN",cpdAGORA0880,C17H21N4O9P,-2,,,0
+focytC[c],"Ferrocytochrome C",cpdAGORA0881,C42H54FeN8O6S2,2,,,0
+fol[c],"Folate",cpdAGORA0882,C19H18N7O6,-1,C00504,HMDB00121,0
+fol[e],"Folate",cpdAGORA0883,C19H18N7O6,-1,C00504,HMDB00121,0
+for[c],"Formate",cpdAGORA0884,CHO2,-1,C00058,HMDB00142,0
+for[e],"Formate",cpdAGORA0885,CHO2,-1,C00058,HMDB00142,0
+fpram[c],"2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine",cpdAGORA0886,C8H15N3O8P,-1,C04640,HMDB00999,0
+fprica[c],"5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide",cpdAGORA0887,C10H13N4O9P,-2,C04734,HMDB01439,0
+frdp[c],"Farnesyl diphosphate",cpdAGORA0888,C15H25O7P2,-3,C00448,HMDB00961,0
+fru[c],"D-Fructose",cpdAGORA0889,C6H12O6,0,C02336,HMDB00660,0
+fuc_L[c],"L-fucose",cpdAGORA0890,C6H12O5,0,C01019,HMDB00174,0
+fuc_L[e],"L-fucose",cpdAGORA0891,C6H12O5,0,C01019,HMDB00174,0
+fum[c],"Fumarate",cpdAGORA0892,C4H2O4,-2,C00122,HMDB00134,0
+g1p[c],"D-Glucose 1-phosphate",cpdAGORA0893,C6H11O9P,-2,C00103,HMDB01586,0
+g1p_B[c],"beta D-Glucose 1-phosphate",cpdAGORA0894,C6H11O9P,-2,C00663,,0
+g3p[c],"Glyceraldehyde 3-phosphate",cpdAGORA0895,C3H5O6P,-2,C00661,HMDB01112,0
+g3pc[c],"sn-Glycero-3-phosphocholine",cpdAGORA0896,C8H20NO6P,0,C00670,HMDB00086,0
+g3pe[c],"sn-Glycero-3-phosphoethanolamine",cpdAGORA0897,C5H14NO6P,0,,,0
+g3pg[c],"Glycerophosphoglycerol",cpdAGORA0898,C6H14O8P,-1,,,0
+g6p[c],"D-Glucose 6-phosphate",cpdAGORA0899,C6H11O9P,-2,C00092,HMDB01401,0
+g6p_B[c],"beta-D-glucose 6-phosphate",cpdAGORA0900,C6H11O9P,-2,C01172,,0
+gal1a3acgal[e],"Alpha-1,3-Galactose-N-acetylgalactosamine",cpdAGORA0901,C14H25NO11,0,G00763,,0
+gal1b3acgal[e],"Beta-1,3-Galactose-N-acetylgalactosamine",cpdAGORA0902,C14H25NO11,0,G10607,,0
+gal1p[c],"(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl phosphate",cpdAGORA0903,C6H11O9P,-2,C00446,HMDB00645,0
+gal[c],"D-Galactose",cpdAGORA0904,C6H12O6,0,C00984,HMDB00143,0
+gal[e],"D-Galactose",cpdAGORA0905,C6H12O6,0,C00984,HMDB00143,0
+gam1p[c],"D-Glucosamine 1-phosphate",cpdAGORA0906,C6H13NO8P,-1,,,0
+gam6p[c],"D-Glucosamine 6-phosphate",cpdAGORA0907,C6H13NO8P,-1,C00352,HMDB01254,0
+gar[c],"N1-(5-Phospho-D-ribosyl)glycinamide",cpdAGORA0908,C7H14N2O8P,-1,C03838,HMDB02022,0
+gdp[c],"GDP",cpdAGORA0909,C10H12N5O11P2,-3,C00035,HMDB01201,0
+gdptp[c],"Guanosine 3-diphosphate 5-triphosphate",cpdAGORA0910,C10H11N5O20P5,-7,,,0
+ggdp[c],"2-trans,6-trans,10-trans-geranylgeranyl diphosphate(3-)",cpdAGORA0911,C20H33O7P2,-3,C00353,HMDB04486,0
+glc_D[c],"D-glucose",cpdAGORA0912,C6H12O6,0,C00031,HMDB00122,0
+glc_D[e],"D-glucose",cpdAGORA0913,C6H12O6,0,C00031,HMDB00122,0
+glc_bD[c],"beta D-glucose",cpdAGORA0914,C6H12O6,0,,,0
+gln_L[c],"L-glutamine",cpdAGORA0915,C5H10N2O3,0,C00064,HMDB00641,0
+gln_L[e],"L-glutamine",cpdAGORA0916,C5H10N2O3,0,C00064,HMDB00641,0
+glu5p[c],"L-Glutamate 5-phosphate",cpdAGORA0917,C5H8NO7P,-2,C03287,HMDB01228,0
+glu5sa[c],"L-Glutamate 5-semialdehyde",cpdAGORA0918,C5H9NO3,0,C01165,HMDB02104,0
+glu_D[c],"D-Glutamate",cpdAGORA0919,C5H8NO4,-1,,,0
+glu_L[c],"L-glutamate(1-)",cpdAGORA0920,C5H8NO4,-1,C00025,HMDB00148,0
+glu_L[e],"L-glutamate(1-)",cpdAGORA0921,C5H8NO4,-1,C00025,HMDB00148,0
+glutrna[c],"L-Glutamyl-tRNA(Glu)",cpdAGORA0922,C5H7NO3R,0,,,0
+glx[c],"glyoxylate",cpdAGORA0923,C2H1O3,-1,C00048,HMDB00119,0
+gly[c],"Glycine",cpdAGORA0924,C2H5NO2,0,C00037,HMDB00123,0
+gly[e],"Glycine",cpdAGORA0925,C2H5NO2,0,C00037,HMDB00123,0
+glyald[c],"D-Glyceraldehyde",cpdAGORA0926,C3H6O3,0,C02154,HMDB01051,0
+glyasn[c],"Glycyl-L-asparagine",cpdAGORA0927,C6H11N3O4,0,,,0
+glyasn[e],"Glycyl-L-asparagine",cpdAGORA0928,C6H11N3O4,0,,,0
+glyasp[c],"Glycyl-L-aspartate",cpdAGORA0929,C6H9N2O5,-1,,,0
+glyasp[e],"Glycyl-L-aspartate",cpdAGORA0930,C6H9N2O5,-1,,,0
+glyb[c],"glycine betaine",cpdAGORA0931,C5H11NO2,0,C00719,HMDB00043,0
+glyb[e],"glycine betaine",cpdAGORA0932,C5H11NO2,0,C00719,HMDB00043,0
+glyc3p[c],"Glycerol 3-phosphate",cpdAGORA0933,C3H7O6P,-2,C00093,HMDB00126,0
+glyc3p[e],"Glycerol 3-phosphate",cpdAGORA0934,C3H7O6P,-2,C00093,HMDB00126,0
+glyc45tca[c],"glycerol teichoic acid (n=45), linked, unsubstituted",cpdAGORA0935,X,0,,,0
+glyc45tcaala_D[c],"glycerol teichoic acid (n=45), linked, D-ala substituted",cpdAGORA0936,X,0,,,0
+glyc45tcaglc[c],"glycerol teichoic acid (n=45), linked, glucose substituted",cpdAGORA0937,X,0,,,0
+glyc[c],"Glycerol",cpdAGORA0938,C3H8O3,0,C00116,HMDB00131,0
+glyc_R[c],"D-glycerate",cpdAGORA0939,C3H5O4,-1,C00258,HMDB00139,0
+glyclt[c],"glycolate",cpdAGORA0940,C2H3O3,-1,C00160,HMDB00115,0
+glycogen[c],"glycogen",cpdAGORA0941,C6H10O5,0,,,0
+glycogenb[c],"glycogen(n-1)",cpdAGORA0942,X,0,,,0
+glycys[c],"Gly-Cys",cpdAGORA0943,C5H10N2O3S,0,,,0
+glycys[e],"Gly-Cys",cpdAGORA0944,C5H10N2O3S,0,,,0
+glygln[c],"Glycyl-L-glutamine",cpdAGORA0945,C7H13N3O4,0,,,0
+glygln[e],"Glycyl-L-glutamine",cpdAGORA0946,C7H13N3O4,0,,,0
+glyglu[c],"Glycyl-L-glutamate",cpdAGORA0947,C7H11N2O5,-1,,,0
+glyglu[e],"Glycyl-L-glutamate",cpdAGORA0948,C7H11N2O5,-1,,,0
+glyleu[c],"Glycylleucine",cpdAGORA0949,C8H16N2O3,0,C02155,HMDB00759,0
+glyleu[e],"Glycylleucine",cpdAGORA0950,C8H16N2O3,0,C02155,HMDB00759,0
+glymet[c],"Glycyl-L-methionine",cpdAGORA0951,C7H14N2O3S,0,,,0
+glymet[e],"Glycyl-L-methionine",cpdAGORA0952,C7H14N2O3S,0,,,0
+glyphe[c],"Glycylphenylalanine",cpdAGORA0953,C11H14N2O3,0,,,0
+glyphe[e],"Glycylphenylalanine",cpdAGORA0954,C11H14N2O3,0,,,0
+glypro[c],"Glycylproline",cpdAGORA0955,C7H12N2O3,0,,HMDB00721,0
+glypro[e],"Glycylproline",cpdAGORA0956,C7H12N2O3,0,,HMDB00721,0
+glytyr[c],"Glycyl-L-tyrosine",cpdAGORA0957,C11H14N2O4,0,,,0
+glytyr[e],"Glycyl-L-tyrosine",cpdAGORA0958,C11H14N2O4,0,,,0
+gmp[c],"GMP",cpdAGORA0959,C10H12N5O8P,-2,C00144,HMDB01397,0
+gncore1[e],"GlcNAc-alpha-1,4-Core 1",cpdAGORA0960,C22H37N2O15X,0,,,0
+gncore1_rl[e],"released GlcNAc-alpha-1,4-Core 1",cpdAGORA0961,C22H38N2O16,0,G09115,,0
+gncore2[e],"GlcNAc-alpha-1,4-Core 2",cpdAGORA0962,C30H50N3O20X,0,,,0
+gncore2_rl[e],"released GlcNAc-alpha-1,4-Core 2",cpdAGORA0963,C30H51N3O21,0,G03301,,0
+grdp[c],"Geranyl diphosphate",cpdAGORA0964,C10H17O7P2,-3,C00341,HMDB01285,0
+gsn[c],"Guanosine",cpdAGORA0965,C10H13N5O5,0,C00387,HMDB00133,0
+gthrd[c],"Reduced glutathione",cpdAGORA0966,C10H16N3O6S,-1,C00051,HMDB00125,0
+gtp[c],"GTP",cpdAGORA0967,C10H12N5O14P3,-4,C00044,HMDB01273,0
+gua[c],"Guanine",cpdAGORA0968,C5H5N5O,0,C00242,HMDB00132,0
+h2mb4p[c],"1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate",cpdAGORA0969,C5H9O8P2,-3,,,0
+h2o2[c],"Hydrogen peroxide",cpdAGORA0970,H2O2,0,C00027,HMDB03125,0
+h2o[c],"Water",cpdAGORA0971,H2O,0,C00001,HMDB02111,0
+h2o[e],"Water",cpdAGORA0972,H2O,0,C00001,HMDB02111,0
+h2s[c],"Hydrogen sulfide",cpdAGORA0973,H2S,0,,,0
+h[c],"proton",cpdAGORA0974,H,1,C00080,HMDB01362,0
+h[e],"proton",cpdAGORA0975,H,1,C00080,HMDB01362,0
+hco3[c],"Bicarbonate",cpdAGORA0976,CHO3,-1,C00288,HMDB00595,0
+hcys_L[c],"L-homocysteine",cpdAGORA0977,C4H9NO2S,0,C05330,HMDB00742,0
+hdca[c],"Hexadecanoate (n-C16:0)",cpdAGORA0978,C16H31O2,-1,C00249,HMDB00220,0
+hdcea[c],"Hexadecenoate (n-C16:1)",cpdAGORA0979,C16H29O2,-1,C08362,HMDB03229,0
+hdcoa[c],"Hexadecenoyl-CoA (n-C16:1CoA)",cpdAGORA0980,C37H60N7O17P3S,-4,,HMDB06532,0
+hdeACP[c],"cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1)",cpdAGORA0981,C27H49N2O8PRS,-1,,,0
+hepdp[c],"all-trans-Heptaprenyl diphosphate",cpdAGORA0982,C35H57O7P2,-3,,,0
+hethmpp[c],"Hydroxy ethyl Thiamin diphosphate",cpdAGORA0983,C14H20N4O8P2S,-2,,,0
+hexACP[c],"Hexanoyl-ACP (n-C6:0ACP)",cpdAGORA0984,C17H31N2O8PRS,-1,,,0
+hexdp[c],"all-trans-Hexaprenyl diphosphate",cpdAGORA0985,C30H49O7P2,-3,,,0
+hg2[c],"Hg2+",cpdAGORA0986,Hg,2,,,0
+hg2[e],"Hg2+",cpdAGORA0987,Hg,2,,,0
+his_L[c],"L-histidine",cpdAGORA0988,C6H9N3O2,0,C00135,HMDB00177,0
+his_L[e],"L-histidine",cpdAGORA0989,C6H9N3O2,0,C00135,HMDB00177,0
+hisp[c],"L-Histidinol phosphate",cpdAGORA0990,C6H11N3O4P,-1,,,0
+histd[c],"L-Histidinol",cpdAGORA0991,C6H12N3O,1,,,0
+histl_L[c],"L-Histidinal",cpdAGORA0992,C6H10N3O,1,,,0
+hom_L[c],"L-homoserine",cpdAGORA0993,C4H9NO3,0,C00263,HMDB00719,0
+hxan[c],"Hypoxanthine",cpdAGORA0994,C5H4N4O,0,C00262,HMDB00157,0
+hxan[e],"Hypoxanthine",cpdAGORA0995,C5H4N4O,0,C00262,HMDB00157,0
+i17tca1[c],"Isoheptadecanoyllipoteichoic acid (n=24), linked, unsubstituted",cpdAGORA0996,C121H236O135P24,-24,,,0
+i17tcaacgam[c],"Isoheptadecanoyllipoteichoic acid (n=24), linked, N-acetyl-D-glucosamine",cpdAGORA0997,C313H548N24O255P24,-24,,,0
+i17tcaala_D[c],"Isoheptadecanoyllipoteichoic acid (n=24), linked, D-alanine substituted",cpdAGORA0998,C193H332O135N24P24,0,,,0
+i17tcaglc[c],"Isoheptadecanoyllipoteichoic acid (n=24), linked, glucose substituted",cpdAGORA0999,C265H476O255P24,-24,,,0
+iasp[c],"Iminoaspartate",cpdAGORA1000,C4H3NO4,-2,,,0
+ibcoa[c],"isobutyryl-CoA(4-)",cpdAGORA1001,C25H38N7O17P3S,-4,C00630,HMDB01243,0
+ichor[c],"Isochorismate",cpdAGORA1002,C10H8O6,-2,,,0
+icit[c],"Isocitrate",cpdAGORA1003,C6H5O7,-3,C00311,HMDB00193,0
+idp[c],"IDP(3-)",cpdAGORA1004,C10H11N4O11P2,-3,C00104,HMDB03335,0
+ihdcoa[c],"fa6coa,Iso-C16:0 CoA   Isohexadecanoyl-CoA",cpdAGORA1005,C37H62N7O17P3S,-4,,,0
+ihpdcoa[c],"fa11coa, Iso-C17:0 CoA   Isoheptadecanoyl-CoA",cpdAGORA1006,C38H64N7O17P3S,-4,,,0
+ile_L[c],"L-isoleucine",cpdAGORA1007,C6H13NO2,0,C00407,HMDB00172,0
+ile_L[e],"L-isoleucine",cpdAGORA1008,C6H13NO2,0,C00407,HMDB00172,0
+im4ac[c],"imidazol-4-ylacetate",cpdAGORA1009,C5H5N2O2,-1,C02835,HMDB02024,0
+im4act[c],"imidazole-4-acetaldehyde",cpdAGORA1010,C5H6N2O,0,C05130,HMDB03905,0
+imacp[c],"3-(Imidazol-4-yl)-2-oxopropyl phosphate",cpdAGORA1011,C6H7N2O5P,-2,,,0
+imp[c],"IMP",cpdAGORA1012,C10H11N4O8P,-2,C00130,HMDB00175,0
+indole[c],"Indole",cpdAGORA1013,C8H7N,0,,,0
+indpyr[c],"Indolepyruvate",cpdAGORA1014,C11H8NO3,-1,,,0
+ins[c],"Inosine",cpdAGORA1015,C10H12N4O5,0,C00294,HMDB00195,0
+ipdcoa[c],"fa3coa,Iso-C15:0 CoA   Isopentadecanoyl-CoA",cpdAGORA1016,C36H60N7O17P3S,-4,,,0
+ipdp[c],"Isopentenyl diphosphate",cpdAGORA1017,C5H9O7P2,-3,C00129,HMDB01347,0
+isomal[c],"Isomaltose,  Brachiose",cpdAGORA1018,C12H22O11,0,C00252,,0
+itdcoa[c],"fa1coa,Iso-C14:0 CoA   Isotetradecanoyl-CoA",cpdAGORA1019,C35H58N7O17P3S,-4,,,0
+itp[c],"ITP(3-)",cpdAGORA1020,C10H11N4O14P3,-4,C00081,HMDB00189,0
+ivcoa[c],"Isovaleryl-CoA",cpdAGORA1021,C26H40N7O17P3S,-4,C02939,HMDB01113,0
+k[c],"potassium",cpdAGORA1022,K,1,C00238,HMDB00586,0
+k[e],"potassium",cpdAGORA1023,K,1,C00238,HMDB00586,0
+l2a6o[c],"L-2-Amino-6-oxopimelate",cpdAGORA1024,C7H10NO5,-1,,,0
+lac_D[c],"(R)-lactate",cpdAGORA1025,C3H5O3,-1,C00256,HMDB01311,0
+lac_D[e],"(R)-lactate",cpdAGORA1026,C3H5O3,-1,C00256,HMDB01311,0
+lac_L[c],"(S)-lactate",cpdAGORA1027,C3H5O3,-1,C00186,HMDB00190,0
+lac_L[e],"(S)-lactate",cpdAGORA1028,C3H5O3,-1,C00186,HMDB00190,0
+lald_L[c],"(S)-lactaldehyde",cpdAGORA1029,C3H6O2,0,C00424,HMDB03052,0
+lcts[c],"Lactose",cpdAGORA1030,C12H22O11,0,C00243,HMDB00186,0
+lcts[e],"Lactose",cpdAGORA1031,C12H22O11,0,C00243,HMDB00186,0
+leu_L[c],"L-leucine",cpdAGORA1032,C6H13NO2,0,C00123,HMDB00687,0
+leu_L[e],"L-leucine",cpdAGORA1033,C6H13NO2,0,C00123,HMDB00687,0
+lgt_S[c],"(R)-S-lactoylglutathionate(1-)",cpdAGORA1034,C13H20N3O8S,-1,C03451,HMDB01066,0
+lpam[c],"lipoamide",cpdAGORA1035,C8H15NOS2,0,C00248,HMDB00962,0
+lys_L[c],"L-lysinium(1+)",cpdAGORA1036,C6H15N2O2,1,C00047,HMDB00182,0
+lys_L[e],"L-lysinium(1+)",cpdAGORA1037,C6H15N2O2,1,C00047,HMDB00182,0
+m12dahglyc[c],"Monoglucosyl-1,2 dianteisoheptadecanoylglycerol",cpdAGORA1038,C43H82O10,0,,,0
+m12dihglyc[c],"Monoglucosyl-1,2 diisoheptadecanoylglycerol",cpdAGORA1039,C43H82O10,0,,,0
+m12dsglyc[c],"Monoglucosyl-1,2 distearoylglycerol",cpdAGORA1040,C45H86O10,0,,,0
+madg[c],"alpha-Methyl-D-glucoside",cpdAGORA1041,C7H14O6,0,,,0
+malACP[c],"Malonyl-[acyl-carrier protein]",cpdAGORA1042,C14H22N2O10PRS,-2,,,0
+mal_D[c],"D-Malate",cpdAGORA1043,C4H4O5,-2,,,0
+mal_L[c],"(S)-malate(2-)",cpdAGORA1044,C4H4O5,-2,C00149,HMDB00156,0
+malcoa[c],"Malonyl-CoA",cpdAGORA1045,C24H33N7O19P3S,-5,C00083,HMDB01175,0
+malt[c],"Maltose",cpdAGORA1046,C12H22O11,0,C00208,HMDB00163,0
+malt[e],"Maltose",cpdAGORA1047,C12H22O11,0,C00208,HMDB00163,0
+malthp[c],"maltoheptaose",cpdAGORA1048,C42H72O36,0,,HMDB13000,0
+malthx[c],"Maltohexaose",cpdAGORA1049,C36H62O31,0,C01936,HMDB12253,0
+malthx[e],"Maltohexaose",cpdAGORA1050,C36H62O31,0,C01936,HMDB12253,0
+maltpt[c],"maltopentaose",cpdAGORA1051,C30H52O26,0,,HMDB12254,0
+malttr[c],"maltotriose",cpdAGORA1052,C18H32O16,0,C01835,HMDB01262,0
+malttr[e],"maltotriose",cpdAGORA1053,C18H32O16,0,C01835,HMDB01262,0
+maltttr[c],"Maltotetraose",cpdAGORA1054,C24H42O21,0,C02052,HMDB01296,0
+man6p[c],"D-Mannose 6-phosphate",cpdAGORA1055,C6H11O9P,-2,C00275,HMDB01078,0
+mantr[c],"mannotriose (beta-1,4)",cpdAGORA1056,C18H32O16,0,,,0
+mantr[e],"mannotriose (beta-1,4)",cpdAGORA1057,C18H32O16,0,,,0
+mbdg[c],"beta-Methylglucoside",cpdAGORA1058,C7H14O6,0,,,0
+melib[c],"Melibiose",cpdAGORA1059,C12H22O11,0,,,0
+meoh[c],"methanol",cpdAGORA1060,CH4O,0,C00132,HMDB01875,0
+met_D[c],"D-Methionine",cpdAGORA1061,C5H11NO2S,0,,,0
+met_D[e],"D-Methionine",cpdAGORA1062,C5H11NO2S,0,,,0
+met_L[c],"L-methionine",cpdAGORA1063,C5H11NO2S,0,C00073,HMDB00696,0
+met_L[e],"L-methionine",cpdAGORA1064,C5H11NO2S,0,C00073,HMDB00696,0
+metala[c],"L-methionyl-L-alanine",cpdAGORA1065,C8H16N2O3S,0,,,0
+metala[e],"L-methionyl-L-alanine",cpdAGORA1066,C8H16N2O3S,0,,,0
+methf[c],"5,10-Methenyltetrahydrofolate",cpdAGORA1067,C20H20N7O6,-1,C00445,HMDB01354,0
+metsox_R_L[c],"L-methionine-R-sulfoxide",cpdAGORA1068,C5H11NO3S,0,,,0
+metsox_R_L[e],"L-methionine-R-sulfoxide",cpdAGORA1069,C5H11NO3S,0,,,0
+metsox_S_L[c],"L-Methionine Sulfoxide",cpdAGORA1070,C5H11NO3S,0,,,0
+metsox_S_L[e],"L-Methionine Sulfoxide",cpdAGORA1071,C5H11NO3S,0,,,0
+mg2[c],"magnesium",cpdAGORA1072,Mg,2,,,0
+mg2[e],"magnesium",cpdAGORA1073,Mg,2,,,0
+mlthf[c],"5,10-Methylenetetrahydrofolate",cpdAGORA1074,C20H21N7O6,-2,C00143,HMDB01533,0
+mn2[c],"Mn2+",cpdAGORA1075,Mn,2,,,0
+mn2[e],"Mn2+",cpdAGORA1076,Mn,2,,,0
+mql8[c],"Menaquinol 8",cpdAGORA1077,C51H74O2,0,,,0
+mqn7[c],"Menaquinone 7",cpdAGORA1078,C46H64O2,0,C00828,,0
+mqn7[e],"Menaquinone 7",cpdAGORA1079,C46H64O2,0,C00828,,0
+mqn8[c],"Menaquinone 8",cpdAGORA1080,C51H72O2,0,C00828,,0
+mthgxl[c],"methylglyoxal",cpdAGORA1081,C3H4O2,0,C00546,HMDB01167,0
+myrsACP[c],"Myristoyl-ACP (n-C14:0ACP)",cpdAGORA1082,C25H47N2O8PRS,-1,,,0
+n6all26d[c],"N6-Acetyl-LL-2,6-diaminoheptanedioate",cpdAGORA1083,C9H15N2O5,-1,C04390,,0
+na1[c],"Sodium",cpdAGORA1084,Na,1,C01330,HMDB00588,0
+na1[e],"Sodium",cpdAGORA1085,Na,1,C01330,HMDB00588,0
+nac[c],"Nicotinate",cpdAGORA1086,C6H4NO2,-1,C00253,HMDB01488,0
+nac[e],"Nicotinate",cpdAGORA1087,C6H4NO2,-1,C00253,HMDB01488,0
+nad[c],"Nicotinamide adenine dinucleotide",cpdAGORA1088,C21H26N7O14P2,-1,C00003,HMDB00902,0
+nadh[c],"Nicotinamide adenine dinucleotide - reduced",cpdAGORA1089,C21H27N7O14P2,-2,C00004,HMDB01487,0
+nadp[c],"Nicotinamide adenine dinucleotide phosphate",cpdAGORA1090,C21H25N7O17P3,-3,C00006,HMDB00217,0
+nadph[c],"Nicotinamide adenine dinucleotide phosphate - reduced",cpdAGORA1091,C21H26N7O17P3,-4,C00005,HMDB00221,0
+ncam[c],"Nicotinamide",cpdAGORA1092,C6H6N2O,0,C00153,HMDB01406,0
+ncptrc[c],"N-Carbamoylputrescine",cpdAGORA1093,C5H14N3O,1,C00436,,0
+nh4[c],"Ammonium",cpdAGORA1094,H4N,1,C00014,HMDB00051,0
+nh4[e],"Ammonium",cpdAGORA1095,H4N,1,C00014,HMDB00051,0
+nicrns[c],"Nicotinate D-ribonucleoside",cpdAGORA1096,C11H13NO6,0,C05841,HMDB06809,0
+nicrnt[c],"Nicotinate D-ribonucleotide",cpdAGORA1097,C11H12NO9P,-2,C01185,HMDB01132,0
+nmn[c],"NMN",cpdAGORA1098,C11H14N2O8P,-1,C00455,HMDB00229,0
+np2msucc[c],"Naphthyl-2-methyl-succinic acid",cpdAGORA1099,C15H12O4,-2,,,0
+o2[c],"O2",cpdAGORA1100,O2,0,C00007,HMDB01377,0
+o2[e],"O2",cpdAGORA1101,O2,0,C00007,HMDB01377,0
+o2s[c],"superoxide",cpdAGORA1102,O2,-1,C00704,HMDB02168,0
+oaa[c],"Oxaloacetate",cpdAGORA1103,C4H2O5,-2,C00036,HMDB00223,0
+ocACP[c],"Octanoyl-ACP (n-C8:0ACP)",cpdAGORA1104,C19H35N2O8PRS,-1,,,0
+ocdcaACP[c],"Octadecanoyl-ACP (n-C18:0ACP)",cpdAGORA1105,C29H55N2O8PRS,-1,,,0
+ocdca[c],"octadecanoate (n-C18:0)",cpdAGORA1106,C18H35O2,-1,C01530,HMDB00827,0
+ocdca[e],"octadecanoate (n-C18:0)",cpdAGORA1107,C18H35O2,-1,C01530,HMDB00827,0
+ocdcea[c],"octadecenoate (n-C18:1)",cpdAGORA1108,C18H33O2,-1,C00712,HMDB00207,0
+octdp[c],"all-trans-Octaprenyl diphosphate",cpdAGORA1109,C40H65O7P2,-3,,,0
+octeACP[c],"cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1)",cpdAGORA1110,C29H53N2O8PRS,-1,,,0
+odecoa[c],"Octadecenoyl-CoA (n-C18:1CoA)",cpdAGORA1111,C39H64N7O17P3S,-4,C00510,HMDB01322,0
+ohpb[c],"2-Oxo-3-hydroxy-4-phosphobutanoate",cpdAGORA1112,C4H4O8P,-3,,,0
+orn[c],"Ornithine",cpdAGORA1113,C5H13N2O2,1,C00077,HMDB00214,0
+orn[e],"Ornithine",cpdAGORA1114,C5H13N2O2,1,C00077,HMDB00214,0
+orot5p[c],"Orotidine 5-phosphate",cpdAGORA1115,C10H10N2O11P,-3,C01103,HMDB00218,0
+orot[c],"Orotate",cpdAGORA1116,C5H3N2O4,-1,C00295,HMDB00226,0
+oxa[c],"oxalate(2-)",cpdAGORA1117,C2O4,-2,C00209,HMDB02329,0
+oxadpcoa[c],"3-Oxoadipyl-CoA",cpdAGORA1118,C27H37N7O20P3S,-5,C02232,,0
+oxglyc[c],"Oxaloglycolate",cpdAGORA1119,C4H2O6,-2,,,0
+pa120[c],"1,2-didodecanoyl-sn-glycerol 3-phosphate",cpdAGORA1120,C27H51O8P1,-2,,,0
+pa140[c],"1,2-ditetradecanoyl-sn-glycerol 3-phosphate",cpdAGORA1121,C31H59O8P1,-2,,,0
+pa141[c],"1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate",cpdAGORA1122,C31H55O8P1,-2,,,0
+pa160[c],"1,2-dihexadecanoyl-sn-glycerol 3-phosphate",cpdAGORA1123,C35H67O8P1,-2,,,0
+pa161[c],"1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate",cpdAGORA1124,C35H63O8P1,-2,,,0
+pa180[c],"1,2-dioctadecanoyl-sn-glycerol 3-phosphate",cpdAGORA1125,C39H75O8P1,-2,,,0
+pa181[c],"1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate",cpdAGORA1126,C39H71O8P1,-2,,,0
+paai15[c],"1,2-dianteisopentadecanoyl-sn-glycerol 3-phosphate (12-methyl-tetradecanoyl, anteiso-C15)",cpdAGORA1127,C33H63O8P,-2,,,0
+paai17[c],"1,2-dianteisoheptadecanoyl-sn-glycerol 3-phosphate (14-methyl-hexadecanoyl, anteiso-C17)",cpdAGORA1128,C37H71O8P,-2,,,0
+pai14[c],"1,2-diisotetradecanoyl-sn-glycerol 3-phosphate (12-methyl-tridecanoyl, iso-C14)",cpdAGORA1129,C31H59O8P,-2,,,0
+pai15[c],"1,2-diisopentadecanoyl-sn-glycerol 3-phosphate (13-methyl-tetradecanoyl, iso-C15)",cpdAGORA1130,C33H63O8P,-2,,,0
+pai16[c],"1,2-diisohexadecanoyl-sn-glycerol 3-phosphate (14-methyl-pentadecanoyl, iso-C16)",cpdAGORA1131,C35H67O8P,-2,,,0
+pai17[c],"1,2-diisoheptadecanoyl-sn-glycerol 3-phosphate (15-methyl-hexadecanoyl, iso-C17)",cpdAGORA1132,C37H71O8P,-2,,,0
+palmACP[c],"Palmitoyl-ACP (n-C16:0ACP)",cpdAGORA1133,C27H51N2O8PRS,-1,,,0
+pan4p[c],"Pantetheine 4-phosphate",cpdAGORA1134,C11H21N2O7PS,-2,C01134,HMDB01416,0
+pant_R[c],"(R)-Pantoate",cpdAGORA1135,C6H11O4,-1,,,0
+pap[c],"adenosine 3,5-bismonophosphate(4-)",cpdAGORA1136,C10H11N5O10P2,-4,C00054,HMDB00061,0
+pb[c],"Lead",cpdAGORA1137,Pb,2,,,0
+pb[e],"Lead",cpdAGORA1138,Pb,2,,,0
+pdx5p[c],"Pyridoxine 5-phosphate",cpdAGORA1139,C8H10NO6P,-2,C00627,HMDB01319,0
+pe120[c],"phosphatidylethanolamine (didodecanoyl, n-C12:0)",cpdAGORA1140,C29H58NO8P,0,,,0
+pe140[c],"phosphatidylethanolamine (ditetradecanoyl, n-C14:0)",cpdAGORA1141,C33H66N1O8P1,0,,,0
+pe141[c],"phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1)",cpdAGORA1142,C33H62N1O8P1,0,,,0
+pe160[c],"phosphatidylethanolamine (dihexadecanoyl, n-C16:0)",cpdAGORA1143,C37H74N1O8P1,0,,,0
+pe161[c],"phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1)",cpdAGORA1144,C37H70NO8P,0,,,0
+pe180[c],"phosphatidylethanolamine (dioctadecanoyl, n-C18:0)",cpdAGORA1145,C41H82N1O8P1,0,,,0
+pe181[c],"phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)",cpdAGORA1146,C41H78NO8P,0,,,0
+peai15[c],"Phosphatidylethanolamine (12-methyl-tetradecanoyl, anteiso-C15)",cpdAGORA1147,C35H70NO8P,0,,,0
+peai17[c],"Phosphatidylethanolamine (14-methyl-hexadecanoyl, anteiso-C17)",cpdAGORA1148,C39H78NO8P,0,,,0
+pei14[c],"Phosphatidylethanolamine (12-methyl-tridecanoyl, iso-C14)",cpdAGORA1149,C33H66NO8P,0,,,0
+pei15[c],"Phosphatidylethanolamine (13-methyl-tetradecanoyl, iso-C15)",cpdAGORA1150,C35H70NO8P,0,,,0
+pei16[c],"Phosphatidylethanolamine (14-methyl-pentadecanoyl, iso-C16)",cpdAGORA1151,C37H74NO8P,0,,,0
+pei17[c],"Phosphatidylethanolamine (15-methyl-hexadecanoyl, iso-C17)",cpdAGORA1152,C39H78NO8P,0,,,0
+pendp[c],"all-trans-Pentaprenyl diphosphate",cpdAGORA1153,C25H41O7P2,-3,,,0
+pep[c],"Phosphoenolpyruvate",cpdAGORA1154,C3H2O6P,-3,C00074,HMDB00263,0
+peptmet_L[c],"Peptide-L-methionine",cpdAGORA1155,XC3H7S,0,,,0
+peptmetox_L[c],"Peptide-L-methionine (R)-S-oxide",cpdAGORA1156,XC3H7OS,0,,,0
+pg140[c],"Phosphatidylglycerol (ditetradecanoyl, n-C14:0)",cpdAGORA1157,C34H66O10P1,-1,,,0
+pg160[c],"Phosphatidylglycerol (dihexadecanoyl, n-C16:0)",cpdAGORA1158,C38H74O10P,-1,,,0
+pg180[c],"Phosphatidylglycerol (dioctadecanoyl, n-C18:0)",cpdAGORA1159,C42H82O10P,-1,,,0
+pgai15[c],"Phosphatidylglycerol (12-methyl-tetradecanoyl, anteiso-C15)",cpdAGORA1160,C36H70O10P,-1,,,0
+pgai17[c],"Phosphatidylglycerol (14-methyl-hexadecanoyl, anteiso-C17)",cpdAGORA1161,C40H78O10P,-1,,,0
+pgi14[c],"Phosphatidylglycerol (12-methyltridecanoyl, iso-C14)",cpdAGORA1162,C34H66O10P,-1,,,0
+pgi15[c],"Phosphatidylglycerol (13-methyltetradecanoyl, iso-C15)",cpdAGORA1163,C36H70O10P,-1,,,0
+pgi16[c],"Phosphatidylglycerol (14-methylpentadecanoyl, iso-C16)",cpdAGORA1164,C38H74O10P,-1,,,0
+pgi17[c],"Phosphatidylglycerol (15-methyl-hexadecanoyl, iso-C17)",cpdAGORA1165,C40H78O10P,-1,,,0
+pgp120[c],"Phosphatidylglycerophosphate (didodecanoyl, n-C12:0)",cpdAGORA1166,C30H57O13P2,-3,,,0
+pgp140[c],"Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0)",cpdAGORA1167,C34H65O13P2,-3,,,0
+pgp141[c],"Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1)",cpdAGORA1168,C34H61O13P2,-3,,,0
+pgp160[c],"Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)",cpdAGORA1169,C38H73O13P2,-3,,,0
+pgp161[c],"Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)",cpdAGORA1170,C38H69O13P2,-3,,,0
+pgp180[c],"Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)",cpdAGORA1171,C42H81O13P2,-3,,,0
+pgp181[c],"Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1)",cpdAGORA1172,C42H77O13P2,-3,,,0
+pgpai15[c],"Phosphatidylglycerophosphate (12-methyl-tetradecanoyl, anteiso-C15)",cpdAGORA1173,C36H69O13P2,-3,,,0
+pgpai17[c],"Phosphatidylglycerophosphate (14-methyl-hexadecanoyl, anteiso-C17)",cpdAGORA1174,C40H77O13P2,-3,,,0
+pgpi14[c],"Phosphatidylglycerophosphate (12-methyltridecanoyl, iso-C14)",cpdAGORA1175,C34H65O13P2,-3,,,0
+pgpi15[c],"Phosphatidylglycerophosphate (13-methyltetradecanoyl, iso-C15)",cpdAGORA1176,C36H69O13P2,-3,,,0
+pgpi16[c],"Phosphatidylglycerophosphate (14-methylpentadecanoyl, iso-C16)",cpdAGORA1177,C38H73O13P2,-3,,,0
+pgpi17[c],"Phosphatidylglycerophosphate (15-methyl-hexadecanoyl, iso-C17)",cpdAGORA1178,C40H77O13P2,-3,,,0
+phe_L[c],"L-phenylalanine",cpdAGORA1179,C9H11NO2,0,C00079,HMDB00159,0
+phe_L[e],"L-phenylalanine",cpdAGORA1180,C9H11NO2,0,C00079,HMDB00159,0
+pheme[c],"Protoheme",cpdAGORA1181,C34H30FeN4O4,-2,C00032,HMDB03178,0
+pheme[e],"Protoheme",cpdAGORA1182,C34H30FeN4O4,-2,C00032,HMDB03178,0
+phom[c],"O-phosphonato-L-homoserine(2-)",cpdAGORA1183,C4H8NO6P,-2,C01102,HMDB03484,0
+phpyr[c],"keto-phenylpyruvate",cpdAGORA1184,C9H7O3,-1,C00166,HMDB00205,0
+phthr[c],"O-Phospho-4-hydroxy-L-threonine",cpdAGORA1185,C4H8NO7P,-2,,,0
+phytn[c],"Phytoene",cpdAGORA1186,C40H64,0,,,0
+pi[c],"hydrogenphosphate",cpdAGORA1187,HO4P,-2,C00009,HMDB00973,0
+pi[e],"hydrogenphosphate",cpdAGORA1188,HO4P,-2,C00009,HMDB00973,0
+pmtcoa[c],"Palmitoyl-CoA (n-C16:0CoA)",cpdAGORA1189,C37H62N7O17P3S,-4,C00154,HMDB01338,0
+pnp[c],"4-Hydroxynitrobenzene, p-Nitrophenol",cpdAGORA1190,C6H4NO3,-1,,,0
+pnto_R[c],"(R)-Pantothenate",cpdAGORA1191,C9H16NO5,-1,C00864,HMDB00210,0
+pnto_R[e],"(R)-Pantothenate",cpdAGORA1192,C9H16NO5,-1,C00864,HMDB00210,0
+ppa[c],"propionate",cpdAGORA1193,C3H5O2,-1,C00163,HMDB00237,0
+ppap[c],"Propanoyl phosphate",cpdAGORA1194,C3H5O5P,-2,,,0
+ppcoa[c],"Propanoyl-CoA",cpdAGORA1195,C24H36N7O17P3S,-4,C00100,HMDB01275,0
+ppgpp[c],"Guanosine 3,5-bis(diphosphate)",cpdAGORA1196,C10H11N5O17P4,-6,,,0
+pphn[c],"Prephenate",cpdAGORA1197,C10H8O6,-2,,,0
+pphtd[c],"Prephytoene diphosphate",cpdAGORA1198,C40H65O7P2,-3,,,0
+ppi[c],"Diphosphate",cpdAGORA1199,HO7P2,-3,C00013,HMDB00250,0
+pppg9[c],"Protoporphyrinogen IX",cpdAGORA1200,C34H38N4O4,-2,C01079,HMDB01097,0
+pppi[c],"triphosphate(5-)",cpdAGORA1201,HO10P3,-4,C00536,HMDB03379,0
+pram[c],"5-Phospho-beta-D-ribosylamine",cpdAGORA1202,C5H11NO7P,-1,C03090,HMDB01128,0
+prbamp[c],"1-(5-Phosphoribosyl)-AMP",cpdAGORA1203,C15H19N5O14P2,-4,,,0
+prbatp[c],"1-(5-Phosphoribosyl)-ATP",cpdAGORA1204,C15H19N5O20P4,-6,,,0
+prfp[c],"1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide",cpdAGORA1205,C15H21N5O15P2,-4,,,0
+prl45tca[c],"Prenol-45n teichoic acid",cpdAGORA1206,C206H386N2O242P47,-47,,,0
+prl45tcaala[c],"Prenol-45n teichoic acid-alanine substituted",cpdAGORA1207,C341H566N47O242P47,-2,,,0
+prl45tcaglc[c],"Prenol-45n teichoic acid-glucose substituted",cpdAGORA1208,C476H836N2O467P47,-47,,,0
+prlp[c],"5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide",cpdAGORA1209,C15H21N5O15P2,-4,,,0
+pro_L[c],"L-proline",cpdAGORA1210,C5H9NO2,0,C00148,HMDB00162,0
+pro_L[e],"L-proline",cpdAGORA1211,C5H9NO2,0,C00148,HMDB00162,0
+proteinsynth[c],"Protein biosynthesis",cpdAGORA1212,X,0,,,0
+prpp[c],"5-Phospho-alpha-D-ribose 1-diphosphate",cpdAGORA1213,C5H8O14P3,-5,C00119,HMDB00280,0
+ps120[c],"phosphatidylserine (didodecanoyl, n-C12:0)",cpdAGORA1214,C30H57N1O10P1,-1,,,0
+ps140[c],"phosphatidylserine (ditetradecanoyl, n-C14:0)",cpdAGORA1215,C34H65N1O10P1,-1,,,0
+ps141[c],"phosphatidylserine (ditetradec-7-enoyl, n-C14:1)",cpdAGORA1216,C34H61N1O10P1,-1,,,0
+ps160[c],"phosphatidylserine (dihexadecanoyl, n-C16:0)",cpdAGORA1217,C38H73N1O10P1,-1,,,0
+ps161[c],"phosphatidylserine (dihexadec-9-enoyl, n-C16:1)",cpdAGORA1218,C38H69N1O10P1,-1,,,0
+ps180[c],"phosphatidylserine (dioctadecanoyl, n-C18:0)",cpdAGORA1219,C42H81N1O10P1,-1,,,0
+ps181[c],"phosphatidylserine (dioctadec-11-enoyl, n-C18:1)",cpdAGORA1220,C42H77N1O10P1,-1,,,0
+psai15[c],"Phosphatidylserine (12-methyl-tetradecanoyl, anteiso-C15)",cpdAGORA1221,C36H69NO10P,-1,,,0
+psai17[c],"Phosphatidylserine (14-methyl-hexadecanoyl, anteiso-C17)",cpdAGORA1222,C40H77NO10P,-1,,,0
+psd5p[c],"Pseudouridine 5-phosphate",cpdAGORA1223,C9H11N2O9P,-2,,,0
+pser_L[c],"O-Phospho-L-serine",cpdAGORA1224,C3H6NO6P,-2,C01005,HMDB00272,0
+psi14[c],"Phosphatidylserine (12-methyl-tridecanoyl, iso-C14)",cpdAGORA1225,C34H65NO10P,-1,,,0
+psi15[c],"Phosphatidylserine (13-methyl-tetradecanoyl, iso-C15)",cpdAGORA1226,C36H69NO10P,-1,,,0
+psi16[c],"Phosphatidylserine (14-methyl-pentadecanoyl, iso-C16)",cpdAGORA1227,C38H73NO10P,-1,,,0
+psi17[c],"Phosphatidylserine (15-methyl-hexadecanoyl, iso-C17)",cpdAGORA1228,C40H77NO10P,-1,,,0
+ptrc[c],"Putrescine",cpdAGORA1229,C4H14N2,2,C00134,HMDB01414,0
+pullulan1200[e],"pullulan (n=1200 repeat units, alpha-1,4 and alph-1,6 bounds)",cpdAGORA1230,C7200H12002O6001,0,,,0
+pyam5p[c],"Pyridoxamine 5-phosphate",cpdAGORA1231,C8H12N2O5P,-1,C00647,HMDB01555,0
+pydam[c],"Pyridoxamine",cpdAGORA1232,C8H13N2O2,1,C00534,HMDB01431,0
+pydx5p[c],"Pyridoxal 5-phosphate",cpdAGORA1233,C8H8NO6P,-2,C00018,HMDB01491,0
+pydx[c],"Pyridoxal",cpdAGORA1234,C8H9NO3,0,C00250,HMDB01545,0
+pydx[e],"Pyridoxal",cpdAGORA1235,C8H9NO3,0,C00250,HMDB01545,0
+pydxn[c],"Pyridoxine",cpdAGORA1236,C8H11NO3,0,C00314,HMDB00239,0
+pyr[c],"pyruvate",cpdAGORA1237,C3H3O3,-1,C00022,HMDB00243,0
+q8[c],"Ubiquinone-8",cpdAGORA1238,C49H74O4,0,,,0
+q8h2[c],"Ubiquinol-8",cpdAGORA1239,C49H76O4,0,,,0
+quln[c],"quinolinate(2-)",cpdAGORA1240,C7H3NO4,-2,C03722,HMDB00232,0
+r1p[c],"alpha-D-Ribose 1-phosphate",cpdAGORA1241,C5H9O8P,-2,C00620,HMDB01489,0
+r5p[c],"alpha-D-Ribose 5-phosphate",cpdAGORA1242,C5H9O8P,-2,C03736,HMDB00618,0
+raffin[c],"Raffinose",cpdAGORA1243,C18H32O16,0,,,0
+rbl_D[c],"D-ribulose",cpdAGORA1244,C5H10O5,0,C00309,HMDB00621,0
+rbl_L[c],"L-Ribulose",cpdAGORA1245,C5H10O5,0,,,0
+rdmbzi[c],"N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole",cpdAGORA1246,C14H18N2O4,0,,,0
+rhcys[c],"S-Ribosyl-L-homocysteine",cpdAGORA1247,C9H17NO6S,0,,,0
+rib_D[c],"D-ribose",cpdAGORA1248,C5H10O5,0,C00121,HMDB00283,0
+rib_D[e],"D-ribose",cpdAGORA1249,C5H10O5,0,C00121,HMDB00283,0
+ribflv[c],"Riboflavin",cpdAGORA1250,C17H20N4O6,0,C00255,HMDB00244,0
+ribflv[e],"Riboflavin",cpdAGORA1251,C17H20N4O6,0,C00255,HMDB00244,0
+rml1p[c],"L-Rhamnulose 1-phosphate",cpdAGORA1252,C6H11O8P,-2,,,0
+rml[c],"L-Rhamnulose",cpdAGORA1253,C6H12O5,0,,,0
+rnam[c],"N-Ribosylnicotinamide",cpdAGORA1254,C11H15N2O5,1,C03150,HMDB00855,0
+rnatrans[c],"RNA transcription",cpdAGORA1255,X,0,,,0
+ru5p_D[c],"D-ribulose 5-phosphate(2-)",cpdAGORA1256,C5H9O8P,-2,C00199,HMDB00618,0
+ru5p_L[c],"L-Ribulose 5-phosphate",cpdAGORA1257,C5H9O8P,-2,,,0
+s17bp[c],"Sedoheptulose 1,7-bisphosphate",cpdAGORA1258,C7H12O13P2,-4,,,0
+s7p[c],"Sedoheptulose 7-phosphate",cpdAGORA1259,C7H13O10P,-2,C05382,HMDB01068,0
+sT_antigen[e],"sialyl-T antigen",cpdAGORA1260,C25H40N2O18X,-1,,,0
+sT_antigen_rl[e],"released sialyl-Tn antigen",cpdAGORA1261,C25H41N2O19,-1,G00261,,0
+sTn_antigen[e],"sialyl-Tn antigen",cpdAGORA1262,C19H30N2O13X,-1,,,0
+salc[c],"Salicylic acid, o-Hydroxybenzoic acid",cpdAGORA1263,C7H5O3,-1,,,0
+seln[c],"Selenide",cpdAGORA1264,HSe,-1,C01528,HMDB11110,0
+selnp[c],"Selenophosphate",cpdAGORA1265,H2O3PSe,-1,C05172,HMDB03840,0
+ser_L[c],"L-serine",cpdAGORA1266,C3H7NO3,0,C00065,HMDB00187,0
+ser_L[e],"L-serine",cpdAGORA1267,C3H7NO3,0,C00065,HMDB00187,0
+sheme[c],"Siroheme",cpdAGORA1268,C42H36FeN4O16,-8,,,0
+sheme[e],"Siroheme",cpdAGORA1269,C42H36FeN4O16,-8,,,0
+skm5p[c],"Shikimate 5-phosphate",cpdAGORA1270,C7H8O8P,-3,,,0
+skm[c],"Shikimate",cpdAGORA1271,C7H9O5,-1,,,0
+so3[c],"Sulfite",cpdAGORA1272,O3S,-2,C00094,HMDB00240,0
+so4[c],"sulfate",cpdAGORA1273,O4S,-2,C00059,HMDB01448,0
+so4[e],"sulfate",cpdAGORA1274,O4S,-2,C00059,HMDB01448,0
+spmd[c],"Spermidine",cpdAGORA1275,C7H22N3,3,C00315,HMDB01257,0
+spmd[e],"Spermidine",cpdAGORA1276,C7H22N3,3,C00315,HMDB01257,0
+stcoa[c],"Stearoyl-CoA (n-C18:0CoA)",cpdAGORA1277,C39H66N7O17P3S,-4,C00412,HMDB01114,0
+sttca1[c],"Stearoyllipoteichoic acid (n=24), linked, unsubstituted",cpdAGORA1278,C123H240O135P24,-24,,,0
+sttcaacgam[c],"Stearoyllipoteichoic acid (n=24), linked, N-acetyl-D-glucosamine",cpdAGORA1279,C315H552N24O255P24,-24,,,0
+sttcaala_D[c],"Stearoyllipoteichoic acid (n=24), linked, D-alanine substituted",cpdAGORA1280,C195H336N24O135P24,0,,,0
+sttcaglc[c],"Stearoyllipoteichoic acid (n=24), linked, glucose substituted",cpdAGORA1281,C267H480O255P24,-24,,,0
+stys[c],"Stachyose",cpdAGORA1282,C24H42O21,0,,,0
+stys[e],"Stachyose",cpdAGORA1283,C24H42O21,0,,,0
+suc6p[c],"Sucrose 6-phosphate",cpdAGORA1284,C12H21O14P,-2,,,0
+succ[c],"Succinate",cpdAGORA1285,C4H4O4,-2,C00042,HMDB00254,0
+succ[e],"Succinate",cpdAGORA1286,C4H4O4,-2,C00042,HMDB00254,0
+succoa[c],"Succinyl-CoA",cpdAGORA1287,C25H35N7O19P3S,-5,C00091,HMDB01022,0
+suchms[c],"O-Succinyl-L-homoserine",cpdAGORA1288,C8H12NO6,-1,,,0
+sucr[c],"Sucrose",cpdAGORA1289,C12H22O11,0,C00089,HMDB00258,0
+sucr[e],"Sucrose",cpdAGORA1290,C12H22O11,0,C00089,HMDB00258,0
+tag6p_D[c],"D-Tagatose 6-phosphate",cpdAGORA1291,C6H11O9P,-2,,,0
+tagdp_D[c],"D-Tagatose 1,6-biphosphate",cpdAGORA1292,C6H10O12P2,-4,,,0
+tartr_L[c],"L-tartrate",cpdAGORA1293,C4H4O6,-2,,,0
+tartr_M[c],"meso-Tartrate",cpdAGORA1294,C4H4O6,-2,,,0
+taur[c],"Taurine",cpdAGORA1295,C2H7NO3S,0,C00245,HMDB00251,0
+taur[e],"Taurine",cpdAGORA1296,C2H7NO3S,0,C00245,HMDB00251,0
+tcam[c],"minor teichoic acid (acetylgalactosamine glucose phosphate, n=30)",cpdAGORA1297,X,0,,,0
+tdcoa[c],"Tetradecanoyl-CoA (n-C14:0CoA)",cpdAGORA1298,C35H58N7O17P3S,-4,C02593,HMDB01521,0
+tdeACP[c],"cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1)",cpdAGORA1299,C25H45N2O8PRS,-1,,,0
+thdp[c],"2,3,4,5-Tetrahydrodipicolinate",cpdAGORA1300,C7H7NO4,-2,,,0
+thf[c],"5,6,7,8-Tetrahydrofolate",cpdAGORA1301,C19H21N7O6,-2,C00101,HMDB01846,0
+thglu[c],"Tetrahydropteroyltri-L-glutamate",cpdAGORA1302,C29H37N9O12,0,,,0
+thm[c],"Thiamin",cpdAGORA1303,C12H17N4OS,1,C00378,HMDB00235,0
+thm[e],"Thiamin",cpdAGORA1304,C12H17N4OS,1,C00378,HMDB00235,0
+thmmp[c],"Thiamin monophosphate",cpdAGORA1305,C12H16N4O4PS,-1,C01081,HMDB02666,0
+thmpp[c],"Thiamine diphosphate",cpdAGORA1306,C12H16N4O7P2S,-2,C00068,HMDB01372,0
+thr_L[c],"L-threonine",cpdAGORA1307,C4H9NO3,0,C00188,HMDB00167,0
+thr_L[e],"L-threonine",cpdAGORA1308,C4H9NO3,0,C00188,HMDB00167,0
+thymd[c],"Thymidine",cpdAGORA1309,C10H14N2O5,0,C00214,HMDB00273,0
+thymd[e],"Thymidine",cpdAGORA1310,C10H14N2O5,0,C00214,HMDB00273,0
+tma[c],"trimethylamine",cpdAGORA1311,C3H10N,1,,,0
+tma[e],"trimethylamine",cpdAGORA1312,C3H10N,1,,,0
+trdox[c],"Oxidized thioredoxin",cpdAGORA1313,X,0,C00343,,0
+trdrd[c],"Reduced thioredoxin",cpdAGORA1314,XH2,0,C00342,,0
+tre[c],"Trehalose",cpdAGORA1315,C12H22O11,0,C01083,HMDB00975,0
+tre[e],"Trehalose",cpdAGORA1316,C12H22O11,0,C01083,HMDB00975,0
+trnaglu[c],"tRNA (Glu)",cpdAGORA1317,R,0,,,0
+trp_L[c],"L-tryptophan",cpdAGORA1318,C11H12N2O2,0,C00078,HMDB00929,0
+trp_L[e],"L-tryptophan",cpdAGORA1319,C11H12N2O2,0,C00078,HMDB00929,0
+tsul[c],"thiosulfate(2-)",cpdAGORA1320,O3S2,-2,C05529,HMDB00257,0
+ttc_ggdp[c],"trans,trans,cis-Geranylgeranyl diphosphate",cpdAGORA1321,C20H33O7P2,-3,C11356,,0
+ttdca[c],"tetradecanoate (n-C14:0)",cpdAGORA1322,C14H27O2,-1,C06424,HMDB00806,0
+ttdcea[c],"tetradecenoate (n-C14:1)",cpdAGORA1323,C14H25O2,-1,C08322,HMDB02000,0
+tyr_L[c],"L-tyrosine",cpdAGORA1324,C9H11NO3,0,C00082,HMDB00158,0
+tyr_L[e],"L-tyrosine",cpdAGORA1325,C9H11NO3,0,C00082,HMDB00158,0
+uGgla[c],"UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine",cpdAGORA1326,C40H62N9O26P2,-3,,,0
+uaGgla[c],"Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine",cpdAGORA1327,C86H140N7O21P2,-3,,,0
+uaaGgla[c],"Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine",cpdAGORA1328,C94H153N8O26P2,-3,,,0
+uaagmda[c],"Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala",cpdAGORA1329,C95H152N8O28P2,-4,,,0
+uaccg[c],"UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine",cpdAGORA1330,C20H26N3O19P2,-3,,,0
+uacgam[c],"UDP-N-acetyl-alpha-D-glucosamine(2-)",cpdAGORA1331,C17H25N3O17P2,-2,C00043,HMDB00290,0
+uacmam[c],"UDP-N-acetyl-D-mannosamine",cpdAGORA1332,C17H25N3O17P2,-2,,,0
+uagmda[c],"Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine",cpdAGORA1333,C87H139N7O23P2,-4,,,0
+uama[c],"UDP-N-acetylmuramoyl-L-alanine",cpdAGORA1334,C23H33N4O20P2,-3,,,0
+uamag[c],"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate",cpdAGORA1335,C28H39N5O23P2,-4,,,0
+uamr[c],"UDP-N-acetylmuramate",cpdAGORA1336,C20H28N3O19P2,-3,,,0
+udcpdp[c],"Undecaprenyl diphosphate",cpdAGORA1337,C55H89O7P2,-3,,,0
+udcpp[c],"Undecaprenyl phosphate",cpdAGORA1338,C55H89O4P,-2,,,0
+udp[c],"UDP",cpdAGORA1339,C9H11N2O12P2,-3,C00015,HMDB00295,0
+udpacgal[c],"UDP-N-acetyl-D-galactosamine(2-)",cpdAGORA1340,C17H25N3O17P2,-2,C00203,HMDB00304,0
+udpg[c],"UDPglucose",cpdAGORA1341,C15H22N2O17P2,-2,C00029,HMDB00286,0
+udpgal[c],"UDP-D-galactose(2-)",cpdAGORA1342,C15H22N2O17P2,-2,C00052,HMDB00302,0
+udpgalfur[c],"UDP-D-galacto-1,4-furanose",cpdAGORA1343,C15H22N2O17P2,-2,,,0
+ugmd[c],"UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate",cpdAGORA1344,C35H51N7O26P2,-4,,,0
+ugmda[c],"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine",cpdAGORA1345,C41H61N9O28P2,-4,,,0
+ump[c],"UMP",cpdAGORA1346,C9H11N2O9P,-2,C00105,HMDB00288,0
+unaga[c],"Undecaprenyl diphospho N-acetyl-glucosamine",cpdAGORA1347,C63H103NO12P2,-2,,,0
+up4g[c],"P1,P4-Bis(5-uridyl) tetraphosphate; UppppU",cpdAGORA1348,C18H22N4O23P4,-4,C06198,,0
+ura[c],"uracil",cpdAGORA1349,C4H4N2O2,0,C00106,HMDB00300,0
+uri[c],"Uridine",cpdAGORA1350,C9H12N2O6,0,C00299,HMDB00296,0
+utp[c],"UTP",cpdAGORA1351,C9H11N2O15P3,-4,C00075,HMDB00285,0
+val_L[c],"L-valine",cpdAGORA1352,C5H11NO2,0,C00183,HMDB00883,0
+val_L[e],"L-valine",cpdAGORA1353,C5H11NO2,0,C00183,HMDB00883,0
+xan[c],"Xanthine",cpdAGORA1354,C5H4N4O2,0,C00385,HMDB00292,0
+xmp[c],"Xanthosine 5-phosphate",cpdAGORA1355,C10H11N4O9P,-2,C00655,HMDB01554,0
+xtsn[c],"xanthosine",cpdAGORA1356,C10H12N4O6,0,C01762,HMDB00299,0
+xu1p_L[c],"L-Xylulose 1-phosphate",cpdAGORA1357,C5H9O8P,-2,,,0
+xu5p_D[c],"D-xylulose 5-phosphate(2-)",cpdAGORA1358,C5H9O8P,-2,C00231,HMDB00868,0
+xu5p_L[c],"L-Xylulose 5-phosphate",cpdAGORA1359,C5H9O8P,-2,,,0
+xyl_D[c],"aldehydo-D-xylose",cpdAGORA1360,C5H10O5,0,,,0
+xyl_D[e],"aldehydo-D-xylose",cpdAGORA1361,C5H10O5,0,,,0
+xylu_D[c],"D-xylulose",cpdAGORA1362,C5H10O5,0,C00310,HMDB01644,0
+xylu_L[c],"L-xylulose",cpdAGORA1363,C5H10O5,0,C00312,HMDB00751,0
+zn2[c],"Zinc",cpdAGORA1364,Zn,2,,,0
+zn2[e],"Zinc",cpdAGORA1365,Zn,2,,,0
+10fthf5glu[c],"10-formyltetrahydrofolate-[Glu](5)",cpdAGORA1366,C40H45N11O19,-6,,,0
+10mtundec2eACP[c],"10-methyl-trans-undec-2-enoyl-ACP",cpdAGORA1367,C23H41N2O8PRS,-1,,,0
+12daipdglyc[c],"1,2-Dianteisopentadecanoyl-sn-glycerol",cpdAGORA1368,C33H64O5,0,,,0
+12dgr120[c],"1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)",cpdAGORA1369,C27H52O5,0,,,0
+12dgr140[c],"1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0)",cpdAGORA1370,C31H60O5,0,,,0
+12dgr141[c],"1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1)",cpdAGORA1371,C31H56O5,0,,,0
+12dgr160[c],"1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)",cpdAGORA1372,C35H68O5,0,,,0
+12dgr161[c],"1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1)",cpdAGORA1373,C35H64O5,0,,,0
+12dgr181[c],"1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1)",cpdAGORA1374,C39H72O5,0,,,0
+12dipdglyc[c],"1,2-Diisopentadecanoyl-sn-glycerol",cpdAGORA1375,C33H64O5,0,,,0
+12ditdglyc[c],"1,2-Diisotetradecanoyl-sn-glycerol",cpdAGORA1376,C31H60O5,0,,,0
+12dixdglyc[c],"1,2-Diisohexadecanoyl-sn-glycerol",cpdAGORA1377,C35H68O5,0,,,0
+12mttritec2eACP[c],"12-methyl-trans-tridec-2-enoyl-ACP",cpdAGORA1378,C25H45N2O8PRS,-1,,,0
+13dampp[c],"trimethylenediaminium",cpdAGORA1379,C3H12N2,2,C00986,HMDB00002,0
+14mtpentdec2eACP[c],"14-methyl-trans-pentadec-2-enoyl-ACP",cpdAGORA1380,C27H49N2O8PRS,-1,,,0
+1mpyr[c],"1-methylpyrrolinium",cpdAGORA1381,C5H10N,1,C06178,,0
+1p3h5c[c],"L-1-Pyrroline-3-hydroxy-5-carboxylate",cpdAGORA1382,C5H6NO3,-1,C04281,HMDB01369,0
+1p4h2cbxl[c],"1-Pyrroline-4-hydroxy-2-carboxylate",cpdAGORA1383,C5H6NO3,-1,,,0
+23camp[c],"2,3-Cyclic AMP",cpdAGORA1384,C10H11N5O6P,-1,,,0
+23ccmp[c],"2,3-Cyclic CMP",cpdAGORA1385,C9H11N3O7P,-1,,,0
+23cgmp[c],"2,3-Cyclic GMP",cpdAGORA1386,C10H11N5O7P,-1,,,0
+23cump[c],"2,3-cyclic UMP(1-)",cpdAGORA1387,C9H10N2O8P,-1,C02355,HMDB11640,0
+23ddhb[c],"2,3-Dihydro-2,3-dihydroxybenzoate",cpdAGORA1388,C7H7O4,-1,,,0
+24dhhed[c],"2,4-Dihydroxyhept-2-enedioate",cpdAGORA1389,C7H8O6,-2,C06201,,0
+25d5o2a[c],"Muconolactone",cpdAGORA1390,C6H5O4,-1,,,0
+25dhpp[c],"2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)-pyrimidine",cpdAGORA1391,C9H14N5O8P,-2,,,0
+25dop[c],"2,5-Dioxopentanoate",cpdAGORA1392,C5H5O4,-1,,,0
+25drapp[c],"2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5-phosphate",cpdAGORA1393,C9H14N5O8P,-2,,,0
+2ahhmd[c],"2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine diphosphate",cpdAGORA1394,C7H8N5O8P2,-3,,,0
+2ahhmp[c],"2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine",cpdAGORA1395,C7H9N5O2,0,C01300,,0
+2ameph[c],"(2-Aminoethyl)phosphonate",cpdAGORA1396,C2H7NO3P,-1,C03557,HMDB11747,0
+2c25dho[c],"2-Carboxy-2,5-dihydro-5-oxofuran-2-acetate",cpdAGORA1397,C7H4O6,-2,C01278,,0
+2cpr5p[c],"1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate",cpdAGORA1398,C12H13NO9P,-3,,,0
+2d3dxylt[c],"2-Dehydro-3-deoxy-D-xylonate",cpdAGORA1399,C5H7O5,-1,,,0
+2ddglcn[e],"2-Dehydro-3-deoxy-D-gluconate",cpdAGORA1400,C6H9O6,-1,,,0
+2ddpent[c],"2-Dehydro-3-deoxy-L-pentonate",cpdAGORA1401,C5H7O5,-1,,,0
+2dh3dgal6p[c],"2-Dehydro-3-deoxy-D-galactonate 6-phosphate",cpdAGORA1402,C6H8O9P,-3,,,0
+2dh3dgal[c],"2-Dehydro-3-deoxy-D-galactonate",cpdAGORA1403,C6H9O6,-1,,,0
+2dh3dglc[c],"2-Dehydro-3-deoxy-D-glucarate",cpdAGORA1404,C6H6O7,-2,,,0
+2dhglcn[c],"2-Dehydro-D-gluconate",cpdAGORA1405,C6H9O7,-1,,,0
+2hb[c],"2-Hydroxybutyrate",cpdAGORA1406,C4H7O3,-1,C05984,HMDB00008,0
+2hh24dd[c],"2-Hydroxyhepta-2-4-dienedioate",cpdAGORA1407,C7H6O5,-2,C05600,,0
+2hmc[c],"2-Hydroxymuconate",cpdAGORA1408,C6H4O5,-2,,,0
+2hyoxplac[c],"2-Hydroxyphenylacetate",cpdAGORA1409,C8H7O3,-1,C05852,HMDB00669,0
+2hyoxplac[e],"2-Hydroxyphenylacetate",cpdAGORA1410,C8H7O3,-1,C05852,HMDB00669,0
+2m1hbtpp[c],"2-Methyl-1-hydroxybutyl-TPP",cpdAGORA1411,C17H26N4O8P2S,-2,C15978,,0
+2m1hptpp[c],"2-Methyl-1-hydroxypropyl-TPP",cpdAGORA1412,C16H24N4O8P2S,-2,,,0
+2mb2coa[c],"2-methylcrotonoyl-CoA(4-)",cpdAGORA1413,C26H38N7O17P3S,-4,C03345,HMDB02054,0
+2mcacn[c],"(Z)-but-2-ene-1,2,3-tricarboxylate",cpdAGORA1414,C7H5O6,-3,C04225,HMDB06357,0
+2mcit[c],"2-methylcitrate(3-)",cpdAGORA1415,C7H7O7,-3,,HMDB00379,0
+2mp2coa[c],"2-Methylprop-2-enoyl-CoA",cpdAGORA1416,C25H36N7O17P3S,-4,C03460,HMDB01011,0
+2mpdhl[c],"S-(2-Methylpropanoyl)-dihydrolipoamide",cpdAGORA1417,C12H23NO2S2,0,C04424,HMDB06868,0
+2ohed[c],"2-Oxohept-3-ene-1,7-dioate",cpdAGORA1418,C7H6O5,-2,C03063,,0
+2ombz[c],"2-Octaprenyl-6-methoxy-1,4-benzoquinone",cpdAGORA1419,C47H70O3,0,,,0
+2ommb[c],"2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone",cpdAGORA1420,C48H72O3,0,,,0
+34dhmald[c],"3,4-Dihydroxymandelaldehyde",cpdAGORA1421,C8H8O4,0,C05577,HMDB06242,0
+34dhoxpeg[c],"3,4-Dihydroxyphenylethyleneglycol",cpdAGORA1422,C8H10O4,0,C05576,HMDB00318,0
+34dhpac[c],"3,4-Dihydroxyphenylacetaldehyde",cpdAGORA1423,C8H8O3,0,C04043,HMDB03791,0
+34dhpha[c],"(3,4-dihydroxyphenyl)acetate",cpdAGORA1424,C8H7O4,-1,C01161,HMDB01336,0
+34dhpha[e],"(3,4-dihydroxyphenyl)acetate",cpdAGORA1425,C8H7O4,-1,C01161,HMDB01336,0
+34dhphe[c],"L-dopa",cpdAGORA1426,C9H11NO4,0,C00355,HMDB00181,0
+34dhphe[e],"L-dopa",cpdAGORA1427,C9H11NO4,0,C00355,HMDB00181,0
+35cgmp[c],"3,5-cyclic GMP(1-)",cpdAGORA1428,C10H11N5O7P,-1,C00942,HMDB01314,0
+3a2opp[c],"3-Amino-2-oxopropyl phosphate",cpdAGORA1429,C3H7NO5P,-1,,,0
+3abutcoa[c],"L-3-Aminobutyryl-CoA",cpdAGORA1430,C25H39N8O17P3S,-4,C05231,,0
+3aib[c],"(S)-3-aminoisobutyric acid",cpdAGORA1431,C4H9NO2,0,C03284,HMDB02166,0
+3aib_D[c],"D-3-Amino-isobutanoate",cpdAGORA1432,C4H9NO2,0,C01205,HMDB02299,0
+3amp[c],"3-AMP(2-)",cpdAGORA1433,C10H12N5O7P,-2,C01367,HMDB03540,0
+3cmp[c],"3-cmp",cpdAGORA1434,C9H12N3O8P,-2,,,0
+3gmp[c],"3-GMP",cpdAGORA1435,C10H12N5O8P,-2,,,0
+3hanthrn[c],"3-hydroxyanthranilate",cpdAGORA1436,C7H7NO3,0,C00632,HMDB01476,0
+3hbcoa_R[c],"(R)-3-hydroxybutanoyl-CoA(4-)",cpdAGORA1437,C25H38N7O18P3S,-4,C03561,HMDB01166,0
+3hcinnm[c],"3-hydroxycinnamic acid",cpdAGORA1438,C9H7O3,-1,,,0
+3hcinnm[e],"3-hydroxycinnamic acid",cpdAGORA1439,C9H7O3,-1,,,0
+3hgACPm[c],"3-hydroxyglutaryl-ACP methyl ester",cpdAGORA1440,C17H29N2O11PRS,-1,,,0
+3hibutcoa[c],"(S)-3-Hydroxyisobutyryl-CoA",cpdAGORA1441,C25H38N7O18P3S,-4,C06000,HMDB01052,0
+3hpACPm[c],"3-hydroxypimeloyl-ACP methyl ester",cpdAGORA1442,C19H33N2O11PRS,-1,,,0
+3hpcoa[c],"3-hydroxypropanoyl-CoA(4-)",cpdAGORA1443,C24H36N7O18P3S,-4,C05668,HMDB06807,0
+3hpp[c],"3-hydroxypropionate",cpdAGORA1444,C3H5O3,-1,C01013,HMDB00700,0
+3hpppn[c],"3-(3-hydroxy-phenyl)propionate",cpdAGORA1445,C9H9O3,-1,,,0
+3hpppn[e],"3-(3-hydroxy-phenyl)propionate",cpdAGORA1446,C9H9O3,-1,,,0
+3m1hbtpp[c],"3-Methyl-1-hydroxybutyl-TPP",cpdAGORA1447,C17H26N4O8P2S,-2,,,0
+3mop[e],"3-methyl-2-oxopentanoate",cpdAGORA1448,C6H9O3,-1,C03465,HMDB00491,0
+3ocddec5eACP[c],"3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein]",cpdAGORA1449,C23H39N2O9PRS,-1,,,0
+3ocmrs7eACP[c],"3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein]",cpdAGORA1450,C25H43N2O9PRS,-1,,,0
+3ocpalm9eACP[c],"3-oxo-cis-palm-9-eoyl-[acyl-carrier protein]",cpdAGORA1451,C27H47N2O9PRS,-1,,,0
+3ocvac11eACP[c],"3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein]",cpdAGORA1452,C29H51N2O9PRS,-1,,,0
+3ogACPm[c],"3-ketoglutaryl-ACP methyl ester",cpdAGORA1453,C17H27N2O11PRS,-1,,,0
+3opACPm[c],"3-ketopimeloyl-ACP methyl ester",cpdAGORA1454,C19H31N2O11PRS,-1,,,0
+3oxoadp[c],"3-Oxoadipate",cpdAGORA1455,C6H6O5,-2,C00846,HMDB00398,0
+3uib[c],"3-Ureidoisobutyrate",cpdAGORA1456,C5H9N2O3,-1,C05100,HMDB02031,0
+3ump[c],"3-UMP(2-)",cpdAGORA1457,C9H11N2O9P,-2,C01368,,0
+4abz[c],"4-Aminobenzoate",cpdAGORA1458,C7H6NO2,-1,,,0
+4abz[e],"4-Aminobenzoate",cpdAGORA1459,C7H6NO2,-1,,,0
+4adcho[c],"4-amino-4-deoxychorismate",cpdAGORA1460,C10H10NO5,-1,,,0
+4gubut[c],"4-Guanidinobutanoate",cpdAGORA1461,C5H11N3O2,0,,,0
+4gudbd[c],"4-Guanidinobutanamide",cpdAGORA1462,C5H13N4O,1,,,0
+4h2opntn[c],"4-Hydroxy-2-oxopentanoate",cpdAGORA1463,C5H7O4,-1,,,0
+4hoxpacd[c],"(4-hydroxyphenyl)acetaldehyde",cpdAGORA1464,C8H8O2,0,C03765,HMDB03767,0
+4hoxpacd[e],"(4-hydroxyphenyl)acetaldehyde",cpdAGORA1465,C8H8O2,0,C03765,HMDB03767,0
+4hpro_D[c],"cis-4-Hydroxy-D-proline",cpdAGORA1466,C5H9NO3,0,,,0
+4hpro_LT[c],"trans-4-hydroxy-L-proline",cpdAGORA1467,C5H9NO3,0,C01157,HMDB00725,0
+4izp[c],"4-Imidazolone-5-propanoate",cpdAGORA1468,C6H7N2O3,-1,C03680,HMDB01014,0
+4mlacac[c],"4-maleylacetoacetate",cpdAGORA1469,C8H6O6,-2,C01036,HMDB02052,0
+4mtpent2eACP[c],"4-methyl-trans-pent-2-enoyl-ACP",cpdAGORA1470,C17H29N2O8PRS,-1,,,0
+4r5au[c],"4-(1-D-Ribitylamino)-5-aminouracil",cpdAGORA1471,C9H16N4O6,0,,,0
+56dthm[c],"5,6-dihydrothymine",cpdAGORA1472,C5H8N2O2,0,C00906,HMDB00079,0
+56dura[c],"5,6-dihydrouracil",cpdAGORA1473,C4H6N2O2,0,C00429,HMDB00076,0
+5aop[c],"5-Amino-4-oxopentanoate",cpdAGORA1474,C5H9NO3,0,C00430,HMDB01149,0
+5aprbu[c],"5-Amino-6-(5-phosphoribitylamino)uracil",cpdAGORA1475,C9H15N4O9P,-2,,,0
+5apru[c],"5-Amino-6-(5-phosphoribosylamino)uracil",cpdAGORA1476,C9H13N4O9P,-2,,,0
+5c2o3ed[c],"5-Carboxy-2-oxohept-3-enedioate",cpdAGORA1477,C8H5O7,-3,C04052,,0
+5cm2hmu[c],"5-Carboxymethyl-2-hydroxymuconate",cpdAGORA1478,C8H5O7,-3,,,0
+5cmhmsa[c],"5-Carboxymethyl-2-hydroxymuconate semialdehyde",cpdAGORA1479,C8H6O6,-2,C04642,,0
+5dglcn[c],"5-Dehydro-D-gluconate",cpdAGORA1480,C6H9O7,-1,,,0
+5dh4dglc[c],"5-Dehydro-4-deoxy-D-glucarate",cpdAGORA1481,C6H6O7,-2,,,0
+5drib[c],"5-deoxyribose",cpdAGORA1482,C5H10O4,0,,,0
+5htrp[c],"5-hydroxy-L-tryptophan",cpdAGORA1483,C11H12N2O3,0,C01017,HMDB00472,0
+5htrp[e],"5-hydroxy-L-tryptophan",cpdAGORA1484,C11H12N2O3,0,C01017,HMDB00472,0
+5hxkyn[c],"5-hydroxykynurenine",cpdAGORA1485,C10H12N2O4,0,C05651,HMDB12819,0
+5hxkynam[c],"5-Hydroxykynurenamine",cpdAGORA1486,C9H13N2O2,1,C05638,HMDB04076,0
+5mta[e],"5-Methylthioadenosine",cpdAGORA1487,C11H15N5O3S,0,C00170,HMDB01173,0
+5mtc[c],"5-Methylcytosine",cpdAGORA1488,C5H7N3O,0,,,0
+5odhf2a[c],"5-Oxo-4,5-dihydrofuran-2-acetate",cpdAGORA1489,C6H5O4,-1,,,0
+5oxpro[c],"5-oxoprolinate",cpdAGORA1490,C5H6NO3,-1,C01879,HMDB00267,0
+5thf[c],"pentaglutamyl folate (THF)",cpdAGORA1491,C39H45N11O18,-6,,,0
+6hmhpt[c],"6-hydroxymethyl dihydropterin",cpdAGORA1492,C7H9N5O2,0,,,0
+6hmhptpp[c],"6-hydroxymethyl-dihydropterin pyrophosphate",cpdAGORA1493,C7H8N5O8P2,-3,,,0
+6mthept2eACP[c],"6-methyl-trans-hept-2-enoyl-ACP",cpdAGORA1494,C19H33N2O8PRS,-1,,,0
+6pgc[c],"6-Phospho-D-gluconate",cpdAGORA1495,C6H10O10P,-3,C00345,HMDB01316,0
+8aonn[c],"8-Amino-7-oxononanoate",cpdAGORA1496,C9H17NO3,0,,,0
+8mtnon2eACP[c],"8-methyl-trans-non-2-enoyl-ACP",cpdAGORA1497,C21H37N2O8PRS,-1,,,0
+HC00695[c],"S-Succinyldihydrolipoamide",cpdAGORA1498,C12H20NO4S2,-1,C01169,HMDB01177,0
+HC00900[c],"Methylmalonate",cpdAGORA1499,C4H4O4,-2,C02170,HMDB00202,0
+HC00955[c],"L-3-Cyanoalanine",cpdAGORA1500,C4H5N2O2,-1,C02512,,0
+HC01376[c],"S-(2-Methylbutanoyl)-dihydrolipoamide",cpdAGORA1501,C13H25NO2S2,0,C05118,HMDB06869,0
+HC01377[c],"S-(3-Methylbutanoyl)-dihydrolipoamide",cpdAGORA1502,C13H25NO2S2,0,C05119,HMDB06867,0
+HC01435[c],"3-Carboxy-1-hydroxypropyl-ThPP",cpdAGORA1503,C16H21N4O10P2S,-3,C05381,HMDB06744,0
+HC01577[c],"gamma-Glutamyl-beta-cyanoalanine",cpdAGORA1504,C9H12N3O5,-1,C05711,,0
+HC01609[c],"UroporphyrinogenI",cpdAGORA1505,C40H36N4O16,-8,C05766,HMDB02211,0
+HC01651[c],"Formamidopyrimidine nucleoside triphosphate",cpdAGORA1506,C10H14N5O15P3,-4,,,0
+HC01652[c],"2,5-Diaminopyrimidine nucleoside triphosphate",cpdAGORA1507,C9H14N5O14P3,-4,C05923,HMDB06821,0
+HC01668[c],"Propinol adenylate",cpdAGORA1508,C13H17N5O8P,-1,C05983,,0
+HC01700[c],"gamma-Glutamyl-3-aminopropiononitrile",cpdAGORA1509,C8H13N3O3,0,C06114,,0
+HC01710[c],"2,5-Diamino-6-(5-triphosphoryl-3,4-trihydroxy-2-oxopentyl)- amino-4-oxopyrimidine",cpdAGORA1510,C9H14N5O14P3,-4,,,0
+HC02121[c],"S-(hydroxymethyl)glutathione(1-)",cpdAGORA1511,C11H18N3O7S,-1,C14180,HMDB04662,0
+Lcyst[c],"L-cysteate(1-)",cpdAGORA1512,C3H6NO5S,-1,C00506,HMDB02757,0
+Lcyst[e],"L-cysteate(1-)",cpdAGORA1513,C3H6NO5S,-1,C00506,HMDB02757,0
+Lfmkynr[c],"N-formyl-L-kynurenine",cpdAGORA1514,C11H12N2O4,0,C02700,HMDB01200,0
+Lkynr[c],"L-kynurenine",cpdAGORA1515,C10H12N2O3,0,C00328,HMDB00684,0
+Lkynr[e],"L-kynurenine",cpdAGORA1516,C10H12N2O3,0,C00328,HMDB00684,0
+M00512[c],"1-Alkenyl-2-acylglycerol",cpdAGORA1517,C6H8O4R2,0,C03454,,0
+N1aspmd[c],"N(1)-acetylspermidinium(2+)",cpdAGORA1518,C9H23N3O,2,C00612,HMDB01276,0
+Nacasp[c],"N-acetyl-L-aspartate(2-)",cpdAGORA1519,C6H7NO5,-2,C01042,HMDB00812,0
+Naccitr_L[c],"N-Acetyl-L-citrulline",cpdAGORA1520,C8H15N3O4,0,,,0
+Sfglutth[c],"S-formylglutathionate(1-)",cpdAGORA1521,C11H16N3O7S,-1,C01031,HMDB01550,0
+Ssq23epx[c],"(S)-2,3-epoxysqualene",cpdAGORA1522,C30H50O,0,C01054,HMDB01188,0
+aa[c],"Acrylamide",cpdAGORA1523,C3H5NO,0,,,0
+acaadpdp[c],"N2-Acetyl-L-aminoadipyl-delta-phosphate",cpdAGORA1524,C8H12NO8P,-2,C12987,,0
+acaadpsal[c],"N2-Acetyl-L-aminoadipate semialdehyde",cpdAGORA1525,C8H12NO4,-1,C12988,,0
+acac[e],"acetoacetate",cpdAGORA1526,C4H5O3,-1,C00164,HMDB00060,0
+acamoxm[c],"N_Acetyl_L_2_amino_6_oxopimelate",cpdAGORA1527,C9H11NO6,-2,,,0
+acg5p[c],"N-acetyl-L-gamma-glutamyl phosphate(3-)",cpdAGORA1528,C7H9NO8P,-3,C04133,HMDB06456,0
+acg5sa[c],"2-acetamido-5-oxopentanoate",cpdAGORA1529,C7H10NO4,-1,C01250,HMDB06488,0
+acmalt[c],"Acetyl-maltose",cpdAGORA1530,C14H24O12,0,,,0
+acon_C[c],"cis-Aconitate",cpdAGORA1531,C6H3O6,-3,,,0
+acon_T[c],"trans-Aconitate",cpdAGORA1532,C6H3O6,-3,,,0
+aconm[c],"E-3-carboxy-2-pentenedioate 6-methyl ester",cpdAGORA1533,C7H6O6,-2,,,0
+acryl[c],"acrylate",cpdAGORA1534,C3H3O2,-1,C00511,,0
+ad[c],"Acetamide",cpdAGORA1535,C2H5NO,0,,,0
+adcobdam[c],"Adenosyl cobyrinate diamide",cpdAGORA1536,C55H68CoN11O15,-4,C06506,,0
+adhlam[c],"S-Acetyldihydrolipoamide",cpdAGORA1537,C10H19NO2S2,0,,,0
+adphep_DD[c],"ADP-D-glycero-D-manno-heptose",cpdAGORA1538,C17H25N5O16P2,-2,,,0
+adphep_LD[c],"ADP-L-glycero-D-manno-heptose",cpdAGORA1539,C17H25N5O16P2,-2,,,0
+adprib[c],"ADPribose",cpdAGORA1540,C15H21N5O14P2,-2,C00301,HMDB01178,0
+ai15tca1[c],"Anteisopentadecanoyllipoteichoic acid (n=24), linked, unsubstituted",cpdAGORA1541,C117H228O135P24,-24,,,0
+ai15tcaacgam[c],"Anteisopentadecanoyllipoteichoic acid (n=24), linked, N-acetyl-D-glucosamine",cpdAGORA1542,C309H540N24O255P24,-24,,,0
+ai15tcaala_D[c],"Anteisopentadecanoyllipoteichoic acid (n=24), linked, D-alanine substituted",cpdAGORA1543,C189H324N24O135P24,0,,,0
+akg[e],"2-Oxoglutarate",cpdAGORA1544,C5H4O5,-2,C00026,HMDB00208,0
+ala_B[c],"beta-alanine",cpdAGORA1545,C3H7NO2,0,C00099,HMDB00056,0
+allphn[c],"Allophanate",cpdAGORA1546,C2H3N2O3,-1,C01010,,0
+alltn[c],"Allantoin",cpdAGORA1547,C4H6N4O3,0,C01551,HMDB00462,0
+alltn[e],"Allantoin",cpdAGORA1548,C4H6N4O3,0,C01551,HMDB00462,0
+alltt[c],"allantoate",cpdAGORA1549,C4H7N4O4,-1,C00499,HMDB01209,0
+alpro[c],"S-Aminomethyldihydrolipoylprotein",cpdAGORA1550,CH6NS2X,1,,,0
+amob[c],"S-Adenosyl-4-methylthio-2-oxobutanoate",cpdAGORA1551,C15H19N5O6S,0,,,0
+amopbut_L[c],"2-Amino-3-oxo-4-phosphonooxybutyrate",cpdAGORA1552,C4H6NO7P,-2,C07335,,0
+anth[c],"anthranilate",cpdAGORA1553,C7H6NO2,-1,C00108,HMDB01123,0
+ap4a[c],"P(1),P(4)-bis(5-adenosyl) tetraphosphate(4-)",cpdAGORA1554,C20H24N10O19P4,-4,C01260,HMDB01211,0
+aps[c],"5-adenylyl sulfate(2-)",cpdAGORA1555,C10H12N5O10PS,-2,C00224,HMDB01003,0
+ara5p[c],"D-Arabinose 5-phosphate",cpdAGORA1556,C5H9O8P,-2,,,0
+arab_D[c],"D-Arabinose",cpdAGORA1557,C5H10O5,0,,,0
+arab_D[e],"D-Arabinose",cpdAGORA1558,C5H10O5,0,,,0
+arbt6p[c],"Arbutin 6-phosphate",cpdAGORA1559,C12H15O10P,-2,,,0
+arbt[e],"Arbutin",cpdAGORA1560,C12H16O7,0,C06186,,0
+argsuc[c],"N(omega)-(L-Arginino)succinate",cpdAGORA1561,C10H17N4O6,-1,C03406,HMDB00052,0
+b2coa[c],"crotonoyl-CoA(4-)",cpdAGORA1562,C25H36N7O17P3S,-4,C00877,HMDB02009,0
+bamppald[c],"beta-Aminopropion aldehyde",cpdAGORA1563,C3H8NO,1,C05665,HMDB01106,0
+betald[c],"betaine aldehyde",cpdAGORA1564,C5H12NO,1,C00576,HMDB01252,0
+bhb[c],"(R)-3-hydroxybutyrate",cpdAGORA1565,C4H7O3,-1,C01089,HMDB00011,0
+bhb[e],"(R)-3-hydroxybutyrate",cpdAGORA1566,C4H7O3,-1,C01089,HMDB00011,0
+biocyt[c],"Biocytin",cpdAGORA1567,C16H28N4O4S,0,C05552,HMDB03134,0
+btamp[c],"Biotinyl-5-AMP",cpdAGORA1568,C20H27N7O9PS,-1,C05921,HMDB04220,0
+btcoa[c],"Butanoyl-CoA",cpdAGORA1569,C25H38N7O17P3S,-4,C00136,HMDB01088,0
+btnso[c],"d-biotin d-sulfoxide",cpdAGORA1570,C10H15N2O4S,-1,,,0
+but2eACP[c],"But-2-enoyl-[acyl-carrier protein]",cpdAGORA1571,C15H25N2O8PRS,-1,,,0
+but[c],"butyrate",cpdAGORA1572,C4H7O2,-1,C00246,HMDB00039,0
+but[e],"butyrate",cpdAGORA1573,C4H7O2,-1,C00246,HMDB00039,0
+butpi[c],"Butanoyl phosphate",cpdAGORA1574,C4H7O5P,-2,C02527,,0
+butso3[c],"butanesulfonate",cpdAGORA1575,C4H9O3S,-1,,,0
+butso3[e],"butanesulfonate",cpdAGORA1576,C4H9O3S,-1,,,0
+bz[c],"benzoate",cpdAGORA1577,C7H5O2,-1,C00180,HMDB01870,0
+bzam[c],"Benzamide",cpdAGORA1578,C7H7NO,0,,,0
+cala[c],"N-carbamoyl-beta-alaninate",cpdAGORA1579,C4H7N2O3,-1,C02642,HMDB00026,0
+caro[c],"beta-carotene",cpdAGORA1580,C40H56,0,C02094,HMDB00561,0
+catechol[c],"Catechol",cpdAGORA1581,C6H5O2,-1,C00090,,0
+ccmuac[c],"cis,cis-Muconate",cpdAGORA1582,C6H4O4,-2,C02480,HMDB06331,0
+cddec5eACP[c],"cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1)",cpdAGORA1583,C23H41N2O8PRS,-1,,,0
+cdec3eACP[c],"cis-dec-3-enoyl-[acyl-carrier protein] (n-C10:1)",cpdAGORA1584,C21H37N2O8PRS,-1,,,0
+cdpddg[c],"CDP-4-dehydro-6-deoxy-D-glucose",cpdAGORA1585,C15H21N3O15P2,-2,,,0
+cdpea[c],"CDP-ethanolamine(1-)",cpdAGORA1586,C11H19N4O11P2,-1,C00570,HMDB01564,0
+cdpglc[c],"CDPglucose",cpdAGORA1587,C15H23N3O16P2,-2,C00501,,0
+chol[e],"Choline",cpdAGORA1588,C5H14NO,1,C00114,HMDB00097,0
+cholate[c],"Cholate",cpdAGORA1589,C24H39O5,-1,C00695,HMDB00619,0
+cholcoa[c],"choloyl-CoA(4-)",cpdAGORA1590,C45H70N7O20P3S,-4,C01794,HMDB01374,0
+citr_L[c],"L-citrulline",cpdAGORA1591,C6H13N3O3,0,C00327,HMDB00904,0
+ckdo[c],"CMP-3-deoxy-D-manno-octulosonate",cpdAGORA1592,C17H24N3O15P,-2,,,0
+cmusa[c],"cis,cis-2-amino-3-(3-oxoprop-1-enyl)but-2-enedioate",cpdAGORA1593,C7H6NO5,-1,C04409,HMDB01330,0
+co1dam[c],"Cob(I)yrinate a,c diamide",cpdAGORA1594,C45H56CoN6O12,-5,C06505,,0
+co2dam[c],"Cob(II)yrinate a,c diamide",cpdAGORA1595,C45H56CoN6O12,-4,C06504,,0
+colipa[c],"core oligosaccharide lipid A",cpdAGORA1596,C176H303N2O100P4,-11,,,0
+copre2[c],"cobalt-precorrin 2",cpdAGORA1597,C42H38N4O16Co,-8,C11538,,0
+copre5[c],"cobalt-precorrin 5",cpdAGORA1598,C45H45N4O16Co,-7,C11541,,0
+copre5b[c],"Cobalt-precorrin-5b",cpdAGORA1599,C43H42CoN4O16,-8,,,0
+cpppg1[c],"Coproporphyrinogen I",cpdAGORA1600,C36H40N4O8,-4,C05768,HMDB02158,0
+csn[c],"cytosine",cpdAGORA1601,C4H5N3O,0,C00380,HMDB00630,0
+csn[e],"cytosine",cpdAGORA1602,C4H5N3O,0,C00380,HMDB00630,0
+cyan[c],"hydrogen cyanide",cpdAGORA1603,CHN,0,C01326,HMDB02084,0
+dad_5[c],"5-Deoxyadenosine",cpdAGORA1604,C10H13N5O3,0,C05198,,0
+dann[c],"7,8-Diaminononanoate",cpdAGORA1605,C9H21N2O2,1,,,0
+db4p[c],"3,4-dihydroxy-2-butanone 4-phosphate",cpdAGORA1606,C4H7O6P,-2,,,0
+dc2coa[c],"trans-Dec-2-enoyl-CoA",cpdAGORA1607,C31H48N7O17P3S,-4,C05275,HMDB03948,0
+dcacoa[c],"Decanoyl-CoA (n-C10:0CoA)",cpdAGORA1608,C31H50N7O17P3S,-4,C05274,HMDB06404,0
+dd2coa[c],"trans-Dodec-2-enoyl-CoA",cpdAGORA1609,C33H52N7O17P3S,-4,C03221,HMDB03712,0
+ddcacoa[c],"Dodecanoyl-CoA (n-C12:0CoA)",cpdAGORA1610,C33H54N7O17P3S,-4,C01832,HMDB03571,0
+dhbpt[c],"6,7-dihydrobiopterin",cpdAGORA1611,C9H13N5O3,0,C02953,HMDB00038,0
+dhcinnm[c],"2,3-dihydroxicinnamic acid",cpdAGORA1612,C9H7O4,-1,,,0
+dhcinnm[e],"2,3-dihydroxicinnamic acid",cpdAGORA1613,C9H7O4,-1,,,0
+dhdpacoa[c],"cis-dihydrodiol derivative of phenylacetyl-CoA",cpdAGORA1614,C29H40N7O20P3S,-4,C19945,,0
+dhea[c],"3beta-hydroxyandrost-5-en-17-one",cpdAGORA1615,C19H28O2,0,C01227,HMDB00077,0
+dheas[c],"3beta-hydroxyandrost-5-en-17-one 3-sulfate(1-)",cpdAGORA1616,C19H27O5S,-1,C04555,HMDB01032,0
+dhlpro[c],"Dihydrolipolprotein",cpdAGORA1617,H2S2X,0,,,0
+dhnacoa[c],"1,4-Dihydroxy-2-naphthoyl-CoA",cpdAGORA1618,C32H38N7O19P3S,-4,C15547,,0
+dhpppn[c],"3-(2,3-Dihydroxyphenyl)propanoate",cpdAGORA1619,C9H9O4,-1,,,0
+dhpppn[e],"3-(2,3-Dihydroxyphenyl)propanoate",cpdAGORA1620,C9H9O4,-1,,,0
+dhpt[c],"Dihydropteroate",cpdAGORA1621,C14H13N6O3,-1,,,0
+dmlz[c],"6,7-Dimethyl-8-(1-D-ribityl)lumazine",cpdAGORA1622,C13H18N4O6,0,,,0
+dmphqno[c],"Demethylphylloquinone",cpdAGORA1623,C30H44O2,0,,,0
+dopa[c],"dopaminium(1+)",cpdAGORA1624,C8H12NO2,1,C03758,HMDB00073,0
+dopa[e],"dopaminium(1+)",cpdAGORA1625,C8H12NO2,1,C03758,HMDB00073,0
+dscl[c],"dihydrosirohydrochlorin",cpdAGORA1626,C42H41N4O16,-7,,,0
+dtbt[c],"Dethiobiotin",cpdAGORA1627,C10H17N2O3,-1,,,0
+egACPm[c],"Enoylglutaryl-ACP methyl ester",cpdAGORA1628,C17H27N2O10PRS,-1,,,0
+epACPm[c],"Enoylpimeloyl-ACP methyl ester",cpdAGORA1629,C19H31N2O10PRS,-1,,,0
+ethamp[c],"O-phosphonatoethanaminium(1-)",cpdAGORA1630,C2H7NO4P,-1,C00346,HMDB00224,0
+ethso3[c],"ethanesulfonate",cpdAGORA1631,C2H5O3S,-1,,,0
+ethso3[e],"ethanesulfonate",cpdAGORA1632,C2H5O3S,-1,,,0
+fald[c],"formaldehyde",cpdAGORA1633,CH2O,0,C00067,HMDB01426,0
+forglu[c],"N-Formimidoyl-L-glutamate",cpdAGORA1634,C6H8N2O4,-2,C00439,HMDB00854,0
+frmd[c],"Formamide",cpdAGORA1635,CH3NO,0,C00488,HMDB01536,0
+fru[e],"D-Fructose",cpdAGORA1636,C6H12O6,0,C02336,HMDB00660,0
+fruur[c],"D-Fructuronate",cpdAGORA1637,C6H9O7,-1,,,0
+fum[e],"Fumarate",cpdAGORA1638,C4H2O4,-2,C00122,HMDB00134,0
+g15lac[c],"Gluconolactone",cpdAGORA1639,C6H10O6,0,,,0
+gACPm[c],"Glutaryl-ACP methyl ester",cpdAGORA1640,C17H29N2O10PRS,-1,,,0
+gagicolipa[c],"galactosyl-glucosyl-inner core oligosaccharide lipid A",cpdAGORA1641,C157H271N2O84P4,-11,,,0
+galct_D[c],"D-Galactarate",cpdAGORA1642,C6H8O8,-2,,,0
+galctn_D[c],"D-Galactonate",cpdAGORA1643,C6H11O7,-1,,,0
+galctn_D[e],"D-Galactonate",cpdAGORA1644,C6H11O7,-1,,,0
+galt1p[c],"Galactitol 1-phosphate",cpdAGORA1645,C6H13O9P,-2,,,0
+galt[e],"galactitol",cpdAGORA1646,C6H14O6,0,C01697,HMDB00107,0
+gam[e],"D-Glucosamine",cpdAGORA1647,C6H14NO5,1,C00329,HMDB01514,0
+gcald[c],"glycolaldehyde",cpdAGORA1648,C2H4O2,0,C00266,HMDB03344,0
+gcald[e],"glycolaldehyde",cpdAGORA1649,C2H4O2,0,C00266,HMDB03344,0
+gdpddman[c],"GDP-4-dehydro-6-deoxy-alpha-D-mannose(2-)",cpdAGORA1650,C16H21N5O15P2,-2,C01222,HMDB01346,0
+gdpfuc[c],"GDP-L-fucose(2-)",cpdAGORA1651,C16H23N5O15P2,-2,C00325,HMDB01095,0
+gdpmann[c],"GDP-alpha-D-mannose(2-)",cpdAGORA1652,C16H23N5O16P2,-2,C00096,HMDB01163,0
+gg4abut[c],"gamma-glutamyl-gamma aminobutyric acid",cpdAGORA1653,C9H15O5N2,-1,,,0
+ggagicolipa[c],"glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A",cpdAGORA1654,C163H281N2O89P4,-11,,,0
+ggbutal[c],"gamma-glutamyl-gamma-butyraldehyde",cpdAGORA1655,C9H16N2O4,0,,,0
+gggagicolipa[c],"glucosyl-glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A",cpdAGORA1656,C169H291N2O94P4,-11,,,0
+gicolipa[c],"glucosyl-inner core oligosaccharide lipid A",cpdAGORA1657,C151H261N2O79P4,-11,,,0
+glcn[c],"D-gluconate",cpdAGORA1658,C6H11O7,-1,C00257,HMDB00625,0
+glcn[e],"D-gluconate",cpdAGORA1659,C6H11O7,-1,C00257,HMDB00625,0
+glu1sa[c],"L-Glutamate 1-semialdehyde",cpdAGORA1660,C5H9NO3,0,,,0
+glucys[c],"gamma-L-Glutamyl-L-cysteine",cpdAGORA1661,C8H13N2O5S,-1,C00669,HMDB01049,0
+glutcoa[c],"glutaryl-CoA(5-)",cpdAGORA1662,C26H37N7O19P3S,-5,C00527,HMDB01339,0
+glyc[e],"Glycerol",cpdAGORA1663,C3H8O3,0,C00116,HMDB00131,0
+gmhep17bp[c],"D-Glycero-D-manno-heptose 1,7-bisphosphate",cpdAGORA1664,C7H12O13P2,-4,,,0
+gmhep1p[c],"D-Glycero-D-manno-heptose 1-phosphate",cpdAGORA1665,C7H13O10P,-2,,,0
+gmhep7p[c],"D-Glycero-D-manno-heptose 7-phosphate",cpdAGORA1666,C7H13O10P,-2,,,0
+gthox[c],"Oxidized glutathione",cpdAGORA1667,C20H30N6O12S2,-2,C00127,HMDB03337,0
+gthrd[e],"Reduced glutathione",cpdAGORA1668,C10H16N3O6S,-1,C00051,HMDB00125,0
+gua[e],"Guanine",cpdAGORA1669,C5H5N5O,0,C00242,HMDB00132,0
+h2[c],"Hydrogen",cpdAGORA1670,H2,0,C00282,HMDB01362,0
+h2s[e],"Hydrogen sulfide",cpdAGORA1671,H2S,0,,,0
+hLkynr[c],"3-hydroxy-L-kynurenine",cpdAGORA1672,C10H12N2O4,0,C03227,HMDB11631,0
+hdca[e],"Hexadecanoate (n-C16:0)",cpdAGORA1673,C16H31O2,-1,C00249,HMDB00220,0
+hdd2coa[c],"trans-Hexadec-2-enoyl-CoA",cpdAGORA1674,C37H60N7O17P3S,-4,C05272,HMDB03945,0
+hemeO[c],"Heme O",cpdAGORA1675,C49H56FeN4O5,-2,,,0
+hexs[c],"hexanesulfonate",cpdAGORA1676,C6H13O3S,-1,,,0
+hexs[e],"hexanesulfonate",cpdAGORA1677,C6H13O3S,-1,,,0
+hgentis[c],"homogentisate",cpdAGORA1678,C8H7O4,-1,C00544,HMDB00130,0
+hhlipa[c],"heptosyl-heptosyl-kdo2-lipidA",cpdAGORA1679,C124H220N2O51P2,-6,,,0
+hista[c],"histamium",cpdAGORA1680,C5H10N3,1,C00388,HMDB00870,0
+hista[e],"histamium",cpdAGORA1681,C5H10N3,1,C00388,HMDB00870,0
+hlipa[c],"heptosyl-kdo2-lipidA",cpdAGORA1682,C117H208N2O45P2,-6,,,0
+hmbil[c],"Hydroxymethylbilane",cpdAGORA1683,C40H38N4O17,-8,C01024,HMDB01137,0
+hmgcoa[c],"Hydroxymethylglutaryl-CoA",cpdAGORA1684,C27H39N7O20P3S,-5,C00356,HMDB01375,0
+hmgth[c],"hydroxymethylglutathione",cpdAGORA1685,C11H18N3O7S,-1,,,0
+hoacoa[c],"3-hydroxyadipyl-CoA",cpdAGORA1686,C27H40N7O20P3S,-4,C14145,,0
+hphhlipa[c],"heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA",cpdAGORA1687,C131H231N2O60P3,-8,,,0
+hpyr[c],"3-hydroxypyruvate",cpdAGORA1688,C3H3O4,-1,C00168,HMDB01352,0
+hx2coa[c],"trans-Hex-2-enoyl-CoA",cpdAGORA1689,C27H40N7O17P3S,-4,C05271,HMDB03944,0
+hxcoa[c],"Hexanoyl-CoA (n-C6:0CoA)",cpdAGORA1690,C27H42N7O17P3S,-4,,,0
+i14tca1[c],"Isotetradecanoyllipoteichoic acid (n=24), linked, unsubstituted",cpdAGORA1691,C115H224O135P24,-24,,,0
+i14tcaacgam[c],"Isotetradecanoyllipoteichoic acid (n=24), linked, N-acetyl-D-glucosamine",cpdAGORA1692,C307H536N24O255P24,-24,,,0
+i14tcaala_D[c],"Isotetradecanoyllipoteichoic acid (n=24), linked, D-alanine substituted",cpdAGORA1693,C187H320O135N24P24,0,,,0
+i15tca1[c],"Isopentadecanoyllipoteichoic acid (n=24), linked, unsubstituted",cpdAGORA1694,C117H228O135P24,-24,,,0
+i15tcaacgam[c],"Isopentadecanoyllipoteichoic acid (n=24), linked, N-acetyl-D-glucosamine",cpdAGORA1695,C309H540N24O255P24,-24,,,0
+i15tcaala_D[c],"Isopentadecanoyllipoteichoic acid (n=24), linked, D-alanine substituted",cpdAGORA1696,C189H324O135N24P24,0,,,0
+i16tca1[c],"Isohexadecanoyllipoteichoic acid (n=24), linked, unsubstituted",cpdAGORA1697,C119H232O135P24,-24,,,0
+i16tcaacgam[c],"Isohexadecanoyllipoteichoic acid (n=24), linked, N-acetyl-D-glucosamine",cpdAGORA1698,C311H544N24O255P24,-24,,,0
+i16tcaala_D[c],"Isohexadecanoyllipoteichoic acid (n=24), linked, D-alanine substituted",cpdAGORA1699,C191H328O135N24P24,0,,,0
+icolipa[c],"inner core oligosaccharide lipid A (E coli)",cpdAGORA1700,C145H251N2O74P4,-11,,,0
+idon_L[c],"L-Idonate",cpdAGORA1701,C6H11O7,-1,,,0
+ind3ac[c],"indole-3-acetate",cpdAGORA1702,C10H8NO2,-1,C00954,HMDB00197,0
+ind3ac[e],"indole-3-acetate",cpdAGORA1703,C10H8NO2,-1,C00954,HMDB00197,0
+ind3acam[c],"Indole-3-acetamide",cpdAGORA1704,C10H10N2O,0,,,0
+inost[c],"myo-inositol",cpdAGORA1705,C6H12O6,0,C00137,HMDB00211,0
+isetac[c],"Isethionic acid",cpdAGORA1706,C2H5O4S,-1,,,0
+isetac[e],"Isethionic acid",cpdAGORA1707,C2H5O4S,-1,,,0
+kdo2lipid4L[c],"KDO(2)-lipid IV(A) with laurate",cpdAGORA1708,C96H170N2O38P2,-6,,,0
+kdo2lipid4[c],"KDO(2)-lipid IV(A)",cpdAGORA1709,C84H148N2O37P2,-6,,,0
+kdo8p[c],"3-Deoxy-D-manno-octulosonate 8-phosphate",cpdAGORA1710,C8H12O11P,-3,,,0
+kdo[c],"3-Deoxy-D-manno-2-octulosonate",cpdAGORA1711,C8H13O8,-1,,,0
+kdolipid4[c],"KDO-lipid IV(A)",cpdAGORA1712,C76H137N2O30P2,-5,,,0
+kphphhlipa[c],"kdo-phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA",cpdAGORA1713,C139H241N2O70P4,-11,,,0
+lanost[c],"lanosterol",cpdAGORA1714,C30H50O,0,C01724,HMDB01251,0
+lipa[c],"KDO(2)-lipid (A)",cpdAGORA1715,C110H196N2O39P2,-6,,,0
+lipidA[c],"2,3,23-Tetrakis(beta-hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4-bisphosphate",cpdAGORA1716,C68H126N2O23P2,-4,,,0
+lipidAds[c],"Lipid A Disaccharide",cpdAGORA1717,C68H127N2O20P,-2,,,0
+lipidX[c],"2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate",cpdAGORA1718,C34H64NO12P,-2,,,0
+lpro[c],"Lipoylprotein",cpdAGORA1719,S2X,0,,,0
+mal_L[e],"(S)-malate(2-)",cpdAGORA1720,C4H4O5,-2,C00149,HMDB00156,0
+malcoam[c],"Malonyl-CoA methyl ester",cpdAGORA1721,C25H36N7O19P3S,-4,,,0
+malt6p[c],"Maltose 6-phosphate",cpdAGORA1722,C12H21O14P,-2,,,0
+man1p[c],"D-Mannose 1-phosphate",cpdAGORA1723,C6H11O9P,-2,C00636,HMDB06330,0
+man[e],"D-Mannose",cpdAGORA1724,C6H12O6,0,C00159,HMDB00169,0
+mana[c],"D-Mannonate",cpdAGORA1725,C6H11O7,-1,,,0
+melt[c],"Melilotate",cpdAGORA1726,C9H9O3,-1,,,0
+mercplac[c],"3-Mercaptolactate",cpdAGORA1727,C3H5O3S,-1,C05823,HMDB02127,0
+mercppyr[c],"3-mercaptopyruvate",cpdAGORA1728,C3H3O3S,-1,C00957,HMDB01368,0
+mi1p_D[c],"1D-myo-inositol 1-phosphate(2-)",cpdAGORA1729,C6H11O9P,-2,C01177,HMDB02985,0
+mi3p_D[c],"1D-myo-inositol 3-phosphate(2-)",cpdAGORA1730,C6H11O9P,-2,C04006,HMDB06814,0
+mi4p_D[c],"1D-myo-inositol 4-phosphate(2-)",cpdAGORA1731,C6H11O9P,-2,C03546,HMDB01313,0
+micit[c],"(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate",cpdAGORA1732,C7H7O7,-3,C04593,HMDB06471,0
+mma[c],"methylammonium",cpdAGORA1733,C1H6N,1,C00218,HMDB00164,0
+mmcoa_R[c],"(R)-methylmalonyl-CoA(5-)",cpdAGORA1734,C25H35N7O19P3S,-5,C00683,HMDB01269,0
+mmcoa_S[c],"(S)-methylmalonyl-CoA(5-)",cpdAGORA1735,C25H35N7O19P3S,-5,C00683,HMDB02310,0
+mnl1p[c],"D-Mannitol 1-phosphate",cpdAGORA1736,C6H13O9P,-2,,,0
+mnl[e],"D-Mannitol",cpdAGORA1737,C6H14O6,0,,,0
+mops[c],"3-(n-Morpholino)Propanesulfonic Acid",cpdAGORA1738,C7H14NO4S,-1,,,0
+mops[e],"3-(n-Morpholino)Propanesulfonic Acid",cpdAGORA1739,C7H14NO4S,-1,,,0
+msa[c],"3-oxopropanoate",cpdAGORA1740,C3H3O3,-1,C00222,HMDB11111,0
+mso3[c],"methanesulfonate",cpdAGORA1741,CH3O3S,-1,,,0
+mso3[e],"methanesulfonate",cpdAGORA1742,CH3O3S,-1,,,0
+mucl[c],"mucolactone",cpdAGORA1743,C6H5O4,-1,C04105,,0
+myrstca1[c],"Myristoyllipoteichoic acid (n=24), linked, unsubstituted",cpdAGORA1744,C115H224O135P24,-24,,,0
+myrstcaacgam[c],"Myristoyllipoteichoic acid (n=24), linked, N-acetyl-D-glucosamine",cpdAGORA1745,C307H536N24O255P24,-24,,,0
+myrstcaala_D[c],"Myristoyllipoteichoic acid (n=24), linked, D-alanine substituted",cpdAGORA1746,C187H320N24O135P24,0,,,0
+n2[c],"Nitrogen",cpdAGORA1747,N2,0,,,0
+n2[e],"Nitrogen",cpdAGORA1748,N2,0,,,0
+n2o[c],"Nitrous oxide",cpdAGORA1749,N2O,0,,,0
+n2o[e],"Nitrous oxide",cpdAGORA1750,N2O,0,,,0
+n8aspmd[c],"N(8)-acetylspermidinium(2+)",cpdAGORA1751,C9H23N3O,2,C01029,HMDB02189,0
+nforglu[c],"N-Formyl-L-glutamate",cpdAGORA1752,C6H7NO5,-2,,,0
+nmptrc[c],"N-methylputrescinium(2+)",cpdAGORA1753,C5H16N2,2,C02723,HMDB03661,0
+no2[c],"Nitrite",cpdAGORA1754,NO2,-1,C00088,HMDB02786,0
+no2[e],"Nitrite",cpdAGORA1755,NO2,-1,C00088,HMDB02786,0
+no3[c],"Nitrate",cpdAGORA1756,NO3,-1,,,0
+no3[e],"Nitrate",cpdAGORA1757,NO3,-1,,,0
+no[c],"Nitric oxide",cpdAGORA1758,NO,0,C00533,HMDB03378,0
+no[e],"Nitric oxide",cpdAGORA1759,NO,0,C00533,HMDB03378,0
+oazur[c],"Oxidized azurin",cpdAGORA1760,X,2,,,0
+oc2coa[c],"trans-Oct-2-enoyl-CoA",cpdAGORA1761,C29H44N7O17P3S,-4,,,0
+occoa[c],"Octanoyl-CoA (n-C8:0CoA)",cpdAGORA1762,C29H46N7O17P3S,-4,C01944,HMDB01070,0
+ocmhmxbq[c],"2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone",cpdAGORA1763,C48H71O4,-1,,,0
+octa[c],"octanoate (n-C8:0)",cpdAGORA1764,C8H15O2,-1,C06423,HMDB00482,0
+op4en[c],"2-Oxopent-4-enoate",cpdAGORA1765,C5H5O3,-1,,,0
+oxalc[c],"4-Oxalocrotonate",cpdAGORA1766,C6H4O5,-2,,,0
+oxur[c],"Oxalureate",cpdAGORA1767,C3H3N2O4,-1,,,0
+pac[c],"phenylacetate",cpdAGORA1768,C8H7O2,-1,C07086,HMDB00209,0
+pac[e],"phenylacetate",cpdAGORA1769,C8H7O2,-1,C07086,HMDB00209,0
+pacald[c],"phenylacetaldehyde",cpdAGORA1770,C8H8O,0,C00601,HMDB06236,0
+pad[c],"2-Phenylacetamide",cpdAGORA1771,C8H9NO,0,,,0
+palmtca1[c],"Palmitoyllipoteichoic acid (n=24), linked, unsubstituted",cpdAGORA1772,C119H232O135P24,-24,,,0
+palmtcaacgam[c],"Palmitoyllipoteichoic acid (n=24), linked, N-acetyl-D-glucosamine",cpdAGORA1773,C311H544N24O255P24,-24,,,0
+palmtcaala_D[c],"Palmitoyllipoteichoic acid (n=24), linked, D-alanine substituted",cpdAGORA1774,C191H328O135N24P24,0,,,0
+paps[c],"Phosphoadenosine phosphosulfate",cpdAGORA1775,C10H11N5O13P2S,-4,C00053,HMDB01134,0
+peamn[c],"2-phenylethanaminium",cpdAGORA1776,C8H12N,1,C05332,HMDB12275,0
+pg120[c],"Phosphatidylglycerol (didodecanoyl, n-C12:0)",cpdAGORA1777,C30H58O10P1,-1,,,0
+pg141[c],"Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1)",cpdAGORA1778,C34H62O10P1,-1,,,0
+pg161[c],"Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)",cpdAGORA1779,C38H70O10P1,-1,,,0
+pg181[c],"Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1)",cpdAGORA1780,C42H78O10P1,-1,,,0
+phaccoa[c],"phenylacetyl-CoA(4-)",cpdAGORA1781,C29H38N7O17P3S,-4,C00582,HMDB06503,0
+phenol[c],"Phenol",cpdAGORA1782,C6H6O,0,,,0
+phhlipa[c],"phospho-heptosyl-heptosyl-kdo2-lipidA",cpdAGORA1783,C124H219N2O54P3,-8,,,0
+phphhlipa[c],"phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA",cpdAGORA1784,C131H230N2O63P4,-10,,,0
+phyQ[c],"phylloquinone",cpdAGORA1785,C31H46O2,0,C02059,HMDB03555,0
+plasmetha[c],"Plasmenylethanolamine",cpdAGORA1786,C8H13NO7PR2,-1,C04756,,0
+pmACP[c],"Pimeloyl-ACP",cpdAGORA1787,C18H30N2O10PRS,-2,,,0
+pmACPm[c],"Pimeloyl-ACP methyl ester",cpdAGORA1788,C19H33N2O10PRS,-1,,,0
+pmcoa[c],"Pimeloyl-CoA",cpdAGORA1789,C28H41N7O19P3S,-5,,,0
+ppa[e],"propionate",cpdAGORA1790,C3H5O2,-1,C00163,HMDB00237,0
+ppaca[c],"Phosphonoacetaldehyde",cpdAGORA1791,C2H3O4P,-2,C03167,,0
+ppbng[c],"Porphobilinogen",cpdAGORA1792,C10H13N2O4,-1,C00931,HMDB00245,0
+ppi[e],"Diphosphate",cpdAGORA1793,HO7P2,-3,C00013,HMDB00250,0
+ppp9[c],"Protoporphyrin",cpdAGORA1794,C34H32N4O4,-2,C02191,HMDB00241,0
+pran[c],"N-(5-Phospho-D-ribosyl)anthranilate",cpdAGORA1795,C12H13NO9P,-3,,,0
+pre1[c],"Precorrin 1",cpdAGORA1796,C41H38N4O16,-8,C15527,,0
+pro_D[c],"D-proline",cpdAGORA1797,C5H9NO2,0,C00763,HMDB03411,0
+prodslfd[c],"Protein disulfide",cpdAGORA1798,XS2,0,,,0
+prodthl[c],"Protein dithiol",cpdAGORA1799,XS2H2,0,,,0
+ptrc[e],"Putrescine",cpdAGORA1800,C4H14N2,2,C00134,HMDB01414,0
+pydam[e],"Pyridoxamine",cpdAGORA1801,C8H13N2O2,1,C00534,HMDB01431,0
+pydxn[e],"Pyridoxine",cpdAGORA1802,C8H11NO3,0,C00314,HMDB00239,0
+razur[c],"Reduced azurin",cpdAGORA1803,X,1,,,0
+rbflvrd[c],"Reduced riboflavin",cpdAGORA1804,C17H22N4O6,0,,,0
+retinal[c],"retinal",cpdAGORA1805,C20H28O,0,C00376,HMDB01358,0
+retinol[c],"retinol",cpdAGORA1806,C20H30O,0,C00473,HMDB00305,0
+retn[c],"all-trans-retinoate",cpdAGORA1807,C20H27O2,-1,C00777,HMDB01852,0
+s[c],"Sulfur",cpdAGORA1808,S,0,,,0
+salc6p[c],"Salicin 6-phosphate",cpdAGORA1809,C13H17O10P,-2,C06188,,0
+salcn[e],"Salicin",cpdAGORA1810,C13H18O7,0,C01451,,0
+sarcs[c],"Sarcosine",cpdAGORA1811,C3H7NO2,0,C00213,HMDB00271,0
+sbt6p[c],"D-Sorbitol 6-phosphate",cpdAGORA1812,C6H13O9P,-2,,,0
+sbt_D[e],"D-glucitol",cpdAGORA1813,C6H14O6,0,C00794,HMDB00247,0
+sbzcoa[c],"O-Succinylbenzoyl-CoA",cpdAGORA1814,C32H39N7O20P3S,-5,,,0
+scl[c],"sirohydrochlorin",cpdAGORA1815,C42H39N4O16,-7,,,0
+seahcys[c],"Se-Adenosylselenohomocysteine",cpdAGORA1816,C14H20N6O5Se,0,C05692,HMDB11117,0
+selhcys[c],"Selenohomocysteine",cpdAGORA1817,C4H9NO2Se,0,C05698,HMDB04119,0
+ser_D[c],"D-serine",cpdAGORA1818,C3H7NO3,0,C00740,HMDB03406,0
+sl26da[c],"N-Succinyl-LL-2,6-diaminoheptanedioate",cpdAGORA1819,C11H16N2O7,-2,,,0
+sl2a6o[c],"N-Succinyl-2-L-amino-6-oxoheptanedioate",cpdAGORA1820,C11H12NO8,-3,,,0
+srtn[c],"serotonin(1+)",cpdAGORA1821,C10H13N2O,1,C00780,HMDB00259,0
+srtn[e],"serotonin(1+)",cpdAGORA1822,C10H13N2O,1,C00780,HMDB00259,0
+succitr_L[c],"N-succinyl-L-citrulline",cpdAGORA1823,C10H16N3O6,-1,,,0
+sucorn[c],"N2-Succinyl-L-ornithine",cpdAGORA1824,C9H15N2O5,-1,,,0
+sucsal[c],"Succinic semialdehyde",cpdAGORA1825,C4H5O3,-1,C00232,HMDB01259,0
+sulfac[c],"sulfoacetate",cpdAGORA1826,C2H2O5S,-2,,,0
+sulfac[e],"sulfoacetate",cpdAGORA1827,C2H2O5S,-2,,,0
+t3c11vaceACP[c],"trans-3-cis-11-vacceoyl-[acyl-carrier protein]",cpdAGORA1828,C29H51N2O8PRS,-1,,,0
+t3c5ddeceACP[c],"trans-3-cis-5-dodecenoyl-[acyl-carrier protein]",cpdAGORA1829,C23H39N2O8PRS,-1,,,0
+t3c7mrseACP[c],"trans-3-cis-7-myristoleoyl-[acyl-carrier protein]",cpdAGORA1830,C25H43N2O8PRS,-1,,,0
+t3c9palmeACP[c],"trans-3-cis-9-palmitoleoyl-[acyl-carrier protein]",cpdAGORA1831,C27H47N2O8PRS,-1,,,0
+tcb[c],"Tricarballylate",cpdAGORA1832,C6H5O6,-3,C19806,,0
+tcynt[c],"thiocyanate",cpdAGORA1833,CNS,-1,C01755,HMDB01453,0
+td2coa[c],"trans-Tetradec-2-enoyl-CoA",cpdAGORA1834,C35H56N7O17P3S,-4,,,0
+tddec2eACP[c],"trans-Dodec-2-enoyl-[acyl-carrier protein]",cpdAGORA1835,C23H41N2O8PRS,-1,,,0
+tdec2eACP[c],"trans-Dec-2-enoyl-[acyl-carrier protein]",cpdAGORA1836,C21H37N2O8PRS,-1,,,0
+tet[e],"Tetrathionate",cpdAGORA1837,O6S4,-2,,,0
+thbpt4acam[c],"4a-hydroxytetrahydrobiopterin",cpdAGORA1838,C9H15N5O4,0,C15522,HMDB02281,0
+thex2eACP[c],"trans-Hex-2-enoyl-[acyl-carrier protein]",cpdAGORA1839,C17H29N2O8PRS,-1,,,0
+thfglu[c],"Tetrahydrofolyl-[Glu](2)",cpdAGORA1840,C24H27N8O9,-3,,,0
+thym[c],"Thymine",cpdAGORA1841,C5H6N2O2,0,C00178,HMDB00262,0
+tmrs2eACP[c],"trans-Tetradec-2-enoyl-[acyl-carrier protein]",cpdAGORA1842,C25H45N2O8PRS,-1,,,0
+toct2eACP[c],"trans-Oct-2-enoyl-[acyl-carrier protein]",cpdAGORA1843,C19H33N2O8PRS,-1,,,0
+toctd2eACP[c],"trans-octadec-2-enoyl-[acyl-carrier protein]",cpdAGORA1844,C29H53N2O8PRS,-1,,,0
+tpalm2eACP[c],"trans-Hexadec-2-enoyl-[acyl-carrier protein]",cpdAGORA1845,C27H49N2O8PRS,-1,,,0
+tre6p[c],"alpha,alpha-Trehalose 6-phosphate",cpdAGORA1846,C12H21O14P,-2,,,0
+trypta[c],"tryptaminium",cpdAGORA1847,C10H13N2,1,C00398,HMDB00303,0
+trypta[e],"tryptaminium",cpdAGORA1848,C10H13N2,1,C00398,HMDB00303,0
+tsul[e],"thiosulfate(2-)",cpdAGORA1849,O3S2,-2,C05529,HMDB00257,0
+ttdca[e],"tetradecanoate (n-C14:0)",cpdAGORA1850,C14H27O2,-1,C06424,HMDB00806,0
+tym[c],"tyraminium",cpdAGORA1851,C8H12NO,1,C00483,HMDB00306,0
+tym[e],"tyraminium",cpdAGORA1852,C8H12NO,1,C00483,HMDB00306,0
+u23ga[c],"UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine",cpdAGORA1853,C43H75N3O20P2,-2,,,0
+u3aga[c],"UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine",cpdAGORA1854,C31H51N3O19P2,-2,,,0
+u3hga[c],"UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine",cpdAGORA1855,C29H50N3O18P2,-1,,,0
+uaaAgla[c],"Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine",cpdAGORA1856,C94H153N8O26P2,-3,,,0
+uaaAgtla[c],"Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutaminyl-L-lysyl-D-alanyl-D-alanine",cpdAGORA1857,C94H155N9O25P2,-2,,,0
+uaaGgtla[c],"Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-isoglutaminyl-L-lysyl-D-alanyl-D-alanine",cpdAGORA1858,C94H155N9O25P2,-2,,,0
+uaagtmda[c],"Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutaminyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine",cpdAGORA1859,C95H154N9O27P2,-3,,,0
+udpglcur[c],"UDP-D-glucuronate",cpdAGORA1860,C15H19N2O18P2,-3,C00167,HMDB00935,0
+uppg3[c],"Uroporphyrinogen III",cpdAGORA1861,C40H36N4O16,-8,C01051,HMDB01086,0
+ura[e],"uracil",cpdAGORA1862,C4H4N2O2,0,C00106,HMDB00300,0
+urcan[c],"Urocanate",cpdAGORA1863,C6H5N2O2,-1,C00785,HMDB00301,0
+urdgly[c],"Ureidoglycine",cpdAGORA1864,C3H7N3O3,0,C02091,,0
+urdglyc[c],"(-)-Ureidoglycolate",cpdAGORA1865,C3H5N2O4,-1,,,0
+urea[c],"Urea",cpdAGORA1866,CH4N2O,0,C00086,HMDB00294,0
+xol7ah2al[c],"3alpha,7alpha-dihydroxy-5beta-cholestan-26-al",cpdAGORA1867,C27H46O3,0,C05445,HMDB06894,0
+xol7ah3[c],"5beta-cholestane-3alpha,7alpha,26-triol",cpdAGORA1868,C27H48O3,0,C05444,HMDB12455,0
+xu1p_D[c],"D-Xylulose 1-phosphate",cpdAGORA1869,C5H9O8P,-2,,HMDB06534,0
+xylt_D[c],"D-Xylonate",cpdAGORA1870,C5H9O6,-1,,,0
+12npthldl[c],"1,2-Naphthalenediol",cpdAGORA1871,C10H8O2,0,,,0
+1h2npt[c],"1-Hydroxy-2-naphthoate",cpdAGORA1872,C11H7O3,-1,,,0
+2kmb[c],"2-keto-4-methylthiobutyrate",cpdAGORA1873,C5H7O3S,-1,C01180,HMDB01553,0
+3hcddec5eACP[c],"(R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein]",cpdAGORA1874,C23H41N2O9PRS,-1,,,0
+3hcmrs7eACP[c],"(R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein]",cpdAGORA1875,C25H45N2O9PRS,-1,,,0
+3hcpalm9eACP[c],"(R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein]",cpdAGORA1876,C27H49N2O9PRS,-1,,,0
+3hcvac11eACP[c],"(R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein]",cpdAGORA1877,C29H53N2O9PRS,-1,,,0
+3mcat[c],"3-Methylcatechol",cpdAGORA1878,C7H8O2,0,,,0
+3msaclt[c],"3-Methylsalicylate",cpdAGORA1879,C8H7O3,-1,,,0
+4hmcachl[c],"4-Hydroxymethylcatechol",cpdAGORA1880,C7H8O3,0,,,0
+4hmsaclt[c],"4-Hydroxymethylsalicylate",cpdAGORA1881,C8H7O4,-1,,,0
+4mcat[c],"4-Methylcatechol",cpdAGORA1882,C7H8O2,0,,,0
+altrn[c],"D-Altronate",cpdAGORA1883,C6H11O7,-1,,,0
+cbmt[c],"Carbamate",cpdAGORA1884,CH2NO2,-1,,,0
+cynt[c],"Cyanate",cpdAGORA1885,CNO,-1,C01417,HMDB02078,0
+dhmtp[c],"dhmtp[c]",cpdAGORA1886,C6H9O3S,-1,C15606,HMDB12134,0
+hxal[c],"hexanal",cpdAGORA1887,C6H12O,0,,,0
+imogly[c],"Iminoglycine",cpdAGORA1888,C2H3NO2,0,C15809,,0
+malylcoa[c],"Malyl-CoA (iSO783)",cpdAGORA1889,C25H36N7O20P3S,-4,,HMDB01021,0
+mcrea[c],"m-Cresotic acid",cpdAGORA1890,C8H7O3,-1,,,0
+mev_R[c],"(R)-mevalonate",cpdAGORA1891,C6H11O4,-1,C00418,HMDB00227,0
+tmao[e],"Trimethylamine N-oxide",cpdAGORA1892,C3H9NO,0,,,0
+xan[e],"Xanthine",cpdAGORA1893,C5H4N4O2,0,C00385,HMDB00292,0
+15dap[e],"1,5-Diaminopentane",cpdAGORA1894,C5H16N2,2,,,0
+23dpg[c],"2,3-bisphosphonato-D-glycerate(5-)",cpdAGORA1895,C3H3O10P2,-5,C01159,HMDB01294,0
+26dap_M[e],"meso-2,6-Diaminoheptanedioate",cpdAGORA1896,C7H14N2O4,0,,,0
+2dmmq8[e],"2-Demethylmenaquinone 8",cpdAGORA1897,C50H70O2,0,,,0
+2hydog[c],"2-hydroxyglutarate",cpdAGORA1898,C5H6O5,-2,,,0
+2hydogcoa[c],"2-hydroxyglutaryl-CoA",cpdAGORA1899,C26H38N7O20P3S,-4,C03058,,0
+2obut[e],"2-Oxobutanoate",cpdAGORA1900,C4H5O3,-1,C00109,HMDB00005,0
+4hbutcoa[c],"4-Hydroxybutyryl-CoA",cpdAGORA1901,C25H38N7O18P3S,-4,C11062,,0
+4hdxbutn[c],"4-Hydroxybutanoate",cpdAGORA1902,C4H7O3,-1,C00989,HMDB00710,0
+M01966[c],"Alpha-D-Glucose 1,6-bisphosphate",cpdAGORA1903,C6H11O12P2,-3,C01231,,0
+ade[e],"Adenine",cpdAGORA1904,C5H5N5,0,C00147,HMDB00034,0
+cro4[c],"chromate",cpdAGORA1905,CrO4,-2,,,0
+cro4[e],"chromate",cpdAGORA1906,CrO4,-2,,,0
+cytd[e],"Cytidine",cpdAGORA1907,C9H13N3O5,0,C00475,HMDB00089,0
+dad_2[e],"2-deoxyadenosine",cpdAGORA1908,C10H13N5O3,0,C00559,HMDB00101,0
+dcyt[e],"Deoxycytidine",cpdAGORA1909,C9H13N3O4,0,C00881,HMDB00014,0
+dgsn[e],"Deoxyguanosine",cpdAGORA1910,C10H13N5O4,0,C00330,HMDB00085,0
+fuc1p_L[c],"L-Fucose 1-phosphate",cpdAGORA1911,C6H11O8P,-2,C02985,HMDB01265,0
+glcr[c],"D-glucarate(2-)",cpdAGORA1912,C6H8O8,-2,C00818,HMDB00663,0
+glutaccoa[c],"Glutaconoyl-CoA",cpdAGORA1913,C26H36N7O19P3S,-4,C02411,,0
+glutar[c],"Glutarate",cpdAGORA1914,C5H6O4,-2,C00489,HMDB00661,0
+glutar[e],"Glutarate",cpdAGORA1915,C5H6O4,-2,C00489,HMDB00661,0
+gtspmd[c],"Glutathionylspermidine",cpdAGORA1916,C17H36N6O5S,2,,,0
+h2[e],"Hydrogen",cpdAGORA1917,H2,0,C00282,HMDB01362,0
+ins[e],"Inosine",cpdAGORA1918,C10H12N4O5,0,C00294,HMDB00195,0
+mmet[c],"S-Methyl-L-methionine",cpdAGORA1919,C6H14NO2S,1,,,0
+mqn8[e],"Menaquinone 8",cpdAGORA1920,C51H72O2,0,C00828,,0
+q8[e],"Ubiquinone-8",cpdAGORA1921,C49H74O4,0,,,0
+teich_45_BS[c],"teichuronic acid (GlcA + GalNac, 45 repeating unit)",cpdAGORA1922,X,0,,,0
+uri[e],"Uridine",cpdAGORA1923,C9H12N2O6,0,C00299,HMDB00296,0
+3btcoa[c],"3-Butenoyl-CoA",cpdAGORA1924,C25H36N7O17P3S,-4,,,0
+Cit_Mg[c],"Citrate-Mg",cpdAGORA1925,C6H5O7Mg,-1,,,0
+Cit_Mg[e],"Citrate-Mg",cpdAGORA1926,C6H5O7Mg,-1,,,0
+acmam[c],"N-Acetyl-D-muramoate",cpdAGORA1927,C11H18NO8,-1,,,0
+acmama[c],"N-Acetyl-D-muramoyl-L-alanine",cpdAGORA1928,C14H23N2O9,-1,,,0
+ctbt[c],"crotonobetaine",cpdAGORA1929,C7H13NO2,0,,,0
+ctbt[e],"crotonobetaine",cpdAGORA1930,C7H13NO2,0,,,0
+ddca[e],"laurate",cpdAGORA1931,C12H23O2,-1,C02679,HMDB00638,0
+gbbtn[c],"gamma-butyrobetaine",cpdAGORA1932,C7H15NO2,0,,,0
+gbbtn[e],"gamma-butyrobetaine",cpdAGORA1933,C7H15NO2,0,,,0
+nmn[e],"NMN",cpdAGORA1934,C11H14N2O8P,-1,C00455,HMDB00229,0
+1pipdn2c[c],"1-piperideine-2-carboxylate",cpdAGORA1935,C6H9NO2,0,C04092,HMDB01084,0
+5hxudidzcba[c],"5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate",cpdAGORA1936,C5H5N4O5,-1,,,0
+6a2ohxnt[c],"6-amino-2-oxohexanoic acid",cpdAGORA1937,C6H11NO3,0,C03239,HMDB12151,0
+C11821[c],"5-Hydroxyisourate",cpdAGORA1938,C5H4N4O4,0,C11821,,0
+L2aadp6sa[c],"L-allysine",cpdAGORA1939,C6H11NO3,0,C04076,HMDB01263,0
+alltn_R[c],"(R)-Allantoin",cpdAGORA1940,C4H6N4O3,0,,,0
+dpcoa[e],"Dephospho-CoA",cpdAGORA1941,C21H33N7O13P2S,-2,C00882,HMDB01373,0
+dtmp[e],"dTMP",cpdAGORA1942,C10H13N2O8P,-2,C00364,HMDB01227,0
+thp2c[c],"1-piperideine-6-carboxylate",cpdAGORA1943,C6H8NO2,-1,,HMDB12130,0
+urea[e],"Urea",cpdAGORA1944,CH4N2O,0,C00086,HMDB00294,0
+12dgr180[e],"1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)",cpdAGORA1945,C39H76O5,0,,,0
+1p2cbxl[c],"1-pyrroline-2-carboxylate",cpdAGORA1946,C5H6NO2,-1,C03564,HMDB06875,0
+23dhb[c],"2,3-Dihydroxybenzoate",cpdAGORA1947,C7H5O4,-1,,,0
+34dhb[c],"Protocatechuate",cpdAGORA1948,C7H5O4,-1,,,0
+36dahx[c],"(3S)-3,6-Diaminohexanoate",cpdAGORA1949,C6H15N2O2,1,C01142,,0
+3cmuc[c],"3-Carboxy-cis,cis-muconate",cpdAGORA1950,C7H3O6,-3,,,0
+3padsel[c],"3-Phosphoadenylylselenate",cpdAGORA1951,C10H11N5O13P2Se,-4,C05696,HMDB11104,0
+4hphac[c],"4-hydroxyphenylacetate",cpdAGORA1952,C8H7O3,-1,C00642,HMDB00020,0
+4hphac[e],"4-hydroxyphenylacetate",cpdAGORA1953,C8H7O3,-1,C00642,HMDB00020,0
+HC00319[c],"Malonate",cpdAGORA1954,C3H2O4,-2,C00383,HMDB00691,0
+HC00319[e],"Malonate",cpdAGORA1955,C3H2O4,-2,C00383,HMDB00691,0
+HC02098[c],"3-Hydroxystearoyl-ACP",cpdAGORA1956,C18H35O2SR,0,C16220,,0
+HC02099[c],"(2E)-Octadecenoyl-ACP",cpdAGORA1957,C18H33OSR,0,C16221,,0
+adn[e],"Adenosine",cpdAGORA1958,C10H13N5O4,0,C00212,HMDB00050,0
+adsel[c],"Adenylylselenate",cpdAGORA1959,C10H12N5O10PSe,-2,C05686,HMDB04112,0
+ai15tcaglc[c],"Anteisopentadecanoyllipoteichoic acid (n=24), linked, glucose substituted",cpdAGORA1960,C261H468O255P24,-24,,,0
+ala_D[e],"D-alanine",cpdAGORA1961,C3H7NO2,0,C00133,HMDB01310,0
+arabt_L[c],"L-Arabinonate",cpdAGORA1962,C5H9O6,-1,,,0
+bz12diol[c],"cis-1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate",cpdAGORA1963,C7H7O4,-1,C06321,,0
+chor[e],"chorismate",cpdAGORA1964,C10H8O6,-2,,,0
+cynt[e],"Cyanate",cpdAGORA1965,CNO,-1,C01417,HMDB02078,0
+cysam[c],"cysteaminium",cpdAGORA1966,C2H8NS,1,C01678,HMDB02991,0
+etha[e],"etha[c]",cpdAGORA1967,C2H8NO,1,C00189,HMDB00149,0
+fecrm[c],"Ferrichrome",cpdAGORA1968,C27H42FeN9O12,0,,,0
+fecrm[e],"Ferrichrome",cpdAGORA1969,C27H42FeN9O12,0,,,0
+galct_D[e],"D-Galactarate",cpdAGORA1970,C6H8O8,-2,,,0
+glcr[e],"D-glucarate(2-)",cpdAGORA1971,C6H8O8,-2,C00818,HMDB00663,0
+glyclt[e],"glycolate",cpdAGORA1972,C2H3O3,-1,C00160,HMDB00115,0
+hacon_C[c],"cis-Homoaconitate (iAF692)",cpdAGORA1973,C7H5O6,-3,,,0
+hcit[c],"Homocitrate",cpdAGORA1974,C7H7O7,-3,C01251,HMDB03518,0
+hphaccoa[c],"4-Hydroxyphenylacetyl-CoA",cpdAGORA1975,C29H38N7O18P3S,-4,,,0
+i14tcaglc[c],"Isotetradecanoyllipoteichoic acid (n=24), linked, glucose substituted",cpdAGORA1976,C259H464O255P24,-24,,,0
+i15tcaglc[c],"Isopentadecanoyllipoteichoic acid (n=24), linked, glucose substituted",cpdAGORA1977,C261H468O255P24,-24,,,0
+i16tcaglc[c],"Isohexadecanoyllipoteichoic acid (n=24), linked, glucose substituted",cpdAGORA1978,C263H472O255P24,-24,,,0
+myrstcaglc[c],"Myristoyllipoteichoic acid (n=24), linked, glucose substituted",cpdAGORA1979,C259H464O255P24,-24,,,0
+ncam[e],"Nicotinamide",cpdAGORA1980,C6H6N2O,0,C00153,HMDB01406,0
+np2msucccoa[c],"Naphthyl-2-methyl-succinyl-CoA",cpdAGORA1981,C36H43N7O19P3S,-5,C14116,,0
+ocdcea[e],"octadecenoate (n-C18:1)",cpdAGORA1982,C18H33O2,-1,C00712,HMDB00207,0
+palmtcaglc[c],"Palmitoyllipoteichoic acid (n=24), linked, glucose substituted",cpdAGORA1983,C263H472O255P24,-24,,,0
+phpyr[e],"keto-phenylpyruvate",cpdAGORA1984,C9H7O3,-1,C00166,HMDB00205,0
+pqq[c],"Pyrroloquinoline-quinone",cpdAGORA1985,C14H3N2O8,-3,,,0
+pqqh2[c],"Reduced pyrroloquinoline-quinone",cpdAGORA1986,C14H5N2O8,-3,,,0
+ptth[c],"pantetheine",cpdAGORA1987,C11H22N2O4S,0,C00831,HMDB03426,0
+quint[c],"Quinate",cpdAGORA1988,C7H11O6,-1,,,0
+ser_D[e],"D-serine",cpdAGORA1989,C3H7NO3,0,C00740,HMDB03406,0
+sucarg[c],"N2-Succinyl-L-arginine",cpdAGORA1990,C10H17N4O5,-1,,,0
+sucglu[c],"N2-Succinyl-L-glutamate",cpdAGORA1991,C9H10NO7,-3,,,0
+sucgsa[c],"N2-Succinyl-L-glutamate 5-semialdehyde",cpdAGORA1992,C9H11NO6,-2,,,0
+thbpt[c],"5,6,7,8-tetrahydrobiopterin",cpdAGORA1993,C9H15N5O3,0,C00272,HMDB00027,0
+urate[c],"Urate",cpdAGORA1994,C5H4N4O3,0,C00366,HMDB00289,0
+2shchc[c],"2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate",cpdAGORA1995,C11H10O6,-2,,,0
+citmal[c],"(S)-Citramalate",cpdAGORA1996,C5H6O5,-2,C02614,,0
+id3acald[c],"indol-3-ylacetaldehyde",cpdAGORA1997,C10H9NO,0,C00637,HMDB01190,0
+lald_D[c],"(R)-lactaldehyde",cpdAGORA1998,C3H6O2,0,C00937,HMDB06458,0
+sucbz[c],"o-Succinylbenzoate",cpdAGORA1999,C11H8O5,-2,,,0
+arach[c],"arachidate",cpdAGORA2000,C20H39O2,-1,C06425,HMDB02212,0
+arachcoa[c],"arachidyl coenzyme A",cpdAGORA2001,C41H70N7O17P3S,-4,C02041,HMDB04258,0
+atnodp[c],"all-trans-Nonaprenyl diphosphate; solanesyl diphosphate",cpdAGORA2002,C45H73O7P2,-3,C04145,,0
+25dkglcn[c],"2,5-diketo-D-gluconate",cpdAGORA2003,C6H7O7,-1,,,0
+2dhguln[c],"2-Dehydro-L-gulonate",cpdAGORA2004,C6H9O7,-1,,,0
+oxa[e],"oxalate(2-)",cpdAGORA2005,C2O4,-2,C00209,HMDB02329,0
+7dhcdchol[e],"7-Dehydrochenodeoxycholate",cpdAGORA2006,C24H37O4,-1,,,0
+7ocholate[c],"3alpha,12alpha-Dihydroxy-7-oxo-5beta-cholanate",cpdAGORA2007,C24H37O5,-1,C04643,,0
+7ocholate[e],"3alpha,12alpha-Dihydroxy-7-oxo-5beta-cholanate",cpdAGORA2008,C24H37O5,-1,C04643,,0
+C02528[e],"chenodeoxycholate",cpdAGORA2009,C24H39O4,-1,C02528,HMDB00518,0
+cechddd[c],"cis-3-(3-carboxyethyl)-3,5-cyclohexadiene-1,2-diol",cpdAGORA2010,C9H11O4,-1,,,0
+cenchddd[c],"cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol",cpdAGORA2011,C9H9O4,-1,,,0
+cholate[e],"Cholate",cpdAGORA2012,C24H39O5,-1,C00695,HMDB00619,0
+cinnm[c],"trans-Cinnamate",cpdAGORA2013,C9H7O2,-1,,,0
+cobya[c],"Cobyrinate",cpdAGORA2014,C45H52N4O14Co,-6,C05773,,0
+copre8[c],"cobalt-precorrin 8",cpdAGORA2015,C45H52N4O14Co,-6,C11545,,0
+hgbyr[c],"Hydrogenobyrinate",cpdAGORA2016,C45H54N4O14,-6,C06399,,0
+hkndd[c],"2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate",cpdAGORA2017,C9H8O6,-2,,,0
+hkntd[c],"2-hydroxy-6-ketononatrienedioate",cpdAGORA2018,C9H6O6,-2,,,0
+pppn[c],"Phenylpropanoate",cpdAGORA2019,C9H9O2,-1,,,0
+pre8[c],"Precorrin 8",cpdAGORA2020,C45H53N4O14,-7,C06408,,0
+12ethd[c],"1,2-Ethanediol",cpdAGORA2021,C2H6O2,0,C01380,,0
+12ppd_R[c],"(R)-propane-1,2-diol",cpdAGORA2022,C3H8O2,0,C00583,HMDB01881,0
+23doguln[c],"(4R,5S)-4,5,6-trihydroxy-2,3-dioxohexanoate",cpdAGORA2023,C6H7O7,-1,C04575,HMDB05971,0
+2s5epchc[c],"2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate",cpdAGORA2024,C14H13O9,-3,C16519,,0
+3dhguln[c],"3-dehydro-L-gulonate",cpdAGORA2025,C6H9O7,-1,C00618,HMDB06334,0
+3dhgulnp[c],"3-keto-L-gulonate-6-phosphate",cpdAGORA2026,C6H8O10P,-3,,,0
+4hbz[e],"4-hydroxybenzoate",cpdAGORA2027,C7H5O3,-1,C00156,HMDB00500,0
+5pmev[c],"(R)-5-phosphonatomevalonate(3-)",cpdAGORA2028,C6H10O7P,-3,C01107,HMDB01343,0
+6pgl[c],"6-phospho-D-glucono-1,5-lactone",cpdAGORA2029,C6H9O9P,-2,C01236,HMDB01127,0
+HC01231[c],"N-[(R)-pantothenoyl]-L-cysteinate",cpdAGORA2030,C12H21N2O6S,-1,C04079,HMDB06834,0
+ascb6p[c],"L-ascorbate-6-phosphate",cpdAGORA2031,C6H7O9P,-2,,,0
+dhpmp[c],"Dihydroneopterin monophosphate",cpdAGORA2032,C9H12N5O7P,-2,,,0
+dms[c],"Dimethyl sulfide",cpdAGORA2033,C2H6S,0,,,0
+dms[e],"Dimethyl sulfide",cpdAGORA2034,C2H6S,0,,,0
+dmso[c],"Dimethyl sulfoxide",cpdAGORA2035,C2H6OS,0,,,0
+dmso[e],"Dimethyl sulfoxide",cpdAGORA2036,C2H6OS,0,,,0
+galur[c],"D-Galacturonate",cpdAGORA2037,C6H9O7,-1,,,0
+glcur[c],"D-glucuronate",cpdAGORA2038,C6H9O7,-1,C00191,HMDB00127,0
+man[c],"D-Mannose",cpdAGORA2039,C6H12O6,0,C00159,HMDB00169,0
+pppn[e],"Phenylpropanoate",cpdAGORA2040,C9H9O2,-1,,,0
+rb15bp[c],"D-Ribulose 1,5-bisphosphate",cpdAGORA2041,C5H8O11P2,-4,,,0
+tagur[c],"D-Tagaturonate",cpdAGORA2042,C6H9O7,-1,,,0
+tmao[c],"Trimethylamine N-oxide",cpdAGORA2043,C3H9NO,0,,,0
+2mmal[c],"(R)-2-Methylmalate",cpdAGORA2044,C5H6O5,-2,,,0
+CE5656[c],"lipoyl-AMP(1-)",cpdAGORA2045,C18H25N5O8PS2,-1,C16238,,0
+crn[c],"L-Carnitine",cpdAGORA2046,C7H15NO3,0,C15025,HMDB00062,0
+crncoa[c],"L-Carnitinyl-CoA",cpdAGORA2047,C28H46N8O18P3S,-3,,,0
+ctbtcoa[c],"crotonobetainyl-CoA",cpdAGORA2048,C28H44N8O17P3S,-3,,,0
+inost[e],"myo-inositol",cpdAGORA2049,C6H12O6,0,C00137,HMDB00211,0
+lipoate[c],"lipoate",cpdAGORA2050,C8H14O2S2,0,C16241,HMDB01451,0
+phyldpp[c],"Phytyl diphosphate",cpdAGORA2051,C20H39O7P2,-3,,,0
+12ppd_S[e],"(S)-propane-1,2-diol",cpdAGORA2052,C3H8O2,0,C02917,HMDB06213,0
+2ins[c],"2-Inosose",cpdAGORA2053,C6H10O6,0,,,0
+5dgclur[c],"5-Deoxy glucuronic acid",cpdAGORA2054,C6H9O6,-1,,,0
+Tyr_ggn[e],"Tyr-194 of apo-glycogenin protein (primer for glycogen synthesis)",cpdAGORA2055,XOH,0,,,0
+d5kg[c],"2-deoxy-5-keto-D-gluconic acid",cpdAGORA2056,C6H9O6,-1,C06892,,0
+d5kgp[c],"6-phosphonato-5-dehydro-2-deoxy-D-gluconate(3-)",cpdAGORA2057,C6H8O9P,-3,C06893,,0
+dkdi[c],"D-2,3-Diketo 4-deoxy-epi-inositol",cpdAGORA2058,C6H8O5,0,,,0
+gd1b_hs[c],"GD1b",cpdAGORA2059,C66H111N4O38FULLRCO,-2,,,0
+glygn2[e],"glycogen, structure 2 (glycogenin-1,6-{7[1,4-Glc], 4[1,4-Glc]})",cpdAGORA2060,C66H111O56X,0,,,0
+glygn4[e],"glycogen, structure 4 (glycogenin-1,6-{2[1,4-Glc], [1,4-Glc]})",cpdAGORA2061,C18H31O16X,0,,,0
+glygn5[e],"glycogen, structure 5 (glycogenin-2[1,4-Glc])",cpdAGORA2062,C12H21O11X,0,,,0
+gt1b_hs[c],"GT1b",cpdAGORA2063,C77H127N5O46FULLRCO,-3,,,0
+gthox[e],"Oxidized glutathione",cpdAGORA2064,C20H30N6O12S2,-2,C00127,HMDB03337,0
+mnl[c],"D-Mannitol",cpdAGORA2065,C6H14O6,0,,,0
+rmn[c],"L-Rhamnose",cpdAGORA2066,C6H12O5,0,,,0
+rmn[e],"L-Rhamnose",cpdAGORA2067,C6H12O5,0,,,0
+strch1[e],"starch, structure 1 (1,6-{7[1,4-Glc], 4[1,4-Glc]})",cpdAGORA2068,C66H112O56,0,,,0
+strch2[e],"starch, structure 2 (1,6-{2[1,4-Glc], [1,4-Glc]})",cpdAGORA2069,C18H32O16,0,,,0
+chtbs[e],"N,N-diacetylchitobiose",cpdAGORA2070,C16H28N2O11,0,,,0
+2hymeph[c],"2-(Hydroxymethyl)phenol",cpdAGORA2071,C7H8O2,0,C06191,,0
+5dpmev[c],"(R)-5-Diphosphomevalonate",cpdAGORA2072,C6H10O10P2,-4,C01143,HMDB01090,0
+6pgg[c],"6-Phospho-beta-D-glucosyl-(1,4)-D-glucose",cpdAGORA2073,C12H21O14P,-2,C04534,,0
+cholp[c],"choline phosphate(1-)",cpdAGORA2074,C5H13NO4P,-1,C00588,HMDB01565,0
+hqn[c],"Hydroquinone",cpdAGORA2075,C6H6O2,0,,,0
+raffin[e],"Raffinose",cpdAGORA2076,C18H32O16,0,,,0
+arabttr[e],"Arabinotriose",cpdAGORA2077,C15H26O13,0,,,0
+dgal6p[c],"6-Phospho-D-galactose",cpdAGORA2078,C6H11O9P,-2,,,0
+ni2[c],"nickel",cpdAGORA2079,Ni,2,,,0
+ni2[e],"nickel",cpdAGORA2080,Ni,2,,,0
+xylt[c],"xylitol",cpdAGORA2081,C5H12O5,0,C00379,HMDB02917,0
+dma[c],"Dimethylamine",cpdAGORA2082,C2H8N,1,,,0
+dmlarg[c],"NG,NG-Dimethyl-L-arginine",cpdAGORA2083,C8H19N4O2,1,,,0
+chols[e],"Choline sulfate",cpdAGORA2084,C5H13NO4S,0,,,0
+crn[e],"L-Carnitine",cpdAGORA2085,C7H15NO3,0,C15025,HMDB00062,0
+diact[c],"Diacetyl",cpdAGORA2086,C4H6O2,0,,,0
+diact[e],"Diacetyl",cpdAGORA2087,C4H6O2,0,,,0
+lac6p[c],"Lactose 6-phosphate",cpdAGORA2088,C12H21O14P,-2,C05396,HMDB06789,0
+pslac[c],"(2R)-O-phospho-3-sulfolactic acid",cpdAGORA2089,C3H3O9PS,-4,C11536,,0
+adcobhex[c],"adenosyl-cobyric acid",cpdAGORA2090,C55H76CoN15O11,0,C06507,,0
+appl[c],"1-Aminopropan-2-ol",cpdAGORA2091,C3H10NO,1,C05771,,0
+applp[c],"D-1-Aminopropan-2-ol O-phosphate",cpdAGORA2092,C3H9NO4P,-1,C04122,,0
+cellb[e],"cellobiose",cpdAGORA2093,C12H22O11,0,,,0
+din[e],"Deoxyinosine",cpdAGORA2094,C10H12N4O4,0,C05512,HMDB00071,0
+duri[e],"Deoxyuridine",cpdAGORA2095,C9H12N2O5,0,C00526,HMDB00012,0
+gam[c],"D-Glucosamine",cpdAGORA2096,C6H14NO5,1,C00329,HMDB01514,0
+indole[e],"Indole",cpdAGORA2097,C8H7N,0,,,0
+actn_R[e],"(R)-Acetoin",cpdAGORA2098,C4H8O2,0,,,0
+fuc1p_L[e],"L-Fucose 1-phosphate",cpdAGORA2099,C6H11O8P,-2,C02985,HMDB01265,0
+g6p[e],"D-Glucose 6-phosphate",cpdAGORA2100,C6H11O9P,-2,C00092,HMDB01401,0
+man6p[e],"D-Mannose 6-phosphate",cpdAGORA2101,C6H11O9P,-2,C00275,HMDB01078,0
+pser_D[c],"D-O-Phosphoserine",cpdAGORA2102,C3H6NO6P,-2,C02532,,0
+melib[e],"Melibiose",cpdAGORA2103,C12H22O11,0,,,0
+2acamsucc[c],"2-(Acetamidomethylene)succinate",cpdAGORA2104,C7H7NO5,-2,C01215,,0
+3hphac[c],"3-Hydroxyphenylacetate",cpdAGORA2105,C8H7O3,-1,,,0
+3hphac[e],"3-Hydroxyphenylacetate",cpdAGORA2106,C8H7O3,-1,,,0
+4hbald[c],"4-Hydroxybenzaldehyde (iJN746)",cpdAGORA2107,C7H6O2,0,,HMDB11718,0
+amp[e],"AMP",cpdAGORA2108,C10H12N5O7P,-2,C00020,HMDB00045,0
+hgbam[c],"Hydrogenobyrinate a,c diamide",cpdAGORA2109,C45H58N6O12,-4,C06503,,0
+saccrp_L[c],"L-saccharopinate(1-)",cpdAGORA2110,C11H19N2O6,-1,C00449,HMDB00279,0
+Lpipecol[c],"L-pipecolic acid",cpdAGORA2111,C6H11NO2,0,C00408,HMDB00716,0
+ab14lac_L[c],"L-Arabinono-1,4-lactone",cpdAGORA2112,C5H8O5,0,,,0
+codhpre6[c],"cobalt-dihydro-precorrin 6",cpdAGORA2113,C44H47N4O16Co,-7,C11543,,0
+copre3[c],"cobalt-precorrin 3",cpdAGORA2114,C43H40N4O16Co,-8,C11539,,0
+copre4[c],"cobalt-precorrin 4",cpdAGORA2115,C44H43N4O16Co,-7,C11540,,0
+copre6[c],"cobalt-precorrin 6",cpdAGORA2116,C44H45N4O16Co,-7,C11542,,0
+dgchol[e],"glycochenodeoxycholate",cpdAGORA2117,C26H43NO5,0,C05466,HMDB00637,0
+gchola[e],"glycocholate",cpdAGORA2118,C26H43NO6,0,C01921,HMDB00138,0
+lyx_L[c],"L-Lyxose",cpdAGORA2119,C5H10O5,0,,,0
+lyx_L[e],"L-Lyxose",cpdAGORA2120,C5H10O5,0,,,0
+pre3a[c],"Precorrin 3 A",cpdAGORA2121,C43H43N4O16,-7,C05772,,0
+pre3b[c],"Precorrin 3B",cpdAGORA2122,C43H44N4O17,-6,C06406,,0
+pre4[c],"Precorrin 4",cpdAGORA2123,C44H44N4O17,-8,C06407,,0
+pre5[c],"Precorrin 5",cpdAGORA2124,C45H46N4O17,-8,C06416,,0
+pre6a[c],"Precorrin 6A",cpdAGORA2125,C44H47N4O16,-7,C06320,,0
+pre6b[c],"Precorrin 6B",cpdAGORA2126,C44H49N4O16,-7,C06319,,0
+pyr[e],"pyruvate",cpdAGORA2127,C3H3O3,-1,C00022,HMDB00243,0
+rbt[c],"D-ribitol",cpdAGORA2128,C5H12O5,0,C00474,HMDB00508,0
+sbt_D[c],"D-glucitol",cpdAGORA2129,C6H14O6,0,C00794,HMDB00247,0
+tchola[e],"taurocholate",cpdAGORA2130,C26H45NO7S,0,,HMDB00036,0
+tdchola[e],"taurochenodeoxycholate",cpdAGORA2131,C26H45NO6S,0,C05465,HMDB00951,0
+thrp[c],"L-Threonine O-3-phosphate",cpdAGORA2132,C4H8NO6P,-2,,,0
+acgal6p[c],"N-Acetyl-D-galactosamine 6-phosphate",cpdAGORA2133,C8H14NO9P,-2,,,0
+acgal[c],"N-acetyl-D-galactosamine",cpdAGORA2134,C8H15NO6,0,C01132,HMDB00212,0
+galam6p[c],"D-galactosamine-6-phosphate",cpdAGORA2135,C6H13NO8P,-1,,,0
+lald_L[e],"(S)-lactaldehyde",cpdAGORA2136,C3H6O2,0,C00424,HMDB03052,0
+HC00591[c],"2-oxoglutaramate",cpdAGORA2137,C5H6NO4,-1,C00940,HMDB01552,0
+cob[c],"Coenzyme B",cpdAGORA2138,C11H19NO7PS,-3,,,0
+comSScob[c],"CoM-S-S-CoB",cpdAGORA2139,C13H22NO10PS3,-4,,,0
+com[c],"Coenzyme M",cpdAGORA2140,C2H5O3S2,-1,C03576,,0
+dhmphze[c],"Dihydromethanophenazine",cpdAGORA2141,C37H52N2O,0,,,0
+galur[e],"D-Galacturonate",cpdAGORA2142,C6H9O7,-1,,,0
+glcur[e],"D-glucuronate",cpdAGORA2143,C6H9O7,-1,C00191,HMDB00127,0
+gsn[e],"Guanosine",cpdAGORA2144,C10H13N5O5,0,C00387,HMDB00133,0
+mphze[c],"Methanophenazine",cpdAGORA2145,C37H50N2O,0,,,0
+oxam[c],"Oxamate",cpdAGORA2146,C2H2NO3,-1,,,0
+3cvobz[c],"3-[(1-Carboxyvinyl)oxy]benzoate",cpdAGORA2147,C10H6O5,-2,C20772,,0
+6adxft[c],"6-Amino-6-deoxyfutalosine",cpdAGORA2148,C19H19N5O6,0,C20773,,0
+cdhxft[c],"Cyclic dehypoxanthine futalosine",cpdAGORA2149,C14H13O7,-1,C17017,,0
+dh6na[c],"1,4-dihydroxy-6-naphthoate",cpdAGORA2150,C11H7O4,-1,C17018,,0
+dhxft[c],"Dehypoxanthine futalosinate",cpdAGORA2151,C14H15O7,-1,C17010,,0
+ftz[c],"Futalosinate",cpdAGORA2152,C19H17N4O7,-1,C16999,,0
+35dacap[c],"(3S,5S)-3,5-Diaminocaproate",cpdAGORA2153,C6H15N2O2,1,,,0
+isobut[c],"Isobutyrate, 2-Methylpropanoate",cpdAGORA2154,C4H7O2,-1,C02632,,0
+isobut[e],"Isobutyrate, 2-Methylpropanoate",cpdAGORA2155,C4H7O2,-1,C02632,,0
+isocapr[c],"Isocaproate",cpdAGORA2156,C6H11O2,-1,,,0
+isocapr[e],"Isocaproate",cpdAGORA2157,C6H11O2,-1,,,0
+isoval[c],"Isovalerate, 3-Methylbutanoate",cpdAGORA2158,C5H9O2,-1,C08262,,0
+isoval[e],"Isovalerate, 3-Methylbutanoate",cpdAGORA2159,C5H9O2,-1,C08262,,0
+lanost[e],"lanosterol",cpdAGORA2160,C30H50O,0,C01724,HMDB01251,0
+sql[c],"squalene",cpdAGORA2161,C30H50,0,C00751,HMDB00256,0
+phenol[e],"Phenol",cpdAGORA2162,C6H6O,0,,,0
+5fth4mpt[c],"N(5)-formyl-5,6,7,8-tetrahydromethanopterin",cpdAGORA2163,C31H42N6O17P,-3,C01274,,0
+aclys[c],"N2-Acetyl-L-lysine",cpdAGORA2164,C8H16N2O3,0,,,0
+coF420[c],"Coenzyme F420",cpdAGORA2165,C29H34N5O18P,-4,,,0
+coF420h[c],"Reduced coenzyme F420",cpdAGORA2166,C29H36N5O18P,-4,,,0
+fmfur[c],"Formylmethanofuran",cpdAGORA2167,C35H39N4O16,-5,,,0
+h4mpt[c],"5,6,7,8-tetrahydromethanopterin",cpdAGORA2168,C30H42N6O16P,-3,C01217,,0
+inulin[c],"Chicory inulin, 30 monosaccharide units (29 fru, 1 glc) on average",cpdAGORA2169,C180H302O151,0,C03323,,0
+inulin[e],"Chicory inulin, 30 monosaccharide units (29 fru, 1 glc) on average",cpdAGORA2170,C180H302O151,0,C03323,,0
+ispre[c],"Isoprene",cpdAGORA2171,C5H8,0,,,0
+ispre[e],"Isoprene",cpdAGORA2172,C5H8,0,,,0
+mfur[c],"Methanofuran",cpdAGORA2173,C34H40N4O15,-4,,,0
+mmtsa[c],"(S)-Methylmalonate semialdehyde",cpdAGORA2174,C4H5O3,-1,C06002,,0
+mtethnpn[c],"5,10-Methylenetetrahydromethanopterin",cpdAGORA2175,C31H42N6O16P,-3,,,0
+mtth4mpt[c],"5,10-Methenyl-5,6,7,8-tetrahydromethanopterin",cpdAGORA2176,C31H41N6O16P,-2,C04330,,0
+ppal[c],"Propanal",cpdAGORA2177,C3H6O,0,,,0
+dkmpp[c],"2,3-diketo-5-methylthio-1-phosphopentane",cpdAGORA2178,C6H9O6PS,-2,C15650,,0
+hkmpp[c],"2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate",cpdAGORA2179,C6H9O6PS,-2,C15651,,0
+3dhcdchol[e],"3-Dehydrochenodeoxycholate",cpdAGORA2180,C24H37O4,-1,,,0
+3dhchol[e],"3-Dehydrocholate",cpdAGORA2181,C24H37O5,-1,,,0
+diglcpg140[c],"Diglucosyl-1,2 dimyristoylglycerol",cpdAGORA2182,C43H80O15,0,,,0
+diglcpg160[c],"Diglucosyl-1,2 dipalmitoylglycerol",cpdAGORA2183,C47H88O15,0,,,0
+diglcpgai15[c],"Diglucosyl-1,2 dianteisopentadecanoylglycerol",cpdAGORA2184,C45H84O15,0,,,0
+diglcpgi14[c],"Diglucosyl-1,2 diisotetradecanoylglycerol",cpdAGORA2185,C43H80O15,0,,,0
+diglcpgi15[c],"Diglucosyl-1,2 diisopentadecanoylglycerol",cpdAGORA2186,C45H84O15,0,,,0
+diglcpgi16[c],"Diglucosyl-1,2 diisohexadecanoylglycerol",cpdAGORA2187,C47H88O15,0,,,0
+kesto[e],"Kestose (2 fru, 1 glc inulin-type fructo-oligosaccharide)",cpdAGORA2188,C18H32O16,0,,,0
+kestopt[e],"Kestopentaose (4 fru, 1 glc inulin-type fructo-oligosaccharide)",cpdAGORA2189,C30H52O26,0,,,0
+kestottr[e],"Kestotetraose (3 fru, 1 glc inulin-type fructo-oligosaccharide)",cpdAGORA2190,C24H42O21,0,,,0
+srbL1p[c],"L-Sorbose 1-phosphate",cpdAGORA2191,C6H12O9P,-1,C02888,,0
+12dhchol[e],"12-Dehydrocholate",cpdAGORA2192,C24H37O5,-1,,,0
+hom_L[e],"L-homoserine",cpdAGORA2193,C4H9NO3,0,C00263,HMDB00719,0
+5apentam[c],"5-Aminopentanamide",cpdAGORA2194,C5H13N2O,1,,,0
+5aptn[c],"5-Aminopentanoate",cpdAGORA2195,C5H11NO2,0,C00431,,0
+dna5mtc[c],"DNA 5-methylcytosine",cpdAGORA2196,C11H19O8PR2,0,C02967,,0
+dnacsn[c],"DNA cytosine",cpdAGORA2197,C10H17O8PR2,0,,,0
+m12dapglyc[c],"Monoglucosyl-1,2 dianteisopentadecanoylglycerol",cpdAGORA2198,C39H74O10,0,,,0
+m12dipglyc[c],"Monoglucosyl-1,2 diisopentadecanoylglycerol",cpdAGORA2199,C39H74O10,0,,,0
+m12ditglyc[c],"Monoglucosyl-1,2 diisotetradecanoylglycerol",cpdAGORA2200,C37H70O10,0,,,0
+m12dixglyc[c],"Monoglucosyl-1,2 diisohexadecanoylglycerol",cpdAGORA2201,C41H78O10,0,,,0
+m12dmglyc[c],"Monoglucosyl-1,2 dimyristoylglycerol",cpdAGORA2202,C37H70O10,0,,,0
+m12dpglyc[c],"Monoglucosyl-1,2 dipalmitoylglycerol",cpdAGORA2203,C41H78O10,0,,,0
+mobd[c],"Molybdate",cpdAGORA2204,MoO4,-2,,,0
+mobd[e],"Molybdate",cpdAGORA2205,MoO4,-2,,,0
+mql7[c],"Menaquinol 7",cpdAGORA2206,C46H66O2,0,C05819,,0
+selcyst[c],"Selenocystathionine",cpdAGORA2207,C7H14N2O4Se,0,C05699,HMDB06343,0
+44dpnspr[c],"4,4-Diaponeurosporene",cpdAGORA2208,C30H42,0,,,0
+dhsql[c],"Dehydrosqualene",cpdAGORA2209,C30H48,0,,,0
+dtdp4addg[c],"dTDP-4-amino-4,6-dideoxy-D-galactose",cpdAGORA2210,C16H26N3O14P2,-1,,,0
+icit[e],"Isocitrate",cpdAGORA2211,C6H5O7,-3,C00311,HMDB00193,0
+nwharg[c],"N-(omega)-Hydroxyarginine",cpdAGORA2212,C6H15N4O3,1,C05933,HMDB04224,0
+oxptn[c],"5-Oxopentanoate",cpdAGORA2213,C5H7O3,-1,C03273,HMDB12233,0
+pprdn[c],"Piperideine",cpdAGORA2214,C5H9N,0,C06181,,0
+pime[c],"Pimelate",cpdAGORA2215,C7H10O4,-2,,,0
+pime[e],"Pimelate",cpdAGORA2216,C7H10O4,-2,,,0
+sbt_L[c],"L-Sorbitol (iMM904)",cpdAGORA2217,C6H14O6,0,C01722,,0
+sbt_L[e],"L-Sorbitol (iMM904)",cpdAGORA2218,C6H14O6,0,C01722,,0
+ascb_L[c],"L-ascorbate",cpdAGORA2219,C6H7O6,-1,C00072,HMDB00044,0
+btd_RR[e],"R_R__2_3_Butanediol",cpdAGORA2220,C4H10O2,0,,,0
+gullac[c],"L-gulono-1,4-lactone",cpdAGORA2221,C6H10O6,0,C01040,HMDB03466,0
+xylhl_L[c],"L-xylo-Hexulonolactone",cpdAGORA2222,C6H8O6,0,C03289,,0
+HC02097[c],"3-Oxostearoyl-ACP",cpdAGORA2223,X,0,C16219,,0
+meoh[e],"methanol",cpdAGORA2224,CH4O,0,C00132,HMDB01875,0
+pect[e],"pectins",cpdAGORA2225,C2535H3509O2535,-1,,,0
+C02442[c],"N-methyltyraminium",cpdAGORA2226,C9H14NO,1,C02442,HMDB03633,0
+ch4s[c],"Methanethiol",cpdAGORA2227,CH4S,0,C00409,HMDB03227,0
+uacmamu[c],"UDP-N-acetyl-D-mannosaminouronate",cpdAGORA2228,C17H22N3O18P2,-3,,,0
+2mmale[c],"2-Methylmaleate",cpdAGORA2229,C5H4O4,-2,,,0
+acgalglcur[e],"Dimer GalNAc-GlcA",cpdAGORA2230,C14H22NO12,-1,,,0
+acgalidour2s[e],"Dimer GalNAc-IdoA2S",cpdAGORA2231,C14H21NO15S,-2,,,0
+acgalidour[e],"Dimer GalNAc-IdoA",cpdAGORA2232,C14H22NO12,-1,,,0
+arabinogal[e],"Larch arabinogalactan, gal/ara 6:1, small amount of glcur, MW ~ 116000",cpdAGORA2233,C3862H6376O3218,0,C00569,,0
+cspg_a[e],"chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan",cpdAGORA2234,C45H66N2O45S3X,-5,,,0
+cspg_a_degr[e],"Dimer GalNAc4S-GlcA",cpdAGORA2235,C14H21NO15S,-2,,,0
+cspg_ab_rest[e],"Not degradable product CSABCPASE_A/B, Gal4S-Gal-Xyl-L-Ser-protein",cpdAGORA2236,C17H28O17SX,-1,,,0
+cspg_b[e],"chondroitin sulfate B / dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan",cpdAGORA2237,C45H65N2O48S4X,-6,,,0
+cspg_b_degr[e],"Dimer GalNAc4S-IdoA2S",cpdAGORA2238,C14H20NO18S2,-3,,,0
+cspg_c[e],"chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan",cpdAGORA2239,C45H66N2O45S3X,-5,,,0
+cspg_c_degr[e],"Dimer GalNAc6S-GlcA",cpdAGORA2240,C14H21NO15S,-2,,,0
+cspg_c_rest[e],"Not degradable product CSABCPASE_C, Gal6S-Gal-Xyl-L-Ser-protein",cpdAGORA2241,C17H28O17SX,-1,,,0
+e3mmal[c],"D-erythro-3-Methylmalate",cpdAGORA2242,C5H6O5,-2,,,0
+ha[e],"hyaluronan",cpdAGORA2243,C28H40N2O22,-2,,,0
+ha_deg1[e],"hyaluronan degradation product 1",cpdAGORA2244,C22H33N2O16,-1,,,0
+ha_pre1[e],"hyaluronan biosynthesis, precursor 1",cpdAGORA2245,C14H20NO11,-1,C04794,,0
+homogal[e],"Homogalacturonan, 100 galacturonate residues. Assumed to be methylated/ acetylated in every 5th residue. Citrus HG consists of 7... <Preview truncated at 128 characters>",cpdAGORA2246,C660H840O660,-120,,,0
+idour[e],"L-iduronate",cpdAGORA2247,C6H9O7,-1,C06472,HMDB02704,0
+pecticgal[e],"Pectic galactan (potato), gal: arab-L: rmn: galur = 78: 9: 4: 9 (www.megazyme.com). Assumed to consist of 100 sugars per macromo... <Preview truncated at 128 characters>",cpdAGORA2248,C597H971O503,-11,,,0
+rhamnogalurI[e],"Potato rhamnogalacturonan I, MW assumed ~200000, 62 galur, 20 rmn, 12 gal, 3 arab-L, 1 xyl-D (www.megazyme.com, PMID: 16661590)",cpdAGORA2249,C5840H7862O5281,-620,G09800,,0
+amylopect900[e],"Amylopectin, 900 repeat units",cpdAGORA2250,C5400H9002O4501,0,C00317,,0
+amylose300[e],"amylose (n=300 repeat units, alpha-1,4-glc)",cpdAGORA2251,C1800H3002O1501,0,,,0
+arabinan101[e],"Arabinan, polymer of 1,5-a-L-linked arabinofuranose units substituted by 1,3 or 1,2 linked branches, MW ~ 15000 Da (REF: www.meg... <Preview truncated at 128 characters>",cpdAGORA2252,C509H812O410,-2,C02474,,0
+arabinoxyl[e],"Arabinoxylan, 30 xyl_D, 18 arab_L, 3 gal, 3 glc_D",cpdAGORA2253,C276H446O223,0,G03769,,0
+bglc[e],"beta-glucans",cpdAGORA2254,C1200000H2000002O1000001,0,,,0
+dextran40[e],"Dextran 40, 1,6-alpha-D-Glucan",cpdAGORA2255,C480H800O400,0,C00372,,0
+galmannan[e],"Carob galactomannan, Gal:Man ratio 22/78. 220 gal, 780 man assumed",cpdAGORA2256,C6000H10002O5001,0,G10130,,0
+gam26s[e],"Glucosamine 2,6-sulfate",cpdAGORA2257,C6H11NO11S2,-2,,,0
+glcmannan[e],"Konjac glucomannan, MW 77,500 (PMID:17962981), Man:Glc ~ 2:1. -> 286 man, 143 glc_D",cpdAGORA2258,C2574H4292O2146,0,G11598,,0
+hspg[e],"heparan sulfate proteoglycan",cpdAGORA2259,C79H113N5O101S12X,-13,,,0
+hspg_degr_10[e],"Product AS3TASE_HS2, GlcN2S-IdoA-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)",cpdAGORA2260,C43H66N2O38SX,-3,,,0
+hspg_degr_11[e],"Product GAM2STASE_HS3, GlcN-IdoA-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)",cpdAGORA2261,C43H67N2O35X,-2,,,0
+hspg_degr_12[e],"Product GLCNACASE_HS2, GlcA-GlcNAc-IdoA-Gal-Gal-Xyl-L-Ser (protein)",cpdAGORA2262,C37H56NO31X,-2,,,0
+hspg_degr_13[e],"Product GLCAASE_HS, GlcNAc-IdoA-Gal-Gal-Xyl-L-Ser (protein)",cpdAGORA2263,C31H49NO25X,-1,,,0
+hspg_degr_14[e],"Product GLCNACASE_HS3, IdoA-Gal-Gal-Xyl-L-Ser (protein)",cpdAGORA2264,C23H36O20X,-1,,,0
+hspg_degr_15[e],"Product IDOURASE_HS3, Gal-Gal-Xyl-L-Ser (protein)",cpdAGORA2265,C17H29O14X,0,,,0
+hspg_degr_1[e],"Product 1 HEPARL1_e, IdoA-GlcN2,6diS-GlcA-GlcN2,3,6triS",cpdAGORA2266,C24H33O36N2S5,-7,,,0
+hspg_degr_2[e],"Product 2 HEPARL1_e, IdoA2S-GlcN2,6diS-IdoA2S-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein)",cpdAGORA2267,C49H71N2O56S5X,-6,,,0
+hspg_degr_3[e],"Product IDOURASE_HS1, GlcN2,6diS-GlcA-GlcN2,3,6triS",cpdAGORA2268,C18H26O30N2S5,-6,,,0
+hspg_degr_4[e],"Product AS6TASE_HS1, GlcN2S-GlcA-GlcN2,3diS",cpdAGORA2269,C18H28O24N2S3,-4,,,0
+hspg_degr_5[e],"Product AS3TASE_HS1, GlcN2S-GlcA-GlcN2S",cpdAGORA2270,C18H29O21N2S2,-3,,,0
+hspg_degr_6[e],"Product GAM2STASE_HS2, GlcN-GlcA-GlcN",cpdAGORA2271,C18H31O15N2,-1,,,0
+hspg_degr_7[e],"Product IS2TASE_HS1, IdoA-GlcN2,6diS-IdoA-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein)",cpdAGORA2272,C49H71N2O50S3X,-6,,,0
+hspg_degr_8[e],"Product IDOURASE_HS2, GlcN2,6diS-IdoA-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein)",cpdAGORA2273,C43H64N2O44S3X,-5,,,0
+hspg_degr_9[e],"Product AS6TASE_HS2, GlcN2S-IdoA-GlcNAc3S-GlcA-Gal-Gal-Xyl-L-Ser (protein)",cpdAGORA2274,C43H65N2O41S2X,-4,,,0
+hspg_rest[e],"Undegradable product GALASE_HS, Xyl-L-Ser (protein)",cpdAGORA2275,C5H9O4X,0,,,0
+levan1000[e],"Levan, 1000 fructose units",cpdAGORA2276,C6000H10002O5001,0,,,0
+levanb[c],"Levanbiose",cpdAGORA2277,C12H22O11,0,,,0
+levanb[e],"Levanbiose",cpdAGORA2278,C12H22O11,0,,,0
+levanttr[e],"Levantriose",cpdAGORA2279,C18H32O16,0,,,0
+levantttr[e],"Levantetraose",cpdAGORA2280,C24H42O21,0,,,0
+lichn[e],"Lichenin from Icelandic moss, 170 glucose residues. DOI: 10.1039/JR9570001951",cpdAGORA2281,C1020H1702O851,0,C00478,,0
+lmn2[e],"Laminaribiose",cpdAGORA2282,C12H22O11,0,,,0
+lmn30[e],"laminarin (n=30 repeat units, beta -1,3 glc)",cpdAGORA2283,C180H302O151,0,,,0
+xyluglc[e],"Xyluglucan, PMID:16663672, Fry SC 1989. 600 glc_D, 360 xyl_D, 108 gal, 60 fuc_L, 6 arab_L",cpdAGORA2284,C6438H10610O5245,0,,,0
+4hpro_LT[e],"trans-4-hydroxy-L-proline",cpdAGORA2285,C5H9NO3,0,C01157,HMDB00725,0
+icdchol[e],"Isochenodeoxycholate",cpdAGORA2286,C24H39O4,-1,C17660,,0
+isochol[e],"Isocholate",cpdAGORA2287,C24H39O5,-1,,,0
+xylan[e],"Oat spelt xylan, MW 79200 (DOI: 10.1002/masy.200551405) = 528 xyl_D",cpdAGORA2288,C2640H4226O2113,0,G00279,,0
+estrone[c],"estrone",cpdAGORA2289,C18H22O2,0,C00468,HMDB00145,0
+estrones[c],"estrone 3-sulfate(1-)",cpdAGORA2290,C18H21O5S,-1,C02538,HMDB01425,0
+2omfuc[e],"2-o-methylfucose (rare sugar in rhamnogalacturonan II)",cpdAGORA2291,C7H14O5,0,,,0
+2omxyl[e],"2-O-methylxylose (rare sugar in rhamnogalacturonan II)",cpdAGORA2292,C6H12O5,0,560157,,0
+3ddlhept[e],"3-deoxy-d-lyxo-heptulosaric acid (rare sugar in rhamnogalacturonan II)",cpdAGORA2293,C7H9O8,-1,,,0
+acerA[e],"Aceric acid (3-C-carboxy-5-deoxy-l-xylose) (rare sugar in rhamnogalacturonan II)",cpdAGORA2294,C6H9O6,-1,,,0
+apio_D[e],"D-Apiose (rare sugar in rhamnogalacturonan II)",cpdAGORA2295,C5H10O5,0,C01488,,0
+kdo[e],"3-Deoxy-D-manno-2-octulosonate",cpdAGORA2296,C8H13O8,-1,,,0
+mannan[e],"Alpha-mannan, yeast, has a MW of about 25000 (PMID: 5461381), equals ~ 140 mannose units. ID according to iMM904",cpdAGORA2297,C840H1402O701,0,,,0
+rhamnogalurII[e],"Wine rhamnogalacturonan II, MW ~ 5-10 kDa, 37% galur, 16% rmn, 3% fuc-L, 11% arab-L, 6% gal, 5% glcur, 4% 2omfuc, 3% 2omxyl, 6% ... <Preview truncated at 128 characters>",cpdAGORA2298,C317H445O273,-27,G06506,,0
+dvprotochloroph[c],"Divinylprotochlorophyllide",cpdAGORA2299,C35H28N4O5Mg,-2,C11831,,0
+hmppp9mme[c],"13(1)-Hydroxy-Mg-protoporphyrin IX 13-monomethyl ester",cpdAGORA2300,C35H33N4O5Mg,-1,,,0
+mppp9mme[c],"Mg-Protoporphyrin IX 13-monomethyl ester",cpdAGORA2301,C35H33N4O4Mg,-1,C04536,,0
+oxomppp9mme[c],"13(1)-Oxo-Mg-protoporphyrin IX 13-monomethyl ester",cpdAGORA2302,C35H31N4O5Mg,-1,,,0
+dttp[e],"dTTP",cpdAGORA2303,C10H13N2O14P3,-4,C00459,HMDB01342,0
+6pthp[c],"6-pyruvoyl-5,6,7,8-tetrahydropterin",cpdAGORA2304,C9H11N5O3,0,C03684,HMDB01195,0
+acmana[e],"N-acetyl-D-mannosamine",cpdAGORA2305,C8H15NO6,0,C00645,HMDB01129,0
+gdpmanur[c],"GDP-D-mannuronate",cpdAGORA2306,C16H20N5O17P2,-3,,,0
+cys_D[c],"D-Cysteine",cpdAGORA2307,C3H7NO2S,0,,,0
+ph2s[e],"Polysulfide",cpdAGORA2308,H2S2,0,,,0
+5mthf[e],"5-Methyltetrahydrofolate",cpdAGORA2309,C20H24N7O6,-1,C00440,HMDB01396,0
+starch1200[e],"starch n=1200 repeat units (300 repeat units amylose, 900 repeat units amylopectin, corresponds to potatoe starch)",cpdAGORA2310,C7200H12002O6001,0,,,0
+thf[e],"5,6,7,8-Tetrahydrofolate",cpdAGORA2311,C19H21N7O6,-2,C00101,HMDB01846,0
+5a3ohex[c],"3-keto-5-aminohexanoate",cpdAGORA2312,C6H10NO3,-1,C03656,,0
+glctnb[c],"Galacto-N-biose",cpdAGORA2313,C14H25NO11,0,,,0
+glctnb[e],"Galacto-N-biose",cpdAGORA2314,C14H25NO11,0,,,0
+lctnb[c],"Lacto-N-biose",cpdAGORA2315,C14H25NO11,0,C06372,,0
+lctnb[e],"Lacto-N-biose",cpdAGORA2316,C14H25NO11,0,C06372,,0
+13ppd[c],"Propane-1,3-diol",cpdAGORA2317,C3H8O2,0,C02457,,0
+13ppd[e],"Propane-1,3-diol",cpdAGORA2318,C3H8O2,0,C02457,,0
+3hppnl[c],"3-Hydroxypropanal",cpdAGORA2319,C3H6O2,0,C00969,,0
+24k3DoFcnt[c],"2,4-Diketo-3-deoxy-L-fuconate",cpdAGORA2320,C6H8O5,0,C20781,,0
+2Dh3DoFcnt[c],"2-Dehydro-3-deoxy-L-fuconate",cpdAGORA2321,C6H10O5,0,C03827,,0
+Fcnt[c],"L-Fuconate",cpdAGORA2322,C6H12O6,0,C01720,,0
+fuc15lctn[c],"L-Fucono-1,5-lactone",cpdAGORA2323,C6H10O5,0,C18028,,0
+C02147[c],"dihydrolipoate",cpdAGORA2324,C8H15O2S2,-1,C02147,HMDB12210,0
+sacald[c],"Sulfoacetaldehyde",cpdAGORA2325,C2H3O4S,-1,C00593,,0
+so3[e],"Sulfite",cpdAGORA2326,O3S,-2,C00094,HMDB00240,0
+cfesp[c],"Corrinoid Iron sulfur protein",cpdAGORA2327,C19CoN4R21,0,C06021,,0
+mecfsp[c],"Methylcorrinoid iron sulfur protein",cpdAGORA2328,C20H3CoN4R21,1,C06020,,0
+mh4mpt[c],"5-Methyl-5,6,7,8-tetrahydromethanopterin",cpdAGORA2329,C31H44N6O16P,-3,C04488,,0
+dmgly[c],"N,N-dimethylglycine",cpdAGORA2330,C4H9NO2,0,C01026,HMDB00092,0
+chloropha[c],"Chlorophyll a",cpdAGORA2331,C55H71N4O5Mg,0,C05306,HMDB38578,0
+chlphyllide[c],"Chlorophyllide",cpdAGORA2332,C35H33N4O5Mg,0,C02139,,0
+mppp9[c],"Mg-protoporphyrin IX (iMEO21, iAF692)",cpdAGORA2333,C34H31N4O4Mg,-1,,,0
+protochloroph[c],"Protochlorophyllide",cpdAGORA2334,C35H30MgN4O5,-1,,HMDB31148,0
+xtsn[e],"xanthosine",cpdAGORA2335,C10H12N4O6,0,C01762,HMDB00299,0
+3hbbut[c],"(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate",cpdAGORA2336,C8H13O5,-1,,,0
+abt_D[c],"D-Arabitol",cpdAGORA2337,C5H12O5,0,C01904,HMDB00568,0
+bbtcoa[c],"gamma-butyrobetainyl-CoA",cpdAGORA2338,C28H46N8O17P3S,-3,,,0
+L2aadp[c],"L-2-aminoadipate(1-)",cpdAGORA2339,C6H10NO4,-1,C00956,HMDB00510,0
+acaadp[c],"N2-Acetyl-L-aminoadipate",cpdAGORA2340,C8H11NO5,-2,,,0
+coa[e],"Coenzyme A",cpdAGORA2341,C21H32N7O16P3S,-4,C00010,HMDB01423,0
+gtp[e],"GTP",cpdAGORA2342,C10H12N5O14P3,-4,C00044,HMDB01273,0
+mcom[c],"Methyl Coenzyme M",cpdAGORA2343,C3H7O3S2,-1,C03920,,0
+thmmp[e],"Thiamin monophosphate",cpdAGORA2344,C12H16N4O4PS,-1,C01081,HMDB02666,0
+dtdp4aaddg[c],"dTDP-4-acetamido-4,6-dideoxy-D-galactose",cpdAGORA2345,C18H27N3O15P2,-2,,,0
+cellul[e],"Cellulose, chain length 500 glc_D assumed, DOI: 10.1002/anie.200460587",cpdAGORA2346,C3000H5002O2501,0,G10481,,0
+amet[e],"S-Adenosyl-L-methionine",cpdAGORA2347,C15H23N6O5S,1,C00019,HMDB01185,0
+cmp[e],"CMP",cpdAGORA2348,C9H12N3O8P,-2,C00055,HMDB00095,0
+datp[e],"dATP",cpdAGORA2349,C10H12N5O12P3,-4,C00131,HMDB01532,0
+decdp[c],"all trans Decaprenyl diphosphate",cpdAGORA2350,C50H81O7P2,-3,,HMDB06288,0
+nadp[e],"Nicotinamide adenine dinucleotide phosphate",cpdAGORA2351,C21H25N7O17P3,-3,C00006,HMDB00217,0
+23dhba[c],"(2,3-Dihydroxybenzoyl)adenylate",cpdAGORA2352,C17H17N5O10P,-1,,,0
+idon_L[e],"L-Idonate",cpdAGORA2353,C6H11O7,-1,,,0
+sel[e],"selenate",cpdAGORA2354,O4Se,-2,C05697,,0
+selni[e],"selenite",cpdAGORA2355,SeO3,-2,,,0
+3masp[c],"L-threo-3-Methylaspartate",cpdAGORA2356,C5H7NO4,-2,C03618,,0
+mescon[c],"Mesaconate",cpdAGORA2357,C5H4O4,-2,C01732,HMDB00749,0
+cinnm[e],"trans-Cinnamate",cpdAGORA2358,C9H7O2,-1,,,0
+btoh[e],"butanol",cpdAGORA2359,C4H10O,0,C06142,,0
+ch4s[e],"Methanethiol",cpdAGORA2360,CH4S,0,C00409,HMDB03227,0
+4hphacp[c],"Hydroxyphehylacetyl phosphate",cpdAGORA2361,C8H7O6P,-2,,,0
+cinnmcoa[c],"Trans-Cinnamyl-CoA",cpdAGORA2362,C30H38N7O17P3S,-4,,,0
+icprencoa[c],"Isocaprenoyl-CoA",cpdAGORA2363,C27H40N7O17P3S,-4,C21090,,0
+indacrcoa[c],"Indoleacrylyl-CoA",cpdAGORA2364,C32H39N8O17P3S,-4,,,0
+indlac[c],"Indolelactate",cpdAGORA2365,C11H10NO3,-1,C02043,,0
+indlaccoa[c],"Indolelactyl-CoA",cpdAGORA2366,C32H41N8O18P3S,-4,,,0
+indprp[c],"Indolepropionate",cpdAGORA2367,C11H10NO2,-1,,,0
+indprp[e],"Indolepropionate",cpdAGORA2368,C11H10NO2,-1,,,0
+indprpcoa[c],"Indolepropionyl-CoA",cpdAGORA2369,C32H41N8O17P3S,-4,,,0
+isocaprcoa[c],"Isocaproyl-CoA",cpdAGORA2370,C27H42N7O17P3S,-4,C21400,,0
+laccoa[c],"Lactoyl-CoA",cpdAGORA2371,C24H36N7O18P3S,-4,C00827,,0
+phacp[c],"Phehylacetyl phosphate",cpdAGORA2372,C8H7O5P,-2,,,0
+plac[c],"Phenyllactate",cpdAGORA2373,C9H9O3,-1,C05607,,0
+placcoa[c],"Phenyllactyl-CoA",cpdAGORA2374,C30H40N7O18P3S,-4,,,0
+pppncoa[c],"Phenylpropanoyl-CoA",cpdAGORA2375,C30H40N7O17P3S,-4,,,0
+prpncoa[c],"acryloyl-CoA(4-)",cpdAGORA2376,C24H34N7O17P3S,-4,C00894,HMDB02307,0
+r2hic[c],"(R)-2-Hydroxyisocaproate",cpdAGORA2377,C6H11O3,-1,C03264,,0
+r2hiccoa[c],"(R)-2-Hydroxyisocaproyl-CoA",cpdAGORA2378,C27H42N7O18P3S,-4,C21089,,0
+r34hpacoa[c],"(R)-3-(4-Hydroxyphenyl)acrylyl-CoA",cpdAGORA2379,C30H38N7O18P3S,-4,,,0
+r34hpl[c],"(R)-3-(4-Hydroxyphenyl)lactate",cpdAGORA2380,C9H9O4,-1,C03964,,0
+r34hplcoa[c],"(R)-3-(4-Hydroxyphenyl)lactyl-CoA",cpdAGORA2381,C30H40N7O19P3S,-4,,,0
+r34hpp[c],"(R)-3-(4-Hydroxyphenyl)propionate",cpdAGORA2382,C9H9O3,-1,C01744,,0
+r34hpp[e],"(R)-3-(4-Hydroxyphenyl)propionate",cpdAGORA2383,C9H9O3,-1,C01744,,0
+r34hppcoa[c],"(R)-3-(4-Hydroxyphenyl)propionyl-CoA",cpdAGORA2384,C30H40N7O18P3S,-4,,,0
+2mbut[c],"2-methylbutyrate",cpdAGORA2385,C5H9O2,-1,C18319,,0
+2mbut[e],"2-methylbutyrate",cpdAGORA2386,C5H9O2,-1,C18319,,0
+4mcat[e],"4-Methylcatechol",cpdAGORA2387,C7H8O2,0,,,0
+5aptn[e],"5-Aminopentanoate",cpdAGORA2388,C5H11NO2,0,C00431,,0
+ind3ppa[c],"Indole-3-propionate",cpdAGORA2389,C11H10NO2,-1,,,0
+ind3ppa[e],"Indole-3-propionate",cpdAGORA2390,C11H10NO2,-1,,,0
+pcresol[c],"p-Cresol",cpdAGORA2391,C7H7O,-1,C01468,HMDB13762,0
+pcresol[e],"p-Cresol",cpdAGORA2392,C7H7O,-1,C01468,HMDB13762,0
+3dh46dchol[c],"3-dehydro-delta-4,6-Deoxycholate",cpdAGORA2393,C24H33O4,-1,,,0
+3dh46lchol[c],"3-dehydro-delta-4,6-Lithocholate",cpdAGORA2394,C24H33O3,-1,,,0
+3dh4cacoa[c],"3-dehydro-delta-4,6-Lithocholoyl-CoA",cpdAGORA2395,C45H66N7O20P3S,-4,,,0
+3dh4cdcacoa[c],"3-dehydro-delta-4-Chenodeoxycholoyl-CoA",cpdAGORA2396,C45H66N7O19P3S,-4,,,0
+3dh4cdchol[c],"3-dehydro-delta-4-Chenodeoxycholate",cpdAGORA2397,C24H35O4,-1,,,0
+3dh4chol[c],"3-dehydro-delta-4-Choloate",cpdAGORA2398,C24H35O5,-1,,,0
+3dh4dchol[c],"3-dehydro-delta-4-Deoxycholate",cpdAGORA2399,C24H35O4,-1,,,0
+3dh4lchol[c],"3-dehydro-delta-4-Lithocholate",cpdAGORA2400,C24H35O3,-1,,,0
+3dh4udcacoa[c],"3-dehydro-delta-4-Ursodeoxycholoyl-CoA",cpdAGORA2401,C45H66N7O19P3S,-4,,,0
+3dh4udchol[c],"3-dehydro-delta-4-Ursodeoxycholate",cpdAGORA2402,C24H35O4,-1,,,0
+3dhadchol[c],"3-dehydro-Allodeoxycholate",cpdAGORA2403,C24H37O4,-1,,,0
+3dhalchol[c],"3-dehydro-Allolithocholate",cpdAGORA2404,C24H37O3,-1,,,0
+3dhcacoa[c],"3-dehydro-Choloyl-CoA",cpdAGORA2405,C45H68N7O20P3S,-4,,,0
+3dhcdcacoa[c],"3-dehydro-Chenodeoxycholoyl-CoA",cpdAGORA2406,C45H68N7O19P3S,-4,,,0
+3dhdchol[c],"3-dehydro-Deoxycholate",cpdAGORA2407,C24H37O4,-1,,,0
+3dhlchol[c],"3-dehydro-Lithocholate",cpdAGORA2408,C24H37O3,-1,,,0
+3dhudcacoa[c],"3-dehydro-Ursodeoxycholoyl-CoA",cpdAGORA2409,C45H68N7O19P3S,-4,,,0
+C02528[c],"chenodeoxycholate",cpdAGORA2410,C24H39O4,-1,C02528,HMDB00518,0
+HC02191[c],"lithocholate",cpdAGORA2411,C24H39O3,-1,C03990,HMDB00761,0
+HC02191[e],"lithocholate",cpdAGORA2412,C24H39O3,-1,C03990,HMDB00761,0
+HC02194[c],"Ursodiol",cpdAGORA2413,C24H39O4,-1,C07880,HMDB00946,0
+HC02194[e],"Ursodiol",cpdAGORA2414,C24H39O4,-1,C07880,HMDB00946,0
+adchac[c],"Allodeoxycholic acid",cpdAGORA2415,C24H39O4,-1,C17687,,0
+adchac[e],"Allodeoxycholic acid",cpdAGORA2416,C24H39O4,-1,C17687,,0
+alchac[c],"Allolithocholic acid",cpdAGORA2417,C24H39O3,-1,,,0
+alchac[e],"Allolithocholic acid",cpdAGORA2418,C24H39O3,-1,,,0
+dchac[c],"deoxycholic acid",cpdAGORA2419,C24H39O4,-1,C04483,HMDB00626,0
+dchac[e],"deoxycholic acid",cpdAGORA2420,C24H39O4,-1,C04483,HMDB00626,0
+dcholcoa[c],"chenodeoxycholoyl coenzyme a",cpdAGORA2421,C45H70N7O19P3S,-4,C05337,HMDB06292,0
+udoholcoa[c],"Ursodeoxycholoyl-CoA",cpdAGORA2422,C45H70N7O19P3S,-4,C17689,,0
+Lcystin[e],"L-cystine",cpdAGORA2423,C6H12N2O4S2,0,C00491,HMDB00192,0
+rbflvrd[e],"Reduced riboflavin",cpdAGORA2424,C17H22N4O6,0,,,0
+phppa[c],"p-hydroxyphenylpropionic acid",cpdAGORA2425,C9H9O3,-1,C01744,,0
+phppa[e],"p-hydroxyphenylpropionic acid",cpdAGORA2426,C9H9O3,-1,C01744,,0
+24pentdcoa[c],"2,4-Pentadienoyl-CoA",cpdAGORA2427,C26H36N7O17P3S,-4,,,0
+2pentcoa[c],"2-pentenoyl-CoA",cpdAGORA2428,C26H38N7O17P3S,-4,,,0
+3hisovalcoa[c],"3-Hydroxyisovaleryl-CoA",cpdAGORA2429,C26H40N7O18P3S,-4,C05998,,0
+3pentcoa[c],"3-pentenoyl-CoA",cpdAGORA2430,C26H38N7O17P3S,-4,,,0
+4pentcoa[c],"4-pentenoyl-CoA",cpdAGORA2431,C26H38N7O17P3S,-4,,,0
+5h2pentcoa[c],"5-Hydroxy-2-pentenoyl-CoA",cpdAGORA2432,C26H38N7O18P3S,-4,,,0
+5hval[c],"5-Hydroxyvalerate,5-Hydroxypentanoate",cpdAGORA2433,C5H9O3,-1,C02804,,0
+5hvalcoa[c],"5-Hydroxyvaleryl-CoA,5-Hydroxypentanoyl-CoA",cpdAGORA2434,C26H40N7O18P3S,-4,C03237,,0
+M02694[c],"Pentanoyl Coenzyme A",cpdAGORA2435,C26H40N7O17P3S,-4,,,0
+M03134[c],"Valeric Acid",cpdAGORA2436,C5H9O2,-1,,,0
+M03134[e],"Valeric Acid",cpdAGORA2437,C5H9O2,-1,,,0
+glctnbp[c],"Galacto-N-biose phosphate",cpdAGORA2438,C14H24NO14P,-2,,,0
+uchol[e],"Ursocholate",cpdAGORA2439,C24H39O5,-1,C17644,HMDB00917,0
+f26bp[c],"beta-D-fructofuranose 2,6-bisphosphate(4-)",cpdAGORA2440,C6H10O12P2,-4,C00665,HMDB01047,0
+lctnbp[c],"Lacto-N-biose phosphate",cpdAGORA2441,C14H24NO14P,-2,,,0
+chsterol[c],"cholesterol",cpdAGORA2442,C27H46O,0,C00187,HMDB00067,0
+chsterol[e],"cholesterol",cpdAGORA2443,C27H46O,0,C00187,HMDB00067,0
+coprost[c],"Coprostanol",cpdAGORA2444,C27H48O,0,,,0
+coprost[e],"Coprostanol",cpdAGORA2445,C27H48O,0,,,0
+ahcys[e],"S-Adenosyl-L-homocysteine",cpdAGORA2446,C14H20N6O5S,0,C00021,HMDB00939,0
+2oxoadp[c],"2-oxoadipate(2-)",cpdAGORA2447,C6H6O5,-2,C00322,HMDB00225,0
+ch4[c],"Methane",cpdAGORA2448,CH4,0,C01438,,0
+ch4[e],"Methane",cpdAGORA2449,CH4,0,C01438,,0
+fald[e],"formaldehyde",cpdAGORA2450,CH2O,0,C00067,HMDB01426,0
+hco3[e],"Bicarbonate",cpdAGORA2451,CHO3,-1,C00288,HMDB00595,0
+xyllac_D[c],"D-Xylonolactone",cpdAGORA2452,C5H8O5,0,,,0
+17ahprgnlone[c],"17alpha-hydroxypregnenolone",cpdAGORA2453,C21H32O3,0,C05138,HMDB00363,0
+17ahprgstrn[c],"17alpha-hydroxyprogesterone",cpdAGORA2454,C21H30O3,0,C01176,HMDB00374,0
+prgnlone[c],"pregnenolone",cpdAGORA2455,C21H32O2,0,C01953,HMDB00253,0
+prgstrn[c],"progesterone",cpdAGORA2456,C21H30O2,0,C00410,HMDB01830,0
+xol7ah[c],"7alpha-hydroxy-5beta-cholestan-3-one",cpdAGORA2457,C27H46O2,0,C05451,HMDB06892,0
+xol7aone[c],"7alpha-hydroxycholest-4-en-3-one",cpdAGORA2458,C27H44O2,0,C05455,HMDB01993,0
+sprm[c],"spermine(4+)",cpdAGORA2459,C10H30N4,4,C00750,HMDB01256,0
+formcoa[c],"formyl-CoA(4-)",cpdAGORA2460,C22H32N7O17P3S,-4,C00798,HMDB03419,0
+oxcoa[c],"oxalyl-CoA",cpdAGORA2461,C23H32N7O19P3S,-4,,,0
+56dihindlcrbxlt[c],"5,6-dihydroxyindole-2-carboxylate",cpdAGORA2462,C9H6NO4,-1,C04185,HMDB01253,0
+L_dpchrm[c],"L-dopachromate",cpdAGORA2463,C9H6NO4,-1,C01693,HMDB01430,0
+h2o2[e],"Hydrogen peroxide",cpdAGORA2464,H2O2,0,C00027,HMDB03125,0
+4fumacac[c],"4-fumarylacetoacetate(2-)",cpdAGORA2465,C8H6O6,-2,C01061,HMDB01268,0
+glac[c],"D-glucurono-6,3-lactone",cpdAGORA2466,C6H8O6,0,C02670,HMDB06355,0
+aadpsae[c],"alpha-Aminoadipoyl-S-acyl enzyme",cpdAGORA2467,C6H9NO3RS,-1,C05535,,0
+hololys2[c],"Holo-Lys2",cpdAGORA2468,HRS,0,,,0
+l2aadipad[c],"L-2-Aminoadipate adenylate",cpdAGORA2469,C16H22N6O10P,-1,C05560,HMDB06941,0
+oaa[e],"Oxaloacetate",cpdAGORA2470,C4H2O5,-2,C00036,HMDB00223,0
+hicit[c],"Homoisocitrate (iMM904)",cpdAGORA2471,C7H7O7,-3,C05662,,0
+oxag[c],"Oxaloglutarate (iMM904)",cpdAGORA2472,C7H5O7,-3,C05533,,0
