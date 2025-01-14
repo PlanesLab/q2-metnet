@@ -10,7 +10,7 @@ Read more about the method in our [paper](https://academic.oup.com/bioinformatic
 ```
 conda env create \
  -n q2-metnet \
- -f https://raw.githubusercontent.com/planesLab/q2-metnet.git/main/environment-files/q2-metnet-qiime2-amplicon-2024.10.yml
+ -f https://raw.githubusercontent.com/PlanesLab/q2-metnet.git/main/environment-files/q2-metnet-qiime2-amplicon-2024.10.yml
 ```
 
 ## Using an existing QIIME2 environment

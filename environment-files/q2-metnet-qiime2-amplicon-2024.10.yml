@@ -7,4 +7,4 @@ dependencies:
   - pip
   - pip:
     - 
-q2-metnet@git+https://github.com/planesLab/q2-metnet.git@
+q2-metnet@git+https://github.com/PlanesLab/q2-metnet.git@
