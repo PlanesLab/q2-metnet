@@ -6,5 +6,4 @@ dependencies:
   - qiime2-amplicon
   - pip
   - pip:
-    - 
-q2-metnet@git+https://github.com/PlanesLab/q2-metnet.git@
+    - q2-metnet@git+https://github.com/PlanesLab/q2-metnet.git@main
