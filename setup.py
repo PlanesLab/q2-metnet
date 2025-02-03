@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 # Setup copied from q2-emperor
 setup(
-    name="metnet",
+    name="q2-metnet",
     version="2023.0.1",
     packages=find_packages(),
     author="Francesco Balzerani, Telmo Blasco, Luis Vitores Valcarcel, Francisco J. Planes",
